@@ -12,7 +12,8 @@
 <!-- Programming Languages -->
 <h3 align="center" id="languages"></h3>
 
-![Damien's github stats](https://github-readme-stats.vercel.app/api?username=altar31&count_private=true&show_icons=true&theme=tokyonight)![Damien's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=altar31&theme=tokyonight&layout=compact&hide=html,plpgsql)](https://github.com/altar31/github-readme-stats)
+|![Damien's github stats](https://github-readme-stats.vercel.app/api?username=altar31&count_private=true&show_icons=true&theme=tokyonight)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=altar31&layout=compact)](https://github.com/anuraghazra/github-readme-stats)|
+|---|---|
 
 
 <p align="center">
