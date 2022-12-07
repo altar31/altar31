@@ -12,8 +12,8 @@
 <!-- Programming Languages -->
 <h3 align="center" id="languages"></h3>
 
-|[![Damien's github stats](https://github-readme-stats.vercel.app/api?username=altar31&show_icons=true&theme=tokyonight&count_private=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
-|---|---|
+![Damien's github stats](https://github-readme-stats.vercel.app/api?username=altar31&count_private=true&show_icons=true&theme=tokyonight)
+
 
 <p align="center">
     <!------>
@@ -45,6 +45,8 @@ My main research interests are :
 * Developement and applications of Deep Learning/Machine Learning algorithms in Material Science
 * Scientific computing => Finite Element Modeling (FEM) of multiphysics magnetodynamics problems (e.g, Induction Heating process)
 * Field Assisted Sintering Process (Powder Metallurgy)
+
+
 
 
 
