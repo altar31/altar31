@@ -6,14 +6,15 @@
 <h2 align="center" id="presentation"> A French <span style="color:#FF3E00;font-weight:bold">scientist </span> / <span style="color:#FF3E00;font-weight:bold"> engineer </span> / self taught <span style="color:#FF3E00;font-weight:bold"> developer </span> </h2>
 
 ![](https://komarev.com/ghpvc/?username=altar31)
-(*since 07/12/2022* )
+(*since 07/12/2022*)
 
 
 <!-- Programming Languages -->
-<h3 align="center" id="languages"></h3>
+<h3 align="center" id="languages">
 
-|![Damien's github stats](https://github-readme-stats.vercel.app/api?username=altar31&count_private=true&show_icons=true&theme=tokyonight)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=altar31&layout=compact)](https://github.com/anuraghazra/github-readme-stats)|
-|---|---|
+![Damien's github stats](https://github-readme-stats.vercel.app/api?username=altar31&count_private=true&show_icons=true&theme=moltack)|<a href="https://github.com/altar31/github-readme-stats">
+</h3>
+
 
 
 <p align="center">
@@ -31,6 +32,7 @@
     <img src="programming/matlab.png" alt="matlab" width="40" height="40"/></a>
     <!------>
 </p>
+
 I am currently finishing my PhD in Physics-Chemistry (defend it in couple of months April-May 2023 🎉) in the lab of  [Prof.Dr Frédéric Bernard](https://icb.u-bourgogne.fr/equipe/frederic-bernard/#carriere) at [Excalibure research center](https://icb.u-bourgogne.fr/en/excalibure-center/) within the [University of Burgundy](https://en.u-bourgogne.fr/) and the Diamond grinding tools company [DIAMATEC](http://www.diamatec.fr/en/).
 
 ## 👨‍🔬 Research 
