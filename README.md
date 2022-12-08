@@ -19,17 +19,17 @@
 
 <p align="center">
     <!------>
-    <a href="https://www.python.org" target="blank" rel="noreferrer">
-    <img src="public/python-logo.svg" alt="python" width="45" height="40"/></a>
-    <!------>
     <a href="https://elixir-lang.org/" target="blank" rel="noreferrer">
-    <img src="public/elixir-logo.png" alt="elixir" width="45" height="40"/></a>
-     <!------>
+    <img src="public/elixir-logo.png" alt="elixir" width="55" height="45"/></a>
+    <!------>
+    <a href="https://www.python.org" target="blank" rel="noreferrer">
+    <img src="public/python-logo.svg" alt="python" width="45" height="45"/></a>
+    <!------>
     <a href="https://www.rust-lang.org/" target="blank" rel="noreferrer">
-    <img src="public/rust-logo.png" alt="matlab" width="45" height="40"/></a>
+    <img src="public/rust-logo.png" alt="matlab" width="55" height="45"/></a>
     <!------>
     <a href="https://isocpp.org/" target="blank" rel="noreferrer">
-    <img src="public/cpp-logo.png" alt="cpp" width="45" height="40"/></a>
+    <img src="public/cpp-logo.png" alt="cpp" width="45" height="45"/></a>
     <!------>
 </p>
 
@@ -56,11 +56,13 @@ My main research interests are :
  <b>Publication History<b> (click to expand)
 </summary>
 <br>
+</details>
 
- 
-<h3 align="center" id="languages">
+</br>
+
+<h2 align="center" id="languages">
 📫 Contact me
-</h3>
+</h2>
 <p align="center">
     <!------>
     <a href="https://www.linkedin.com/in/damien-sicard-7b14a9122/" target="blank" rel="noreferrer">
