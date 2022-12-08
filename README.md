@@ -48,16 +48,25 @@ My main research interests are :
 * Energy and carbon footprint of AI-based systems
 * Field Assisted Sintering Process (Powder Metallurgy)
 
-[This is my ORCID record](https://orcid.org/0000-0003-1579-2859). You can also find me on [researchgate](https://www.researchgate.net/profile/Damien-Sicard)
+
+[You can find my ORCID record](https://orcid.org/0000-0003-1579-2859) and my [researchgate](https://www.researchgate.net/profile/Damien-Sicard)
 
 <details>
 <summary>
- <b>My Publication History<b> (click to expand)
+ <b>Publication History<b> (click to expand)
 </summary>
 <br>
 
-
-
+ 
+<h3 align="center" id="languages">
+📫 Contact me
+</h3>
+<p align="center">
+    <!------>
+    <a href="https://www.linkedin.com/in/damien-sicard-7b14a9122/" target="blank" rel="noreferrer">
+    <img src="public/linkedin-logo.png" alt="linkedin" width="45" height="40"/></a>
+    <!------>
+</p>
 
 <!---
 altar31/altar31 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
