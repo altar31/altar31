@@ -20,16 +20,16 @@
 <p align="center">
     <!------>
     <a href="https://www.python.org" target="blank" rel="noreferrer">
-    <img src="custom/python.svg" alt="python" width="40" height="40"/></a>
+    <img src="public/python-logo.svg" alt="python" width="40" height="40"/></a>
+    <!------>
+    <a href="https://elixir-lang.org/" target="blank" rel="noreferrer">
+    <img src="public/elixir-logo.png" alt="elixir" width="36" height="40"/></a>
+     <!------>
+    <a href="https://www.rust-lang.org/" target="blank" rel="noreferrer">
+    <img src="public/rust-logo.svg" alt="matlab" width="40" height="40"/></a>
     <!------>
     <a href="https://isocpp.org/" target="blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/640px-ISO_C%2B%2B_Logo.svg.png" alt="c plus plus" width="36" height="40"/></a>
-    <!------>
-    <!-- <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="blank" rel="noreferrer">
-    <img src="programming/csharp.svg" alt="csharp" width="40" height="40"/></a> -->
-    <!------>
-    <a href="https://www.mathworks.com/" target="blank" rel="noreferrer">
-    <img src="programming/matlab.png" alt="matlab" width="40" height="40"/></a>
+    <img src="public/cpp-logo.png" alt="cpp" width="40" height="40"/></a>
     <!------>
 </p>
 
