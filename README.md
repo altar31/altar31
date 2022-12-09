@@ -77,10 +77,10 @@ My research activities are at the crossroads of computer science, applied mathem
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... -->
 My main research interests are :
-* Neural Architecture Search and High-performance machine learning 
-* Deep Learning for computer vision with an emphasis on images segmentation applications
-* Energy, carbon footprint and governance of Artificial Intelligence (AI)-based systems
-* Field Assisted Sintering Process (Powder Metallurgy)
+* 🤖 Neural Architecture Search and High-performance machine learning 
+* 👓Deep Learning for computer vision with an emphasis on images segmentation applications
+* ⚡Energy, carbon footprint and governance of Artificial Intelligence (AI)-based systems
+* ⚙️ Field Assisted Sintering Process (Powder Metallurgy)
 
 
 [You can find my ORCID record](https://orcid.org/0000-0003-1579-2859) and my [researchgate](https://www.researchgate.net/profile/Damien-Sicard)
