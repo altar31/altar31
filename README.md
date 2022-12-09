@@ -23,10 +23,10 @@
     <img src="public/elixir-logo.png" alt="elixir" width="55" height="45"/></a>
     <!------>
     <a href="https://www.python.org" target="blank" rel="noreferrer">
-    <img src="public/python-logo.svg" alt="python" width="45" height="45"/></a>
+    <img src="public/python-logo.svg" alt="python" width="40" height="45"/></a>
     <!------>
     <a href="https://www.rust-lang.org/" target="blank" rel="noreferrer">
-    <img src="public/rust-logo.png" alt="matlab" width="55" height="45"/></a>
+    <img src="public/rust-logo.png" alt="matlab" width="" height="45"/></a>
     <!------>
     <a href="https://isocpp.org/" target="blank" rel="noreferrer">
     <img src="public/cpp-logo.png" alt="cpp" width="45" height="45"/></a>
@@ -43,9 +43,9 @@ My research activities are at the crossroads of computer science, applied mathem
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... -->
 My main research interests are :
-* Artifical Intelligence (AI) for computer vision  with an emphasis on images segmentation applications
-* High-performance machine learning ( Neural Architecture Search and XLA compiler for machine learning) 
-* Energy and carbon footprint of AI-based systems
+* Neural Architecture Search and High-performance machine learning 
+* Deep Learning for computer vision with an emphasis on images segmentation applications
+* Energy, carbon footprint and governance of Artificial Intelligence (AI)-based systems
 * Field Assisted Sintering Process (Powder Metallurgy)
 
 
