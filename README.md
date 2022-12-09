@@ -1,9 +1,10 @@
 <!-- # Hello there 👋 -->
 <!-- README Header -->
-<h1 align="center" id="title">👋Hello there, I'm Damien Sicard</h1>
 
 
-<h2 align="center" id="presentation"> A French <span style="color:#FF3E00;font-weight:bold">scientist </span> / <span style="color:#FF3E00;font-weight:bold"> engineer </span> / self taught <span style="color:#FF3E00;font-weight:bold"> developer </span> </h2>
+<img src="public/hello.png" alt="banner that says Sarah hart Landolt - software developer, artist, designer">
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&duration=3500&pause=400&color=239A3B&center=true&width=750&lines=I'm+Damien+Sicard++;A++French+scientist;Engineer+and+self-taught+developer" alt="Typing SVG" /></a>
 
 ![](https://komarev.com/ghpvc/?username=altar31)
 (*since 07/12/2022*)
