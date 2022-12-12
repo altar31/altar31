@@ -70,17 +70,14 @@ I am currently finishing my PhD in Physics-Chemistry (defend it in couple of mon
 
 
 ## 👨‍🔬 Research 
-My research activities are at the crossroads of computer science, applied mathematics and material science. However, thanks to my research journey, i developped a strong interest in Deep Learning/Machine Learning algorithms development for computer vision and data-driven scientific discoveries.
 
-<!-- - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... -->
+Although, i started my research journey in Physics-Chemistry field (Powder metallurgy), i became passionate about Deep Learning/Machine Learning algorithms development for computer vision and data-driven scientific discoveries. Along the way, i developed a strong interest in Artifical General Intelligence (AGI) systems with an emphais on AI-safety, governance  and Human-AI alignement research.
+
 My main research interests are :
 * 🤖 Neural Architecture Search and High-performance machine learning 
 * 👓Deep Learning for computer vision with an emphasis on images segmentation applications
-* ⚡Energy, carbon footprint and governance of Artificial Intelligence (AI)-based systems
-* ⚙️ Field Assisted Sintering Process (Powder Metallurgy)
+* 🤖📋🖋AGI systems and their governance 
+
 
 
 [You can find my ORCID record](https://orcid.org/0000-0003-1579-2859) and my [researchgate](https://www.researchgate.net/profile/Damien-Sicard)
