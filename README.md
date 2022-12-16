@@ -67,11 +67,11 @@ My main research interests are :
 
 ### Miscellaneous AGI research locations (real/virtual)
     
-- [AI alignement forum, an online hub for researchers and curious minds about human values-"intelligent" machine related questions](https://www.alignmentforum.org/)
-- [Center for the governance of IA, ](https://www.governance.ai/)
+- [AI alignement forum]: An online hub for researchers and curious minds about human values/ "intelligent" machines related questions](https://www.alignmentforum.org/)
+- [Center for the governance of IA]: A research center at the crossroad of political science, computer science, economics, law, and philosophy.https://www.governance.ai/)
 - [Machine Intelligence Research Institute](https://intelligence.org/)
-- [Future of Humanity Institute (FHI),a multidisciplinary research institute at the University of Oxford.](https://www.fhi.ox.ac.uk/)
-- [OpenAI an AI research company](https://openai.com/)    
+- [Future of Humanity Institute (FHI)] : A multidisciplinary research institute at the University of Oxford focus on Macrostrategy, AI Safety, AI Governance, and Biosecurity.](https://www.fhi.ox.ac.uk/)
+- [OpenAI an AI research company] : Worldwide known for the development of ChatGPT (https://openai.com/)    
 - [Deepmind an AGI company](https://www.deepmind.com/)
     
     
