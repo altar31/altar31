@@ -63,10 +63,24 @@ My main research interests are :
   
 ### Publication
 
-- <a href="https://doi.org/10.3390/app122412606"><img src="https://img.shields.io/badge/DOI-10.1098%2Frstb.2019.0668-cfd8dc?labelColor=black&style=flat-square" align="right"/></a> **[Deep Learning and Bayesian Hyperparameter Optimization: A Data-Driven Approach for Diamond Grit Segmentation toward Grinding Wheel Characterization (2022)]**
+- <a href="https://doi.org/10.3390/app122412606"><img src="https://img.shields.io/badge/DOI-10.1098%2Frstb.2019.0668-cfd8dc?labelColor=black&style=flat-square" align="right"/></a> [Deep Learning and Bayesian Hyperparameter Optimization: A Data-Driven Approach for Diamond Grit Segmentation toward Grinding Wheel Characterization (2022)](https://www.mdpi.com/2076-3417/12/24/12606)
 
-
-
+### Miscellaneous AGI research locations (real/virtual)
+    
+- [AI alignement forum, an online hub for researchers and curious minds about human values-"intelligent" machine related questions](https://www.alignmentforum.org/)
+- [Center for the governance of IA, ](https://www.governance.ai/)
+- [Machine Intelligence Research Institute](https://intelligence.org/)
+- [Future of Humanity Institute (FHI),a multidisciplinary research institute at the University of Oxford.](https://www.fhi.ox.ac.uk/)
+- [OpenAI an AI research company](https://openai.com/)    
+- [Deepmind an AGI company](https://www.deepmind.com/)
+    
+    
+    
+ ## 💻 Programming
+ - I like programming tools, especially "neovim way" to do things ... (Disclamer: I'm not involved in [editor war](https://en.wikipedia.org/wiki/Editor_war))
+    
+    
+    
 <hr/>
 <div align="center"> 
 
