@@ -5,11 +5,6 @@
 ![Header](./public/header.png)
 
 
-
-
-
-
-
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&duration=3500&pause=400&color=239A3B&center=true&width=750&lines=I'm+Damien+Sicard++;A++French+scientist;Engineer+and+self-taught+developer" alt="Typing SVG" /></a>
 
 <p align="center">
@@ -52,24 +47,10 @@
 I am currently finishing my PhD in Physics-Chemistry (defend it in couple of months April-May 2023 🎉) in the lab of  [Prof.Dr Frédéric Bernard](https://icb.u-bourgogne.fr/equipe/frederic-bernard/#carriere) at [Excalibure research center](https://icb.u-bourgogne.fr/en/excalibure-center/) within the [University of Burgundy](https://en.u-bourgogne.fr/) and the company [DIAMATEC](http://www.diamatec.fr/en/).
 </div>
 
-
-
-
-
-
-
-
-
-
-
 <hr/>
 
 
-
-
-
-
-## 👨‍🔬 Research 
+## 👨‍🔬 Science
 
 Although, i started my research journey in Physics-Chemistry field (Powder metallurgy), i became passionate about Deep Learning/Machine Learning algorithms development for computer vision and data-driven scientific discoveries. Along the way, i developed a strong interest in Artifical General Intelligence (AGI) systems with an emphais on AI-safety, governance  and Human-AI alignement research.
 
@@ -78,18 +59,11 @@ My main research interests are :
 * 👓Deep Learning for computer vision with an emphasis on images segmentation applications
 * 🤖📋🖋AGI systems and their governance 
 
-
-
 [You can find my ORCID record](https://orcid.org/0000-0003-1579-2859) and my [researchgate](https://www.researchgate.net/profile/Damien-Sicard)
+  
+### Publication
 
-<details>
-<summary>
- <b>Publication History<b> (click to expand)
-</summary>
-<br>
-</details>
-
-</br>
+- <a href="https://doi.org/10.3390/app122412606"><img src="https://img.shields.io/badge/DOI-10.1098%2Frstb.2019.0668-cfd8dc?labelColor=black&style=flat-square" align="right"/></a> **[Deep Learning and Bayesian Hyperparameter Optimization: A Data-Driven Approach for Diamond Grit Segmentation toward Grinding Wheel Characterization (2022)]**
 
 
 
