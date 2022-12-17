@@ -70,8 +70,8 @@ My main research interests are :
 ### Deep Learning for computer vision 
 - <a href="https://doi.org/10.1080/08839514.2022.2032924"><img src="https://img.shields.io/badge/DOI-10.1098%2Frstb.2019.0668-cfd8dc?labelColor=black&style=flat-square" align="right"/></a> [A Survey on Deep Learning-based Architectures for Semantic Segmentation on 2D Images (2021)](https://www.tandfonline.com/doi/full/10.1080/08839514.2022.2032924)
 - <a href="https://doi.org/10.48550/arXiv.2001.05566"><img src="https://img.shields.io/badge/DOI-10.1098%2Frstb.2019.0668-cfd8dc?labelColor=black&style=flat-square" align="right"/></a> [Image Segmentation Using Deep Learning: A Survey (2020)](https://arxiv.org/abs/2001.05566)
--<a href="https://doi.org/10.1155/2018/7068349"><img src="https://img.shields.io/badge/DOI-10.1098%2Frstb.2019.0668-cfd8dc?labelColor=black&style=flat-square" align="right"/></a> [Deep Learning for Computer Vision: A Brief Review (2018)](https://www.hindawi.com/journals/cin/2018/7068349/)
-
+- <a href="https://doi.org/10.1155/2018/7068349"><img src="https://img.shields.io/badge/DOI-10.1098%2Frstb.2019.0668-cfd8dc?labelColor=black&style=flat-square" align="right"/></a> [Deep Learning for Computer Vision: A Brief Review (2018)](https://www.hindawi.com/journals/cin/2018/7068349/)
+- <a href="https://doi.org/10.48550/arXiv.1910.13796"><img src="https://img.shields.io/badge/DOI-10.1098%2Frstb.2019.0668-cfd8dc?labelColor=black&style=flat-square" align="right"/></a> [Deep Learning vs. Traditional Computer Vision (2019)](https://arxiv.org/abs/1910.13796)
 
 ### Miscellaneous AGI research places
     
