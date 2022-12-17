@@ -62,17 +62,19 @@ My main research interests are :
 ### Selected Neural Architecture references 
 - <a href="https://doi.org/10.48550/arXiv.2208.09665"><img src="https://img.shields.io/badge/DOI-10.1098%2Frstb.2019.0668-cfd8dc?labelColor=black&style=flat-square" align="right"/></a> [Visual Analysis of Neural Architecture Spaces for Summarizing Design Principles (2022)](https://arxiv.org/abs/2208.09665)
 - <a href="https://doi.org/10.48550/arXiv.2006.02903"><img src="https://img.shields.io/badge/DOI-10.1098%2Frstb.2019.0668-cfd8dc?labelColor=black&style=flat-square" align="right"/></a> [A Comprehensive Survey of Neural Architecture Search: Challenges and Solutions (2020)](https://arxiv.org/abs/2006.02903)
+- <a href="https://doi.org/10.48550/arXiv.2008.01475"><img src="https://img.shields.io/badge/DOI-10.1098%2Frstb.2019.0668-cfd8dc?labelColor=black&style=flat-square" align="right"/></a> [Weight-Sharing Neural Architecture Search: A Battle to Shrink the Optimization Gap (2020)](https://arxiv.org/abs/2008.01475)
+- <a href="https://doi.org/10.48550/arXiv.1611.01578"><img src="https://img.shields.io/badge/DOI-10.1098%2Frstb.2019.0668-cfd8dc?labelColor=black&style=flat-square" align="right"/></a> [Neural Architecture Search with Reinforcement Learning (2016)](https://arxiv.org/abs/1611.01578)
 
     
 
-### Miscellaneous AGI research locations (real/virtual)
+### Miscellaneous AGI research places(real/virtual)
     
 - [AI alignement forum](https://www.alignmentforum.org/): An online hub for researchers and curious minds about human values/ "intelligent" machines related questions]
 - [Center for the governance of IA](https://www.governance.ai/): A research center at the crossroad of political science, computer science, economics, law, and philosophy.
 - [Machine Intelligence Research Institute](https://intelligence.org/)
 - [Future of Humanity Institute (FHI)](https://www.fhi.ox.ac.uk/): A multidisciplinary research institute at the University of Oxford focus on Macrostrategy, AI Safety, AI Governance, and Biosecurity.]
 - [OpenAI an AI research company](https://openai.com/): Worldwide known for the development of ChatGPT  
-- [Deepmind an AGI company](https://www.deepmind.com/)
+- [Deepmind](https://www.deepmind.com/): An AGI company
     
     
     
