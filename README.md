@@ -26,9 +26,6 @@
     <a href="https://www.rust-lang.org/" target="blank" rel="noreferrer">
     <img src="public/rust-logo.png" alt="matlab" width="" height="45"/></a>
     <!------>
-    <a href="https://isocpp.org/" target="blank" rel="noreferrer">
-    <img src="public/cpp-logo.png" alt="cpp" width="45" height="45"/></a>
-    <!------>
 </p>
 <hr/>
 
@@ -93,8 +90,8 @@ This is a **non-exhaustive** list of scientific papers about my research interes
     
  ## 💻 Programming
  - I like programming tools, especially ["neovim way"](https://neovim.io/) to do things ... (Disclamer: I'm not involved in [editor war](https://en.wikipedia.org/wiki/Editor_war)).
- - I use extansively [Python](https://www.python.org/) programming language and [OOP](https://en.wikipedia.org/wiki/Object-oriented_programming) paradigm in my research.
- - I currently learning [git](https://git-scm.com/) and how to effectively [contribute to open source](https://github.com/freeCodeCamp/how-to-contribute-to-open-source) projects.
+ - I extansively use [Python](https://www.python.org/), [Rust](https://www.rust-lang.org/) programming languages and [OOP](https://en.wikipedia.org/wiki/Object-oriented_programming) paradigm in my research.
+ - I currently learn [git](https://git-scm.com/) and how effectively [contribute to open source](https://github.com/freeCodeCamp/how-to-contribute-to-open-source) projects.
  - Recently, I give a try to the [functional paradigm](https://en.wikipedia.org/wiki/Functional_programming) (Haskell, Ocaml, Elixir) and it was definitively fun !
     
     
