@@ -1,11 +1,5 @@
-<!-- # Hello there 👋 -->
-<!-- README Header -->
 
-
-![Header](./public/header.png)
-
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&duration=3500&pause=400&color=239A3B&center=true&width=750&lines=I'm+Damien+Sicard++;A++French+scientist;Engineer+and+self-taught+developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&duration=3500&pause=400&color=239A3B&center=true&width=750&lines=Hello there !++;I'm+Damien+Sicard++;A++French+scientist;Engineer+and+self-taught+developer" alt="Typing SVG" /></a>
 
 <p align="center">
     <!------>
@@ -66,7 +60,9 @@ My main research interests are :
 - <a href="https://doi.org/10.3390/app122412606"><img src="https://img.shields.io/badge/DOI-10.1098%2Frstb.2019.0668-cfd8dc?labelColor=black&style=flat-square" align="right"/></a> [Deep Learning and Bayesian Hyperparameter Optimization: A Data-Driven Approach for Diamond Grit Segmentation toward Grinding Wheel Characterization (2022)](https://www.mdpi.com/2076-3417/12/24/12606)
     
 ### Selected Neural Architecture references 
+- <a href="https://doi.org/10.48550/arXiv.2208.09665"><img src="https://img.shields.io/badge/DOI-10.1098%2Frstb.2019.0668-cfd8dc?labelColor=black&style=flat-square" align="right"/></a> [Visual Analysis of Neural Architecture Spaces for Summarizing Design Principles (2022)](https://arxiv.org/abs/2208.09665)
 - <a href="https://doi.org/10.48550/arXiv.2006.02903"><img src="https://img.shields.io/badge/DOI-10.1098%2Frstb.2019.0668-cfd8dc?labelColor=black&style=flat-square" align="right"/></a> [A Comprehensive Survey of Neural Architecture Search: Challenges and Solutions (2020)](https://arxiv.org/abs/2006.02903)
+
     
 
 ### Miscellaneous AGI research locations (real/virtual)
