@@ -55,7 +55,7 @@ My main research interests are :
   
 ### My Publication
 
-- <a href="https://doi.org/10.3390/app122412606"><img src="https://img.shields.io/badge/DOI-10.1098%2Frstb.2019.0668-cfd8dc?labelColor=black&style=flat-square" align="right"/></a> [Deep Learning and Bayesian Hyperparameter Optimization: A Data-Driven Approach for Diamond Grit Segmentation toward Grinding Wheel Characterization (2022)](https://www.mdpi.com/2076-3417/12/24/12606)
+- <a href="https://doi.org/10.3390/app122412606"><img src="https://img.shields.io/badge/DOI-10.1098%2/2022?labelColor=black&style=flat-square" align="right"/></a> [Deep Learning and Bayesian Hyperparameter Optimization: A Data-Driven Approach for Diamond Grit Segmentation toward Grinding Wheel Characterization (2022)](https://www.mdpi.com/2076-3417/12/24/12606)
 
 ### Selected references
 This is a **non-exhaustive** list of scientific papers about my research interests mostly in **open-access**. 
