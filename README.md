@@ -83,8 +83,8 @@ This is a **non-exhaustive** list of scientific papers about my research interes
 - [Center for the governance of IA](https://www.governance.ai/): A research center at the crossroad of political science, computer science, economics, law, and philosophy.
 - [Machine Intelligence Research Institute](https://intelligence.org/)
 - [Future of Humanity Institute (FHI)](https://www.fhi.ox.ac.uk/): A multidisciplinary research institute at the University of Oxford focus on Macrostrategy, AI Safety, AI Governance, and Biosecurity.
-- [OpenAI an AI research company](https://openai.com/): Worldwide known for the development of ChatGPT. 
-- [Deepmind](https://www.deepmind.com/): An AGI company.
+- [OpenAI ](https://openai.com/): An AGI research company, worldwide known for the development of ChatGPT. 
+- [Deepmind](https://www.deepmind.com/): Another important AGI research company.
     
  <hr/>  
     
