@@ -41,7 +41,7 @@ I am currently finishing my PhD in Physics-Chemistry (defend it in couple of mon
 
 ## 👨‍🔬 Science
 
-Although, I started my research journey in Physics-Chemistry field (Powder metallurgy), I became passionate about Deep Learning/Machine Learning algorithms development for computer vision and data-driven scientific discoveries. Along the way, I also developed an interest in Artificial General Intelligence (AGI) systems with an emphasis on AI-safety, governance and Human-AI alignment research. Finally, i'm an [open-science](https://elifesciences.org/articles/16800) advocate !
+Although, I started my research journey in Physics-Chemistry field (Powder metallurgy), I became passionate about **Deep Learning/Machine Learning algorithms** development for **computer vision** and **data-driven scientific discoveries**. Along the way, I also developed an interest in **Artificial General Intelligence** (AGI) systems with an emphasis on AI-safety, governance and Human-AI alignment research. Finally, i'm an [open-science](https://elifesciences.org/articles/16800) advocate !
 
 My main research interests are :
 * 🤖 Neural Architecture Search and High-performance machine learning 
