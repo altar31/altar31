@@ -46,7 +46,7 @@ I am currently finishing my PhD in Physics-Chemistry (defend it in couple of mon
 
 ## 👨‍🔬 Science
 
-Although, I started my research journey in Physics-Chemistry field (Powder metallurgy), I became passionate about Deep Learning/Machine Learning algorithms development for computer vision and data-driven scientific discoveries. Along the way, I also developed an interest in Artificial General Intelligence (AGI) systems with an emphasis on AI-safety, governance and Human-AI alignment research.
+Although, I started my research journey in Physics-Chemistry field (Powder metallurgy), I became passionate about Deep Learning/Machine Learning algorithms development for computer vision and data-driven scientific discoveries. Along the way, I also developed an interest in Artificial General Intelligence (AGI) systems with an emphasis on AI-safety, governance and Human-AI alignment research. Finally, i'm an [open-science] (https://doi.org/10.7554/eLife.16800) advocate !
 
 My main research interests are :
 * 🤖 Neural Architecture Search and High-performance machine learning 
@@ -76,9 +76,10 @@ This is a **non-exhaustive** list of scientific papers about my research interes
 
 ### Artificial General Intelligence (AGI)
 - <a href="https://doi.org/10.1080/14494035.2021.1928377"><img src="https://img.shields.io/badge/DOI-10.1098%2Frstb.2019.0668-cfd8dc?labelColor=black&style=flat-square" align="right"/></a> [Governance of artificial intelligence (2021)](https://www.tandfonline.com/doi/full/10.1080/14494035.2021.1928377)
+- <a href="https://doi.org/10.48550/arXiv.2001.09768"><img src="https://img.shields.io/badge/DOI-10.1098%2Frstb.2019.0668-cfd8dc?labelColor=black&style=flat-square" align="right"/></a> [Artificial Intelligence, Values and Alignment (2020)](https://arxiv.org/abs/2001.09768)
+ - <a href="https://doi.org/10.48550/arXiv.1705.08807"><img src="https://img.shields.io/badge/DOI-10.1098%2Frstb.2019.0668-cfd8dc?labelColor=black&style=flat-square" align="right"/></a> [When Will AI Exceed Human Performance? Evidence from AI Experts (2017)](https://arxiv.org/abs/1705.08807)
 - <a href="https://doi.org/10.2478/jagi-2014-0001"><img src="https://img.shields.io/badge/DOI-10.1098%2Frstb.2019.0668-cfd8dc?labelColor=black&style=flat-square" align="right"/></a> [Artificial General Intelligence: Concept, State of the Art, and Future Prospects (2014)](https://sciendo.com/article/10.2478/jagi-2014-0001)
-    
-    
+- <a href="https://doi.org/10.48550/arXiv.0712.3329"><img src="https://img.shields.io/badge/DOI-10.1098%2Frstb.2019.0668-cfd8dc?labelColor=black&style=flat-square" align="right"/></a> [Universal Intelligence: A Definition of Machine Intelligence (2007)](https://arxiv.org/abs/0712.3329v1?utm_source=ground.news&utm_medium=referral)
     
     
 ### Miscellaneous AGI research places
