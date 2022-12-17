@@ -55,7 +55,7 @@ My main research interests are :
 - <a href="https://doi.org/10.3390/app122412606"><img src="https://img.shields.io/badge/DOI-10.3390%2Fapp122412606-cfd8dc?labelColor=black&style=flat-square" align="right"/></a> [Deep Learning and Bayesian Hyperparameter Optimization: A Data-Driven Approach for Diamond Grit Segmentation toward Grinding Wheel Characterization (2022)](https://www.mdpi.com/2076-3417/12/24/12606)
 
 ### Selected references
-This is a **non-exhaustive** list of scientific papers about my research interests mostly in **open-access**. 
+This is a **non-exhaustive** list of scientific papers about my research interests in **open-access**. 
 
 ### Neural Architecture Search 
 - <a href="https://doi.org/10.48550/arXiv.2208.09665"><img src="https://img.shields.io/badge/arXiv-2208.09665-cfd8dc?labelColor=black&style=flat-square" align="right"/></a> [Visual Analysis of Neural Architecture Spaces for Summarizing Design Principles (2022)](https://arxiv.org/abs/2208.09665)
