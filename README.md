@@ -76,24 +76,26 @@ This is a **non-exhaustive** list of scientific papers about my research interes
 - <a href="https://doi.org/10.1080/14494035.2021.1928377"><img src="https://img.shields.io/badge/DOI-10.1080%2F14494035.2021.1928377-cfd8dc?labelColor=black&style=flat-square" align="right"/></a> [Governance of artificial intelligence (2021)](https://www.tandfonline.com/doi/full/10.1080/14494035.2021.1928377)
 - <a href="https://doi.org/10.48550/arXiv.2001.09768"><img src="https://img.shields.io/badge/arXiv-2011.09534-cfd8dc?labelColor=black&style=flat-square" align="right"/></a> [Artificial Intelligence, Values and Alignment (2020)](https://arxiv.org/abs/2001.09768)
  - <a href="https://doi.org/10.48550/arXiv.1705.08807"><img src="https://img.shields.io/badge/arXiv-2011.09534-cfd8dc?labelColor=black&style=flat-square" align="right"/></a> [When Will AI Exceed Human Performance? Evidence from AI Experts (2017)](https://arxiv.org/abs/1705.08807)
-- <a href="https://doi.org/10.2478/jagi-2014-0001"><img src="https://img.shields.io/badge/DOI-10.2478%2Fjagi-2014-0001-cfd8dc?labelColor=black&style=flat-square" align="right"/></a> [Artificial General Intelligence: Concept, State of the Art, and Future Prospects (2014)](https://sciendo.com/article/10.2478/jagi-2014-0001)
+- <a href="https://doi.org/10.2478/jagi-2014-0001"><img src="https://img.shields.io/badge/DOI-10.2478%2Fjagi.2014.0001-cfd8dc?labelColor=black&style=flat-square" align="right"/></a> [Artificial General Intelligence: Concept, State of the Art, and Future Prospects (2014)](https://sciendo.com/article/10.2478/jagi-2014-0001)
 - <a href="https://doi.org/10.48550/arXiv.0712.3329"><img src="https://img.shields.io/badge/arXiv-2011.09534-cfd8dc?labelColor=black&style=flat-square" align="right"/></a> [Universal Intelligence: A Definition of Machine Intelligence (2007)](https://arxiv.org/abs/0712.3329v1?utm_source=ground.news&utm_medium=referral)
     
     
 ### Miscellaneous AGI research places
     
-- [AI alignement forum](https://www.alignmentforum.org/): An online hub for researchers and curious minds about human values/ "intelligent" machines related questions]
+- [AI alignement forum](https://www.alignmentforum.org/): An online hub for researchers and curious minds about Human values and "intelligent" machines related questions.
 - [Center for the governance of IA](https://www.governance.ai/): A research center at the crossroad of political science, computer science, economics, law, and philosophy.
 - [Machine Intelligence Research Institute](https://intelligence.org/)
-- [Future of Humanity Institute (FHI)](https://www.fhi.ox.ac.uk/): A multidisciplinary research institute at the University of Oxford focus on Macrostrategy, AI Safety, AI Governance, and Biosecurity.]
-- [OpenAI an AI research company](https://openai.com/): Worldwide known for the development of ChatGPT  
-- [Deepmind](https://www.deepmind.com/): An AGI company
+- [Future of Humanity Institute (FHI)](https://www.fhi.ox.ac.uk/): A multidisciplinary research institute at the University of Oxford focus on Macrostrategy, AI Safety, AI Governance, and Biosecurity.
+- [OpenAI an AI research company](https://openai.com/): Worldwide known for the development of ChatGPT. 
+- [Deepmind](https://www.deepmind.com/): An AGI company.
     
  <hr/>  
     
  ## 💻 Programming
- - I like programming tools, especially "neovim way" to do things ... (Disclamer: I'm not involved in [editor war](https://en.wikipedia.org/wiki/Editor_war))
-    
+ - I like programming tools, especially ["neovim way"](https://neovim.io/) to do things ... (Disclamer: I'm not involved in [editor war](https://en.wikipedia.org/wiki/Editor_war)).
+ - I use extansively [Python](https://www.python.org/) programming language and [OOP](https://en.wikipedia.org/wiki/Object-oriented_programming) paradigm in my research.
+ - I currently learning [git](https://git-scm.com/) and how to effectively [contribute to open source](https://github.com/freeCodeCamp/how-to-contribute-to-open-source) projects.
+ - Recently, I give a try to the [functional paradigm](https://en.wikipedia.org/wiki/Functional_programming) (Haskell, Ocaml, Elixir) and it was definitively fun !
     
     
 <hr/>
