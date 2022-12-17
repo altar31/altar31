@@ -63,7 +63,7 @@ My main research interests are :
 This is a **non-exhaustive** list of scientific papers about my research interests mostly in **open-access**. 
 
 ### Neural Architecture Search 
-- <a href="https://doi.org/10.48550/arXiv.2208.09665"><img src="https://img.shields.io/badge/DOI-10.1098%2Frstb.2019.0668-cfd8dc?labelColor=black&style=flat-square" align="right"/></a> [Visual Analysis of Neural Architecture Spaces for Summarizing Design Principles (2022)](https://arxiv.org/abs/2208.09665)
+- <a href="https://doi.org/10.48550/arXiv.2208.09665"><img src="https://img.shields.io/badge/arXiv-2011.09534-cfd8dc?labelColor=black&style=flat-square" align="right"/></a> [Visual Analysis of Neural Architecture Spaces for Summarizing Design Principles (2022)](https://arxiv.org/abs/2208.09665)
 - <a href="https://doi.org/10.48550/arXiv.2006.02903"><img src="https://img.shields.io/badge/DOI-10.1098%2Frstb.2019.0668-cfd8dc?labelColor=black&style=flat-square" align="right"/></a> [A Comprehensive Survey of Neural Architecture Search: Challenges and Solutions (2020)](https://arxiv.org/abs/2006.02903)
 - <a href="https://doi.org/10.48550/arXiv.2008.01475"><img src="https://img.shields.io/badge/DOI-10.1098%2Frstb.2019.0668-cfd8dc?labelColor=black&style=flat-square" align="right"/></a> [Weight-Sharing Neural Architecture Search: A Battle to Shrink the Optimization Gap (2020)](https://arxiv.org/abs/2008.01475)
 - <a href="https://doi.org/10.48550/arXiv.1611.01578"><img src="https://img.shields.io/badge/DOI-10.1098%2Frstb.2019.0668-cfd8dc?labelColor=black&style=flat-square" align="right"/></a> [Neural Architecture Search with Reinforcement Learning (2016)](https://arxiv.org/abs/1611.01578)
