@@ -55,19 +55,21 @@ My main research interests are :
 
 [You can find my ORCID record](https://orcid.org/0000-0003-1579-2859) and my [researchgate](https://www.researchgate.net/profile/Damien-Sicard)
   
-### Publication
+### My Publication
 
 - <a href="https://doi.org/10.3390/app122412606"><img src="https://img.shields.io/badge/DOI-10.1098%2Frstb.2019.0668-cfd8dc?labelColor=black&style=flat-square" align="right"/></a> [Deep Learning and Bayesian Hyperparameter Optimization: A Data-Driven Approach for Diamond Grit Segmentation toward Grinding Wheel Characterization (2022)](https://www.mdpi.com/2076-3417/12/24/12606)
     
-### Selected Neural Architecture references 
+### Selected Neural Architecture Search references 
 - <a href="https://doi.org/10.48550/arXiv.2208.09665"><img src="https://img.shields.io/badge/DOI-10.1098%2Frstb.2019.0668-cfd8dc?labelColor=black&style=flat-square" align="right"/></a> [Visual Analysis of Neural Architecture Spaces for Summarizing Design Principles (2022)](https://arxiv.org/abs/2208.09665)
 - <a href="https://doi.org/10.48550/arXiv.2006.02903"><img src="https://img.shields.io/badge/DOI-10.1098%2Frstb.2019.0668-cfd8dc?labelColor=black&style=flat-square" align="right"/></a> [A Comprehensive Survey of Neural Architecture Search: Challenges and Solutions (2020)](https://arxiv.org/abs/2006.02903)
 - <a href="https://doi.org/10.48550/arXiv.2008.01475"><img src="https://img.shields.io/badge/DOI-10.1098%2Frstb.2019.0668-cfd8dc?labelColor=black&style=flat-square" align="right"/></a> [Weight-Sharing Neural Architecture Search: A Battle to Shrink the Optimization Gap (2020)](https://arxiv.org/abs/2008.01475)
 - <a href="https://doi.org/10.48550/arXiv.1611.01578"><img src="https://img.shields.io/badge/DOI-10.1098%2Frstb.2019.0668-cfd8dc?labelColor=black&style=flat-square" align="right"/></a> [Neural Architecture Search with Reinforcement Learning (2016)](https://arxiv.org/abs/1611.01578)
 
+### Deep Learning for computer vision (focus on images segmentation)
+- <a href="https://doi.org/10.1080/08839514.2022.2032924"><img src="https://img.shields.io/badge/DOI-10.1098%2Frstb.2019.0668-cfd8dc?labelColor=black&style=flat-square" align="right"/></a> [A Survey on Deep Learning-based Architectures for Semantic Segmentation on 2D Images (2021)](https://www.tandfonline.com/doi/full/10.1080/08839514.2022.2032924)
     
 
-### Miscellaneous AGI research places(real/virtual)
+### Miscellaneous AGI research places
     
 - [AI alignement forum](https://www.alignmentforum.org/): An online hub for researchers and curious minds about human values/ "intelligent" machines related questions]
 - [Center for the governance of IA](https://www.governance.ai/): A research center at the crossroad of political science, computer science, economics, law, and philosophy.
