@@ -52,7 +52,7 @@ I am currently finishing my PhD in Physics-Chemistry (defend it in couple of mon
 
 ## 👨‍🔬 Science
 
-Although, i started my research journey in Physics-Chemistry field (Powder metallurgy), i became passionate about Deep Learning/Machine Learning algorithms development for computer vision and data-driven scientific discoveries. Along the way, i developed a strong interest in Artifical General Intelligence (AGI) systems with an emphais on AI-safety, governance  and Human-AI alignement research.
+Although, I started my research journey in Physics-Chemistry field (Powder metallurgy), I became passionate about Deep Learning/Machine Learning algorithms development for computer vision and data-driven scientific discoveries. Along the way, I also developed an interest in Artificial General Intelligence (AGI) systems with an emphasis on AI-safety, governance and Human-AI alignment research.
 
 My main research interests are :
 * 🤖 Neural Architecture Search and High-performance machine learning 
@@ -64,6 +64,10 @@ My main research interests are :
 ### Publication
 
 - <a href="https://doi.org/10.3390/app122412606"><img src="https://img.shields.io/badge/DOI-10.1098%2Frstb.2019.0668-cfd8dc?labelColor=black&style=flat-square" align="right"/></a> [Deep Learning and Bayesian Hyperparameter Optimization: A Data-Driven Approach for Diamond Grit Segmentation toward Grinding Wheel Characterization (2022)](https://www.mdpi.com/2076-3417/12/24/12606)
+    
+### Selected Neural Architecture references 
+- <a href="https://doi.org/10.48550/arXiv.2006.02903"><img src="https://img.shields.io/badge/DOI-10.1098%2Frstb.2019.0668-cfd8dc?labelColor=black&style=flat-square" align="right"/></a> [A Comprehensive Survey of Neural Architecture Search: Challenges and Solutions (2020)](https://arxiv.org/abs/2006.02903)
+    
 
 ### Miscellaneous AGI research locations (real/virtual)
     
