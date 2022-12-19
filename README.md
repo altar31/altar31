@@ -2,10 +2,14 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&duration=3500&pause=400&color=239A3B&center=true&width=750&lines=Hello there !++;I'm+Damien+Sicard++;A++French+scientist;Engineer+and+self-taught+developer" alt="Typing SVG" /></a>
 </div>
 
+<hr/>
+## 📫 You can find me 
 <p align="center">
     <!------>
     <a href="https://www.linkedin.com/in/damien-sicard-7b14a9122/" target="blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+    <!------>
+    [![Gmail Badge](https://img.shields.io/badge/-sicard.research@gmail.com-c14438?style=flat-                square&logo=Gmail&logoColor=white&link=mailto:sicard.research@gmail.com](mailto:sicard.research@gmail.com)
     <!------>
     <a href="https://orcid.org/0000-0003-1579-2859" target="blank" rel="noreferrer">
     <img src="public\ORCID-green.svg" alt="ORCID" width="65" /></a>
@@ -13,6 +17,8 @@
     <a href="https://www.researchgate.net/profile/Damien-Sicard" target="blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white" alt="researchgate" /></a>
 </p>
+<hr/>
+
 <!-- Programming Languages -->
 <h3 align="center" id="languages">
 
@@ -95,15 +101,12 @@ This is a **non-exhaustive** list of scientific papers about my research interes
  - Recently, I give a try to the [functional paradigm](https://en.wikipedia.org/wiki/Functional_programming) (Haskell, Ocaml, Elixir) and it was definitively fun !
     
     
-<hr/>
-<div align="center"> 
 
-![](https://komarev.com/ghpvc/?username=altar31)
-(*since 07/12/2022*)
 
-</div>
+<p align="center"> 
+  Visitors count<br>
+  <img src="https://profile-counter.glitch.me/altar31/count.svg" />
+</p>
 
-<!---
-altar31/altar31 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img src="stats.gif" width="90%"><br/><br/>
+
