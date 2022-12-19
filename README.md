@@ -2,10 +2,9 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&duration=3500&pause=400&color=239A3B&center=true&width=750&lines=Hello there !++;I'm+Damien+Sicard++;A++French+scientist;Engineer+and+self-taught+developer" alt="Typing SVG" /></a>
 </div>
 
-<hr/>
 
+<h2 align="center"> 📫 You can find me <h2/>
 <p align="center">
-    <h2 align="center"> 📫 You can find me <h2/>
     <!------>
     <a href="https://www.linkedin.com/in/damien-sicard-7b14a9122/" target="blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a> 
