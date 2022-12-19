@@ -15,7 +15,7 @@
     <a href="https://www.researchgate.net/profile/Damien-Sicard" target="blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white" alt="researchgate" /></a>
 </p>
-<hr/>
+
 
 <!-- Programming Languages -->
 <h3 align="center" id="languages">
@@ -34,7 +34,7 @@
     <img src="public/cpp-logo.png" alt="cpp" width="" height="45"/></a>
     <!------>
 </p>
-<
+
 
 <div align="left">
 
@@ -102,8 +102,6 @@ This is a **non-exhaustive** list of scientific papers about my research interes
  - Recently, I give a try to the [functional paradigm](https://en.wikipedia.org/wiki/Functional_programming) (Haskell, Ocaml, Elixir) and it was definitively fun !
     
     
-
-
 <p align="center"> 
   Visitors count<br>
   <img src="https://profile-counter.glitch.me/altar31/count.svg" />
