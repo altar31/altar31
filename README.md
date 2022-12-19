@@ -7,9 +7,7 @@
 <p align="center">
     <!------>
     <a href="https://www.linkedin.com/in/damien-sicard-7b14a9122/" target="blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
-    <!------>
-    [![Gmail Badge](https://img.shields.io/badge/-sicard.research@gmail.com-c14438?style=flat-                square&logo=Gmail&logoColor=white&link=mailto:sicard.research@gmail.com](mailto:sicard.research@gmail.com)
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a> 
     <!------>
     <a href="https://orcid.org/0000-0003-1579-2859" target="blank" rel="noreferrer">
     <img src="public\ORCID-green.svg" alt="ORCID" width="65" /></a>
