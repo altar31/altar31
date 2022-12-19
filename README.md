@@ -9,6 +9,9 @@
     <a href="https://www.linkedin.com/in/damien-sicard-7b14a9122/" target="blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a> 
     <!------>
+    <a href="mailto:sicard.research@gmail.com" target="blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-sicard.research@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=sicard.research@gmail.com)" alt="linkedin" alt="ORCID" height="28" /></a> 
+    <!------>
     <a href="https://orcid.org/0000-0003-1579-2859" target="blank" rel="noreferrer">
     <img src="public\ORCID-green.svg" alt="ORCID" width="65" /></a>
     <!------>
@@ -40,7 +43,7 @@
 
 <h2> About me </h2>
 
-I am currently finishing my PhD in Physics-Chemistry (defend it in couple of months April-May 2023 🎉) in the lab of  [Prof.Dr Frédéric Bernard](https://icb.u-bourgogne.fr/equipe/frederic-bernard/#carriere) at [Excalibure research center](https://icb.u-bourgogne.fr/en/excalibure-center/) within the [University of Burgundy](https://en.u-bourgogne.fr/) and the company [DIAMATEC](http://www.diamatec.fr/en/).
+I am currently finishing my PhD in Physics-Chemistry (trying to defend it in couple of months April-May 2023 🎉) in the lab of  [Prof.Dr Frédéric Bernard](https://icb.u-bourgogne.fr/equipe/frederic-bernard/#carriere) at [Excalibure research center](https://icb.u-bourgogne.fr/en/excalibure-center/) within the [University of Burgundy](https://en.u-bourgogne.fr/) and the company [DIAMATEC](http://www.diamatec.fr/en/).
 </div>
 
 
