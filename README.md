@@ -28,10 +28,13 @@
     <img src="public/python-logo.svg" alt="python" width="40" height="45"/></a>
     <!------>
     <a href="https://www.rust-lang.org/" target="blank" rel="noreferrer">
-    <img src="public/rust-logo.png" alt="matlab" width="" height="45"/></a>
+    <img src="public/rust-logo.png" alt="rust" width="" height="45"/></a>
+    <!------>
+    <a href="https://isocpp.org/" target="blank" rel="noreferrer">
+    <img src="public/cpp-logo.png" alt="cpp" width="" height="45"/></a>
     <!------>
 </p>
-<hr/>
+<
 
 <div align="left">
 
@@ -40,7 +43,7 @@
 I am currently finishing my PhD in Physics-Chemistry (defend it in couple of months April-May 2023 🎉) in the lab of  [Prof.Dr Frédéric Bernard](https://icb.u-bourgogne.fr/equipe/frederic-bernard/#carriere) at [Excalibure research center](https://icb.u-bourgogne.fr/en/excalibure-center/) within the [University of Burgundy](https://en.u-bourgogne.fr/) and the company [DIAMATEC](http://www.diamatec.fr/en/).
 </div>
 
-<hr/>
+
 
 
 ## 👨‍🔬 Science
@@ -90,11 +93,11 @@ This is a **non-exhaustive** list of scientific papers about my research interes
 - [OpenAI ](https://openai.com/): An AGI research company, worldwide known for the development of ChatGPT. 
 - [Deepmind](https://www.deepmind.com/): Another important AGI research company.
     
- <hr/>  
+
     
  ## 💻 Programming
  - I like programming tools, especially ["neovim way"](https://neovim.io/) to do things ... (Disclamer: I'm not involved in [editor war](https://en.wikipedia.org/wiki/Editor_war)).
- - I extansively use [Python](https://www.python.org/), [Rust](https://www.rust-lang.org/) programming languages and [OOP](https://en.wikipedia.org/wiki/Object-oriented_programming) paradigm in my research.
+ - I extansively use [Python](https://www.python.org/), [C++](https://isocpp.org/) and [Rust](https://www.rust-lang.org/) programming languages in my research.
  - I currently learn [git](https://git-scm.com/) and how effectively [contribute to open source](https://github.com/freeCodeCamp/how-to-contribute-to-open-source) projects.
  - Recently, I give a try to the [functional paradigm](https://en.wikipedia.org/wiki/Functional_programming) (Haskell, Ocaml, Elixir) and it was definitively fun !
     
