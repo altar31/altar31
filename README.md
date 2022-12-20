@@ -51,7 +51,7 @@ I am currently finishing my PhD in Physics-Chemistry (trying to defend it in cou
 
 ## 👨‍🔬 Science
 
-Although, I started my research journey in Physics-Chemistry field (Powder metallurgy), I became passionate about **Deep Learning/Machine Learning algorithms** development for **computer vision**, **time series analysis/forecasting** and **data-driven scientific discoveries**. Along the way, I also developed an interest in **Artificial General Intelligence** (AGI) systems with an emphasis on AI-safety, governance and Human-AI alignment. Finally, i'm an [open science](https://elifesciences.org/articles/16800) and [open source](https://en.wikipedia.org/wiki/Open-source_software) advocate !
+Although, I started my research journey in Physics-Chemistry field (Powder metallurgy), I became passionate about **Deep Learning/Machine Learning algorithms** development for **computer vision**, **time-series analysis/forecasting** and **data-driven scientific discoveries**. Along the way, I also developed an interest in **Artificial General Intelligence** (AGI) systems with an emphasis on AI-safety, governance and Human-AI alignment. Finally, i'm an [open science](https://elifesciences.org/articles/16800) and [open source](https://en.wikipedia.org/wiki/Open-source_software) advocate !
 
 My main research interests are :
 * 🤖 Neural Architecture Search and High-performance machine learning 
@@ -79,6 +79,12 @@ This is a **non-exhaustive** list of scientific papers about my research interes
 - <a href="https://doi.org/10.48550/arXiv.2001.05566"><img src="https://img.shields.io/badge/arXiv-2011.09534-cfd8dc?labelColor=black&style=flat-square" align="right"/></a> [Image Segmentation Using Deep Learning: A Survey (2020)](https://arxiv.org/abs/2001.05566)
 - <a href="https://doi.org/10.48550/arXiv.1910.13796"><img src="https://img.shields.io/badge/arXiv-2011.09534-cfd8dc?labelColor=black&style=flat-square" align="right"/></a> [Deep Learning vs. Traditional Computer Vision (2019)](https://arxiv.org/abs/1910.13796)
 - <a href="https://doi.org/10.1155/2018/7068349"><img src="https://img.shields.io/badge/DOI-10.1155%2F2018/7068349-cfd8dc?labelColor=black&style=flat-square" align="right"/></a> [Deep Learning for Computer Vision: A Brief Review (2018)](https://www.hindawi.com/journals/cin/2018/7068349/)
+    
+### Time-Series analysis
+- <a href="https://doi.org/10.48550/arXiv.2202.01712"><img src="https://img.shields.io/badge/arXiv-2011.09534-cfd8dc?labelColor=black&style=flat-square" align="right"/></a> [Review of automated time series forecasting pipelines (2021)](https://arxiv.org/abs/2202.01712)
+- <a href="https://doi.org/10.48550/arXiv.2103.12057"><img src="https://img.shields.io/badge/arXiv-2011.09534-cfd8dc?labelColor=black&style=flat-square" align="right"/></a> [An Experimental Review on Deep Learning Architectures for Time Series Forecasting (2021)](https://arxiv.org/abs/2103.12057)
+- <a href="https://doi.org/10.48550/arXiv.1911.13288"><img src="https://img.shields.io/badge/arXiv-2011.09534-cfd8dc?labelColor=black&style=flat-square" align="right"/></a> [Financial Time Series Forecasting with Deep Learning : A Systematic Literature Review: 2005-2019 (2019)](https://arxiv.org/abs/1911.13288)    
+    
 
 ### Artificial General Intelligence (AGI)
 - <a href="https://doi.org/10.1080/14494035.2021.1928377"><img src="https://img.shields.io/badge/DOI-10.1080%2F14494035.2021.1928377-cfd8dc?labelColor=black&style=flat-square" align="right"/></a> [Governance of artificial intelligence (2021)](https://www.tandfonline.com/doi/full/10.1080/14494035.2021.1928377)
