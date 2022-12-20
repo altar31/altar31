@@ -43,7 +43,7 @@
 
 <h2> About me </h2>
 
-I am currently finishing my PhD in Physics-Chemistry (trying to defend it in couple of months April-May 2023 🎉) in the lab of  [Prof.Dr Frédéric Bernard](https://icb.u-bourgogne.fr/equipe/frederic-bernard/#carriere) at [Excalibure research center](https://icb.u-bourgogne.fr/en/excalibure-center/) within the [University of Burgundy](https://en.u-bourgogne.fr/) and the company [DIAMATEC](http://www.diamatec.fr/en/).
+Former electrician and energy engineer, I currently finishing my PhD in Physics-Chemistry (ten years "pathway" 😉 ) in the lab of  [Prof.Dr Frédéric Bernard](https://icb.u-bourgogne.fr/equipe/frederic-bernard/#carriere) at [Excalibure research center](https://icb.u-bourgogne.fr/en/excalibure-center/) within the [University of Burgundy](https://en.u-bourgogne.fr/) and the company [DIAMATEC](http://www.diamatec.fr/en/) (trying to defend it in couple of months April-May 2023 🎉).
 </div>
 
 
