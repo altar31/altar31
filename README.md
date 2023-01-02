@@ -69,7 +69,7 @@ My main research interests are :
 
 - <a href="https://doi.org/10.3390/app122412606"><img src="https://img.shields.io/badge/DOI-10.3390%2Fapp122412606-cfd8dc?labelColor=black&style=flat-square" align="right"/></a> [Deep Learning and Bayesian Hyperparameter Optimization: A Data-Driven Approach for Diamond Grit Segmentation toward Grinding Wheel Characterization (2022)](https://www.mdpi.com/2076-3417/12/24/12606)
     
-Communications in international conferences
+Communications at international conferences
     
 - Sicard D, Briois P, Thevenot J, Bernard F. Development of flash induction sintering process and deep learning methods : application to industrial diamond
 grinding wheels manufacturing. Poster presented at PowderMet2022 International Conference on Powder Metallurgy & Particulate Materials; 2022 Jun 12-15; Portland; USA
