@@ -41,17 +41,16 @@
 
 <div align="left">
 
-<h2> About me </h2>
+<h2> About me 🧔‍♂️</h2>
 
-Former French electrician and energy engineer, I am currently finishing my PhD in Physics-Chemistry (ten years adventure 😉 ) in the lab of  [Prof.Dr Frédéric Bernard](https://icb.u-bourgogne.fr/equipe/frederic-bernard/#carriere) at [Excalibure research center](https://icb.u-bourgogne.fr/en/excalibure-center/) within the [University of Burgundy](https://en.u-bourgogne.fr/) and the company [DIAMATEC](http://www.diamatec.fr/en/) (trying to defend it in couple of months April-May 2023 🎉).
+Former French **electrician** and **energy engineer**, I am currently finishing my **PhD in Physics-Chemistry** (ten years adventure 😉 ) in the lab of  [Prof.Dr Frédéric Bernard](https://icb.u-bourgogne.fr/equipe/frederic-bernard/#carriere) at [Excalibure research center](https://icb.u-bourgogne.fr/en/excalibure-center/) within the [University of Burgundy](https://en.u-bourgogne.fr/) and the company [DIAMATEC](http://www.diamatec.fr/en/) (trying to defend it in couple of months April-May 2023 🎉). Thanks to my research journey, i **write code** on a **daily basis** and i really **like** it 😃 ! Thus, I became passionate about **software engineering** and the **open source** way to **craft software**. Finally, as an **aspirant contributor** of [Pandas: Python Data Analysis Library](https://pandas.pydata.org/), I am in the learning process to effectively contribute to [open source](https://opensource.guide/how-to-contribute/) software.
 </div>
-
-
+ 
 
 
 ## 👨‍🔬 Science
 
-Although, I started my research journey in Physics-Chemistry field (Powder metallurgy), I became passionate about **Deep Learning/Machine Learning algorithms** development for **computer vision**, **time-series analysis/forecasting** and **data-driven scientific discoveries**. Along the way, I also developed an interest in **Artificial General Intelligence** (AGI) systems with an emphasis on AI-safety, governance and Human-AI alignment. Finally, i'm an [open science](https://elifesciences.org/articles/16800) and [open source](https://en.wikipedia.org/wiki/Open-source_software) advocate !
+Although, I started my research journey in Physics-Chemistry field (Powder metallurgy), I became passionate about **Deep Learning/Machine Learning algorithms** development for **computer vision**, **time-series analysis/forecasting** and **data-driven scientific discoveries**. Along the way, I also developed an interest in **Artificial General Intelligence** (AGI) systems with an emphasis on AI-safety, governance and Human-AI alignment. Finally, i'm an [open science](https://elifesciences.org/articles/16800) advocate !
 
 My main research interests are :
 * 🤖 Neural Architecture Search and High-performance machine learning 
@@ -108,8 +107,7 @@ This is a **non-exhaustive** list of scientific papers about my research interes
     
  ## 💻 Programming
  - I like programming tools, especially ["neovim way"](https://neovim.io/) to do things ... (Disclamer: I'm not involved in [editor war](https://en.wikipedia.org/wiki/Editor_war)).
- - I extansively use [Python](https://www.python.org/), [C++](https://isocpp.org/) and [Rust](https://www.rust-lang.org/) programming languages in my research.
- - I currently learn [git](https://git-scm.com/) and how effectively [contribute to open source](https://github.com/freeCodeCamp/how-to-contribute-to-open-source) projects.
+ - I extansively use [Python](https://www.python.org/) programming language and a bit of [Rust](https://www.rust-lang.org/) in my research.
  - Recently, I give a try to the [functional paradigm](https://en.wikipedia.org/wiki/Functional_programming) (Haskell, Ocaml, Elixir) and it was definitively fun !
     
     
