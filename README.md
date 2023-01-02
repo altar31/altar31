@@ -30,8 +30,11 @@
     <a href="https://www.python.org" target="blank" rel="noreferrer">
     <img src="public/python-logo.svg" alt="python" width="40" height="45"/></a>
     <!------>
-    <a href="https://www.rust-lang.org/" target="blank" rel="noreferrer">
-    <img src="public/rust-logo.png" alt="rust" width="" height="45"/></a>
+     <a href="https://pandas.pydata.org/"  target="blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" width= 155 /></a> 
+    <!------>
+    <a href="https://numpy.org/"  target="blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="numpy" width= 145 /></a> 
      <!------>
 </p>
 
