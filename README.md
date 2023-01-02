@@ -30,9 +30,6 @@
     <a href="https://www.python.org" target="blank" rel="noreferrer">
     <img src="public/python-logo.svg" alt="python" width="40" height="45"/></a>
     <!------>
-    <a href="https://isocpp.org/" target="blank" rel="noreferrer">
-    <img src="public/cpp-logo.png" alt="cpp" width="" height="45"/></a>
-    <!------>
     <a href="https://www.rust-lang.org/" target="blank" rel="noreferrer">
     <img src="public/rust-logo.png" alt="rust" width="" height="45"/></a>
      <!------>
