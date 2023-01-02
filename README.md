@@ -3,7 +3,7 @@
 </div>
 
 
-<h2 align="center"> 📫 You can find me <h2/>
+<h2 align="center"> 📫 Reach me <h2/>
 <p align="center">
     <!------>
     <a href="https://www.linkedin.com/in/damien-sicard-7b14a9122/" target="blank" rel="noreferrer">
@@ -18,6 +18,11 @@
     <a href="https://www.researchgate.net/profile/Damien-Sicard" target="blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white" alt="researchgate" /></a>
 </p>
+   
+<div align="center">  
+    📜 You can find my <a href="Damien_Sicard_resume_2023.pdf"><span style="text-align:center">resume</span></a>
+</div>
+
 
 
 <!-- Programming Languages -->
