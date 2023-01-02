@@ -63,6 +63,13 @@ My main research interests are :
 ### My Publication
 
 - <a href="https://doi.org/10.3390/app122412606"><img src="https://img.shields.io/badge/DOI-10.3390%2Fapp122412606-cfd8dc?labelColor=black&style=flat-square" align="right"/></a> [Deep Learning and Bayesian Hyperparameter Optimization: A Data-Driven Approach for Diamond Grit Segmentation toward Grinding Wheel Characterization (2022)](https://www.mdpi.com/2076-3417/12/24/12606)
+    
+Communications in international conferences
+    
+- Sicard D, Briois P, Thevenot J, Bernard F. Development of flash induction sintering process and deep learning methods : application to industrial diamond
+grinding wheels manufacturing. Poster presented at PowderMet2022 International Conference on Powder Metallurgy & Particulate Materials; 2022 Jun 12-15; Portland; USA
+
+- Sicard D, Briois P, Thevenot J, Bernard F. Intelligence artificielle de type “Deep Learning” pour la caractérisation d’outils abrasifs diamant à partir d’images. Poster presented at MATERIAUX2022 International Conference on Material Science; 2022 Oct 24-28; Lille; France
 
 ### Selected references
 This is a **non-exhaustive** list of scientific papers about my research interests in **open-access**. 
