@@ -20,7 +20,7 @@
 </p>
    
 <div align="center">  
-    📜 You can find my <a href="Damien-Sicard-resume.pdf"><span style="text-align:center">resume</span></a>
+    📜 You can find my <a href="Damien_Sicard_resume2023.pdf"><span style="text-align:center">resume</span></a>
 </div>
 
 
