@@ -24,32 +24,15 @@
 </div>
 
 
-<h3 align="center" id="languages">
-
-![Damien's github stats](https://github-readme-stats.vercel.app/api?username=altar31&count_private=true&show_icons=true&theme=chartreuse-dark)<a href="https://github.com/altar31/github-readme-stats">
-<!-- Programming Languages -->
-
-</h3>
-<p align="center">
-    <!------>
-    <a href="https://www.python.org" target="blank" rel="noreferrer">
-    <img src="public/python-logo.svg" alt="python" width="40" height="45"/></a>
-    <!------>
-     <a href="https://pandas.pydata.org/"  target="blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" width= 155 /></a> 
-    <!------>
-    <a href="https://numpy.org/"  target="blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="numpy" width= 145 /></a> 
-     <!------>
-</p>
 
 
-<div align="left">
 
-<h2> About me 🧔‍♂️</h2>
+
+
+ ## About me 🧔‍♂️
 
 Former French **electrician** and **energy engineer**, I am currently finishing my **PhD in Physics-Chemistry** (ten years adventure 😉 ) in the lab of  [Prof.Dr Frédéric Bernard](https://icb.u-bourgogne.fr/equipe/frederic-bernard/#carriere) at [Excalibure research center](https://icb.u-bourgogne.fr/en/excalibure-center/) within the [University of Burgundy](https://en.u-bourgogne.fr/) and the company [DIAMATEC](http://www.diamatec.fr/en/) (trying to defend it in couple of months April-June 2023 🎉). Thanks to my research journey, i **write code** on a **daily basis** and i really **like** it 😃 ! Thus, I became passionate about **software engineering** and the **open source** way to **craft software**. Finally, as an **aspirant contributor** of [Pandas: Python Data Analysis Library](https://pandas.pydata.org/), I learn to effectively contribute to [open source](https://opensource.guide/how-to-contribute/) software.
-</div>
+
  
 
 
@@ -123,10 +106,33 @@ This is a **non-exhaustive** list of scientific papers about my research interes
  - Recently, I give a try to the [functional paradigm](https://en.wikipedia.org/wiki/Functional_programming) (Haskell, Ocaml, Elixir) and it was definitively fun !
     
     
-<p align="center"> 
+
+    
+ <h3 align="center" id="languages">
+
+![Damien's github stats](https://github-readme-stats.vercel.app/api?username=altar31&count_private=true&show_icons=true&theme=chartreuse-dark)<a href="https://github.com/altar31/github-readme-stats">
+<!-- Programming Languages -->
+
+</h3>
+<p align="center">
+    <!------>
+    <a href="https://www.python.org" target="blank" rel="noreferrer">
+    <img src="public/python-logo.svg" alt="python" width="40" height="45"/></a>
+    <!------>
+     <a href="https://pandas.pydata.org/"  target="blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" width= 155 /></a> 
+    <!------>
+    <a href="https://numpy.org/"  target="blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="numpy" width= 145 /></a> 
+     <!------>
+</p>
+     
+  
+ <p align="center"> 
   Visitors count<br>
   <img src="https://profile-counter.glitch.me/altar31/count.svg" />
 </p>
 
+    
 <img src="stats.gif" width="90%"><br/><br/>
 
