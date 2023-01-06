@@ -28,7 +28,7 @@
 <!-- Programming Languages -->
 <h3 align="center" id="languages">
 
-![Damien's github stats](https://github-readme-stats.vercel.app/api?username=altar31&count_private=true&show_icons=true&theme=chartreuse-dark)<a href="https://github.com/altar31/github-readme-stats">
+
 </h3>
 <p align="center">
     <!------>
