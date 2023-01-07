@@ -1,6 +1,23 @@
 <div align="center"> 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&duration=3500&pause=400&color=239A3B&center=true&width=750&lines=Hello there !++;I'm+Damien+Sicard++;A++French+scientist;Engineer+and+self-taught+developer" alt="Typing SVG" /></a>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?         font=Fira+Code&weight=800&size=30&duration=3500&pause=400&color=239A3B&center=true&width=750&lines=Hello there !++;I'm+Damien+Sicard++;A++French+scientist;Engineer+and+self-taught+developer" alt="Typing SVG" /></a>
+
+
+<figure>
+    <img src="public/DeepDream.png"
+         alt="DeepDream">
+    <figcaption> DeepDream: Do neural networks <a href="https://ai.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html"><span>dream </span></a>? [Inceptionism, Google Research 2015]</figcaption>
+    
+</figure>
+
 </div>
+
+
+
+
+
+
+
 
 
 <h2 align="center"> 📫 Reach me <h2/>
