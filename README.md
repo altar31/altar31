@@ -55,13 +55,13 @@ Former French **electrician** and **energy engineer**, I am currently finishing 
 
 ## 👨‍🔬 Science
 
-Although, I started my research journey in Physics-Chemistry field (Powder metallurgy), I became passionate about **Deep Learning/Machine Learning algorithms** development for **computer vision**, **time-series analysis/forecasting** and **data-driven scientific discoveries**. Along the way, I also developed an interest in **Artificial General Intelligence** (AGI) systems with an emphasis on AI-safety, governance and Human-AI alignment. Finally, i'm an [open science](https://elifesciences.org/articles/16800) advocate !
+Although, I started my research journey in Physics-Chemistry field (Powder metallurgy), I became passionate about **Scientific computing**, **Deep Learning/Machine Learning algorithms** development for **computer vision**, **time-series analysis** and **data-driven scientific discoveries**. Along the way, I also developed an interest in **Artificial General Intelligence** (AGI) systems with an emphasis on AI-safety, governance and Human-AI alignment. Finally, i'm an [open science](https://elifesciences.org/articles/16800) advocate !
 
 My main research interests are :
 * 🤖 Neural Architecture Search and High-performance machine learning 
 * 👓 Deep Learning for computer vision with an emphasis on images segmentation applications
-* 〰〰 Machine Learning and Deep Learning for time series analysis/forecasting    
-* 🤖📋🖋 AGI systems and their governance 
+* 〰〰 Machine Learning/Deep Learning for time series analysis
+* 🧮 Scientific computing with an emphasis in Multiphysics Finite Element simulations (development of open source simulation codes)
 
 [You can find my ORCID record](https://orcid.org/0000-0003-1579-2859) and my [researchgate](https://www.researchgate.net/profile/Damien-Sicard)
   
