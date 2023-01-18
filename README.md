@@ -48,7 +48,7 @@
 
  ## About me 🧔‍♂️
 
-Former French **electrician** and **energy engineer**, I am currently finishing my **PhD in Physics-Chemistry** (ten years adventure 😉 ) in the lab of  [Prof.Dr Frédéric Bernard](https://icb.u-bourgogne.fr/equipe/frederic-bernard/#carriere) at [Excalibure research center](https://icb.u-bourgogne.fr/en/excalibure-center/) within the [University of Burgundy](https://en.u-bourgogne.fr/) and the company [DIAMATEC](http://www.diamatec.fr/en/) (trying to defend it in couple of months April-June 2023 🎉). Thanks to my research journey, i **write code** on a **daily basis** and i really **like** it 😃 ! Thus, I became passionate about **software engineering** and the **open source** way to **craft software**. Finally, as an **aspirant contributor** to [Matplotlib](https://matplotlib.org/) and [Pandas: Python Data Analysis Library](https://pandas.pydata.org/), I learn to effectively contribute to [open source](https://opensource.guide/how-to-contribute/) software.
+Former French **electrician** and **energy engineer**, I am currently finishing my **PhD in Physics-Chemistry** (ten years adventure 😉 ) in the lab of  [Prof.Dr Frédéric Bernard](https://icb.u-bourgogne.fr/equipe/frederic-bernard/#carriere) at [Excalibure research center](https://icb.u-bourgogne.fr/en/excalibure-center/) within the [University of Burgundy](https://en.u-bourgogne.fr/) and the company [DIAMATEC](http://www.diamatec.fr/en/) (trying to defend it in couple of months April-June 2023 🎉). Thanks to my research journey, i **write code** on a **daily basis** and i really **like** it 😃 ! Thus, I became passionate about **software engineering** and the **open source** way to **craft software**. Finally, as an **aspirant contributor** to the Python visualization library [Matplotlib](https://matplotlib.org/), I learn to effectively contribute to [open source](https://opensource.guide/how-to-contribute/) software.
 
  
 
@@ -135,6 +135,9 @@ This is a **non-exhaustive** list of scientific papers about my research interes
     <!------>
     <a href="https://www.python.org" target="blank" rel="noreferrer">
     <img src="public/python-logo.svg" alt="python" width="40" height="45"/></a>
+     <!------>
+     <a href="https://matplotlib.org/"  target="blank" rel="noreferrer">
+    <img src="public/matplotlib_logo.png" alt="matplotlib" width= 155/></a> 
      <!------>
      <a href="https://pytorch.org/"  target="blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="pytorch" width= 155/></a> 
