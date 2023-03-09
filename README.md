@@ -55,7 +55,7 @@ Former French **electrician** and **energy engineer**, I am currently finishing 
 
 ## 👨‍🔬 Science
 
-Although, I started my research journey in Physics-Chemistry field (Powder metallurgy), I became passionate about **Scientific computing** and **Deep Learning - Machine Learning** algorithms development for **computer vision** and **data-driven scientific discoveries**. Along the way, I also developed an interest in **Artificial General Intelligence** (AGI) systems with an emphasis on AI-safety, governance and Human-AI alignment. Finally, I'm an [open science](https://elifesciences.org/articles/16800) advocate !
+Although, I started my research journey in Physics-Chemistry field (Powder metallurgy), I became passionate about **Scientific computing** and **Deep Learning - Machine Learning** algorithms development for **computer vision**, **time series analysis** and **data-driven scientific discoveries**. Along the way, I also developed an interest in **Artificial General Intelligence** (AGI) systems with an emphasis on AI-safety, governance and Human-AI alignment. Finally, I'm an [open science](https://elifesciences.org/articles/16800) advocate !
 
 My main research interests are :
 * 🤖 Neural Architecture Search and High-performance machine learning 
@@ -118,7 +118,7 @@ This is a **non-exhaustive** list of scientific papers about my research interes
     
  ## 💻 Programming
  - I like programming tools, especially ["neovim way"](https://neovim.io/) to do things ... (Disclamer: I'm not involved in [editor war](https://en.wikipedia.org/wiki/Editor_war)).
- - I extansively use [Python](https://www.python.org/) programming language and a bit of [Rust](https://www.rust-lang.org/) in my research.
+ - I extansively use [Python](https://www.python.org/) programming language, with a growing usage of [C++](https://isocpp.org/) and [Rust](https://www.rust-lang.org/) in my research.
  - Recently, I give a try to the [functional paradigm](https://en.wikipedia.org/wiki/Functional_programming) (Haskell, Ocaml, Elixir) and it was definitively fun !
     
     
