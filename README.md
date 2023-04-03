@@ -48,14 +48,14 @@
 
  ## About me 🧔‍♂️
 
-Former French **electrician** and **energy engineer**, I am currently finishing my **PhD in Physics-Chemistry** (eleven years adventure 😉 ) in the lab of  [Prof.Dr Frédéric Bernard](https://icb.u-bourgogne.fr/equipe/frederic-bernard/#carriere) at [Excalibure research center](https://icb.u-bourgogne.fr/en/excalibure-center/) within the [University of Burgundy](https://en.u-bourgogne.fr/) and the company [DIAMATEC](http://www.diamatec.fr/en/) (defense planned between June - July 2023 🎉). Thanks to my research journey, i **write code** on a **daily basis** and i really **like** it 😃 ! Thus, I became passionate about **software engineering** and the **open source** way to **craft software**. 
+Former French **electrician** and **energy engineer**, I am currently finishing my **PhD in Physics** (eleven years adventure 😉 ) in the lab of  [Prof.Dr Frédéric Bernard](https://icb.u-bourgogne.fr/equipe/frederic-bernard/#carriere) at [Excalibure research center](https://icb.u-bourgogne.fr/en/excalibure-center/) within the [University of Burgundy](https://en.u-bourgogne.fr/) and the company [DIAMATEC](http://www.diamatec.fr/en/) (defense planned between June - July 2023 🎉). Thanks to my research journey, i **write code** on a **daily basis** and i really **like** it 😃 ! Thus, I became passionate about **software engineering** and the **open source** way to **craft software**. 
 
  
 
 
 ## 👨‍🔬 Science
 
-Although, I started my research journey in Physics-Chemistry field (Powder metallurgy), I became passionate about **Scientific computing** and **Deep Learning - Machine Learning** algorithms development for **computer vision**, **time series analysis** and **data-driven scientific discoveries**. Along the way, I also developed an interest in **Artificial General Intelligence** (AGI) systems with an emphasis on AI-safety, governance and Human-AI alignment. Finally, I'm an [open science](https://elifesciences.org/articles/16800) advocate !
+Although, I started my research journey in Physics, I became passionate about **Scientific computing** and **Deep Learning - Machine Learning** algorithms development for **computer vision**, **time series analysis** and **data-driven scientific discoveries**. Along the way, I also developed an interest in **Artificial General Intelligence** (AGI) systems with an emphasis on AI-safety, governance and Human-AI alignment. Finally, I'm an [open science](https://elifesciences.org/articles/16800) advocate !
 
 My main research interests are :
 * 🤖 Neural Architecture Search and High-performance machine learning 
