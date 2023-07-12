@@ -48,7 +48,7 @@
 
  ## About me 🧔‍♂️
 
-Former French **electrician** and **energy engineer**, I am currently finishing my **PhD in Physics** (eleven years adventure 😉 ) in the lab of  [Prof.Dr Frédéric Bernard](https://icb.u-bourgogne.fr/equipe/frederic-bernard/#carriere) at [Excalibure research center](https://icb.u-bourgogne.fr/en/excalibure-center/) within the [University of Burgundy](https://en.u-bourgogne.fr/) and the company [DIAMATEC](http://www.diamatec.fr/en/) (defense planned between June - July 2023 🎉). Thanks to my research journey, i **write code** on a **daily basis** and i really **like** it 😃 ! Thus, I became passionate about **software engineering** and the **open source** way to **craft software**. 
+Former French **electrician** and **energy engineer**, I am currently finishing my **PhD in Physics** (eleven years adventure 😉 ) in the lab of  [Prof.Dr Frédéric Bernard](https://icb.u-bourgogne.fr/equipe/frederic-bernard/#carriere) at [Excalibure research center](https://icb.u-bourgogne.fr/en/excalibure-center/) within the [University of Burgundy](https://en.u-bourgogne.fr/) and the company [DIAMATEC](http://www.diamatec.fr/en/) (defense planned between 11 July 2023 🎉). Thanks to my research journey, i **write code** on a **daily basis** and i really **like** it 😃 ! Thus, I became passionate about **software engineering** and the **open source** way to **craft software**. 
 
  
 
