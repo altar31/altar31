@@ -55,7 +55,7 @@
 
 ## 👨‍🔬 Science
 
-Although, I started my research journey in Applied Physics, I became passionate about **Scientific computing** and **Deep Learning - Machine Learning** algorithms development for **computer vision**, **time series analysis** and **data-driven scientific discoveries**. Along the way, I also developed an interest in **Artificial General Intelligence** (AGI) systems with an emphasis on AI-safety, governance and Human-AI alignment. Finally, I'm an [open science](https://elifesciences.org/articles/16800) advocate !
+Although, I started my research journey in Applied Physics, I became passionate about **Scientific computing** and **Deep Learning - Machine Learning** algorithms development for **computer vision**, **time series analysis** and **data-driven scientific discoveries**. Finally, I'm an [open science](https://elifesciences.org/articles/16800) advocate !
 
 My main research interests are :
 * 🤖 Neural Architecture Search and High-performance machine learning 
