@@ -49,17 +49,17 @@ My main research interests are :
 
 ## 👨🏻‍💻 Current project
 
-I have a growing interest in **reproductible development environments**. In fact, as a researcher i have to switch often my development environment (packages, programming languages management...) and it could be time consuming, cumburstone and difficult to share and deploy... 
+I have a growing interest in **reproductible development environments**. In fact, as a researcher i have to manage several development environments and it could be time consuming, cumburstone and difficult to share and deploy... 
 
-So i decided to build a CLI tool with a focus on management of **Machine Learning Environments** to solve the previous mentionned problems.
+So i decided to build a **CLI tool** with a focus on management of Machine Learning Environments to solve the previous mentionned problem.
 
-The project specs are the following :
+The project specs (first draft) are the following :
 - **Leverage** the [Nix](https://nixos.org/) ecosystem in order to ensure reproductible ML environment builds and make easier the deployment of such systems (avoid the "works on my machine" problem 😉)
 - **Automate** end-to-end ML systems operations (from building to deployment)
 - **Normalization** of project architecture in order to ensure consistency
 - Focus on **simplicity**, the user could run the whole system by knowing several shell commands...
 
-Don't hesitate to contact me if are interested in !
+Don't hesitate to contact me if you want to know more or are interested in !😃
 
 The project will be highly collaborative🤝, so everyone is welcome to the project ! 🤗  
 Contributions could be done in many ways and are not exclusively code. You could write documentation, work on the project logo (very important 😉), participate to the community creation (slack,matrix,gitter...).
