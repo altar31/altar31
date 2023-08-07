@@ -49,22 +49,17 @@ My main research interests are :
 
 ## 👨🏻‍💻 Current project
 
-I have a growing interest in **reproductible development environments**. In fact, as a researcher i have to manage several development environments and it could be time consuming, cumburstone and difficult to share and deploy... 
+I have a fascination for **Programming languages**, currently starting an **experimental project** about the creation of a small internal  "**Domain Specific Language (DSL)**" for **Machine Learning and Technical Computing** on top of Rust programming language. The project take some inspirations from [Rhai](https://rhai.rs/).
 
-So i decided to build a **CLI tool** with a focus on management of Machine Learning Environments to solve the previous mentionned problem.
-
-The project specs (first draft) are the following :
-- **Leverage** the [Nix](https://nixos.org/) ecosystem in order to ensure reproductible ML environment builds and make easier the deployment of such systems (avoid the "works on my machine" problem 😉)
-- **Automate** end-to-end ML systems operations (from building to deployment)
-- **Normalization** of project architecture in order to ensure consistency
-- Focus on **simplicity**, the user could run the whole system by knowing several shell commands...
+The goals :
+- At first satisfy my willingness to learn the rust programming language, especially the meta-programming capabilities of the language ... (procedural macros...)
+- Be **useful**...(a hard goal 😅). The DSL should leverage the **speed** and the **amazing tooling** of the rust programming language with a clean and simple syntax like python or matlab (very hard goal 😅)...
+- Be able to implement a **working** machine learning solutions in several lines of code, from data ingestions to model training (at first tree-based ML algorithms)
 
 Don't hesitate to contact me if you want to know more or are interested in !😃
 
 The project will be highly collaborative🤝, so everyone is welcome to the project ! 🤗  
 Contributions could be done in many ways and are not exclusively code. You could write documentation, work on the project logo (very important 😉), participate to the community creation (slack,matrix,gitter...).
-
-The repository of the project should be available in the upcoming month ! Stay tuned 🗓️ !
 
 <h3 align="center" id="languages">
 
