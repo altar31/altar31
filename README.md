@@ -36,7 +36,7 @@
  
  - PhD in Physics and former French engineer.
  - Self-taught programmer passionate about the open source way to craft software
- - I'm interested in developer productivity, experiences and tooling
+ - I'm interested in progamming languages, developer experiences and tooling
  - I have an amazing wife and two cats !
 
 ## 👨‍🔬 Science
@@ -49,10 +49,10 @@ My main research interests are :
 
 ## 👨🏻‍💻 Current project
 
-I have a fascination for **Programming languages**, currently starting an **experimental project** about the creation of a small internal  "**Domain Specific Language (DSL)**" for **Machine Learning and Technical Computing** on top of Rust programming language. The project take some inspirations from [Rhai](https://rhai.rs/).
+I have a fascination for **Programming languages** that's why i'm currently starting an **experimental project** about the creation of a small internal "**Domain Specific Language (DSL)**" for **Machine Learning**, built on top of the Rust programming language. The project take some inspirations from existing scripting languages built on top of Rust such as [Rune](https://rune-rs.github.io/), [dyon](https://github.com/altar31/dyon) or [Rhai](https://rhai.rs/).
 
 The goals :
-- At first satisfy my willingness to learn the rust programming language, especially the meta-programming capabilities of the language ... (procedural macros...)
+- At first **satisfy my willingness** to learn the Rust programming language and to build a small DSL
 - Be **useful**...(a hard goal 😅). The DSL should leverage the **speed** and the **amazing tooling** of the rust programming language with a clean and simple syntax like python or matlab (very hard goal 😅)...
 - Be able to implement a **working** machine learning solutions in several lines of code, from data ingestions to model training (at first tree-based ML algorithms)
 
@@ -60,6 +60,8 @@ Don't hesitate to contact me if you want to know more or are interested in !😃
 
 The project will be highly collaborative🤝, so everyone is welcome to the project ! 🤗  
 Contributions could be done in many ways and are not exclusively code. You could write documentation, work on the project logo (very important 😉), participate to the community creation (slack,matrix,gitter...).
+
+The repository will be available in the upcoming months when the project will be more advanced. Stay tuned ! 🗓️
 
 <h3 align="center" id="languages">
 
