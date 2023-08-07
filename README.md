@@ -58,7 +58,7 @@ I have a fascination for **Programming languages**, currently starting an **expe
 The goals :
 - At first satisfy my willingness to learn the rust programming language, especially the meta-programming capabilities of the language ... (procedural macros...)
 - Be **useful**...(a hard goal 😅). The DSL should leverage the **speed** and the **amazing tooling** of the rust programming language with a clean and simple syntax like python or matlab (very hard goal 😅)...
-- Be able to implement a **working** machine learning solutions in several lines ofcode, from data ingestions with polars to model training (at first tree-based ML algorithms)
+- Be able to implement a **working** machine learning solutions in several lines of code, from data ingestions to model training (at first tree-based ML algorithms)
 
 The repository of the project should be available in the upcoming months and contributions will be highly welcome ! 🤗  
   
