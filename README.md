@@ -51,7 +51,7 @@ My main research interests are :
 
 [You can find my ORCID record](https://orcid.org/0000-0003-1579-2859) and my [researchgate](https://www.researchgate.net/profile/Damien-Sicard)
 
-## Current project
+##👨🏻‍💻 Current project
 
 I have a fascination for **Programming languages**, currently starting an **experimental project** about the creation of a small internal  "**Domain Specific Language (DSL)**" for **Machine Learning and Technical Computing** on top of Rust programming language. The project take some inspirations from [Rhai](https://rhai.rs/).
 
