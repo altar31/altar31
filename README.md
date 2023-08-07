@@ -71,7 +71,7 @@ The repository of the project should be available in the upcoming months and con
 <p align="center">
     <!------>
      <a href="https://www.rust-lang.org/"  target="blank" rel="noreferrer">
-    <img src="public/rust-logo.png" alt="rust" width= 40/></a> 
+    <img src="public/rust-logo.png" alt="rust" width= 90/></a> 
     <!------>
     <a href="https://www.python.org" target="blank" rel="noreferrer">
     <img src="public/python-logo.svg" alt="python" width="40" height="45"/></a>
