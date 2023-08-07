@@ -51,17 +51,23 @@ My main research interests are :
 
 [You can find my ORCID record](https://orcid.org/0000-0003-1579-2859) and my [researchgate](https://www.researchgate.net/profile/Damien-Sicard)
 
-##👨🏻‍💻 Current project
+## 👨🏻‍💻 Current project
 
-I have a fascination for **Programming languages**, currently starting an **experimental project** about the creation of a small internal  "**Domain Specific Language (DSL)**" for **Machine Learning and Technical Computing** on top of Rust programming language. The project take some inspirations from [Rhai](https://rhai.rs/).
+I have a growing interest in **reproductible developements environments**. In fact as a researcher i frequently modify my development environnement (remove packages, update packages, change programming language version...) and it could be time consuming, cumburstone and difficult to share and deploy... 
 
-The goals :
-- At first satisfy my willingness to learn the rust programming language, especially the meta-programming capabilities of the language ... (procedural macros...)
-- Be **useful**...(a hard goal 😅). The DSL should leverage the **speed** and the **amazing tooling** of the rust programming language with a clean and simple syntax like python or matlab (very hard goal 😅)...
-- Be able to implement a **working** machine learning solutions in several lines of code, from data ingestions to model training (at first tree-based ML algorithms)
+So i decided to build an experimental CLI tool with a focus on **Machine Learning Environments** to solve the previous mentionned problems.
 
-The repository of the project should be available in the upcoming months and contributions will be highly welcome ! 🤗  
-  
+The features of the project are the following:
+- **Leverage** the [Nix](https://nixos.org/) ecosystem in order to ensure reproductible environment builds and make easier the deployment of ML environments ( avoid the "works on my machine." issues)
+- **Automate** end-to-end ML systems operations (from building to deployment) for state of the art algorithms (XGBoost, tree-based etc...) based on a configuration file (".toml")
+- **Normalization** of project architecture in order to ensure consistency
+- Focus on **simplicity**, the user could run the whole system by knowing several shell commands...
+
+The project will be highly collaborative🤝, so everyone is welcome to the project ! 🤗  
+Contributions could be done in many ways and are not exclusively code. You could improve the documentation, work on the project logo (very important 😉), participate to the community creation (slack,matrix,gitter...).
+
+The repository of the project should be available in the upcoming month ! Stay tuned 🗓️ !
+
 <h3 align="center" id="languages">
 
 ![Damien's github stats](https://github-readme-stats.vercel.app/api?username=altar31&count_private=true&show_icons=true&theme=chartreuse-dark)<a href="https://github.com/altar31/github-readme-stats">
