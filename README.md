@@ -32,16 +32,13 @@
     📜 You can find my <a href="Damien_Sicard_resume2023.pdf"><span style="text-align:center">resume</span></a>
  </div>-->
 
-
  ## About me 🧔‍♂️
-
+ 
  - PhD in Physics and former French engineer.
- - I'm an [open science](https://elifesciences.org/articles/16800) advocate
- - Selftaught programmer, passionate about software engineering and the*open source way to craft software.
+ - Self-taught programmer passionate the open source way to craft software.
  - I have a growing interest in package management systems, reproductible environments, builds and deployments
  - I like programming tools ...
  - I have an amazing wife and two cats !
-
 
 ## 👨‍🔬 Science
 
@@ -59,7 +56,7 @@ So i decided to build a CLI tool with a focus on management of **Machine Learnin
 
 The features of the project are the following:
 - **Leverage** the [Nix](https://nixos.org/) ecosystem in order to ensure reproductible ML environment builds and make easier the deployment of such systems (avoid the "works on my machine" problem 😉)
-- **Automate** end-to-end ML systems operations (from building to deployment) for state of the art algorithms (XGBoost, tree-based etc...) based on configuration file (".toml")
+- **Automate** end-to-end ML systems operations (from building to deployment) based on configuration file (".toml")
 - **Normalization** of project architecture in order to ensure consistency
 - Focus on **simplicity**, the user could run the whole system by knowing several shell commands...
 
