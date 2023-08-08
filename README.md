@@ -36,32 +36,33 @@
  
  - PhD in Physics and former French engineer.
  - Self-taught programmer passionate about the open source way to craft software
- - I'm interested in progamming languages, compilers and developer experiences
+ - I'm interested in progamming languages, developer experiences and tooling
  - I have an amazing wife and two cats !
 
 ## 👨‍🔬 Science
 
 My main research interests are :
 * 🤖 High-performance machine learning for applied science and engineering
-* ✒️ Domain Specific Languages (DSL) and compilers 
-* 🧮 Scientific computing with an emphasis in Multiphysics Finite Element simulations 
+* ✒️ Domain Specific Languages (DSL) 
+* 🧮 Scientific computing 
 
 [You can find my ORCID record](https://orcid.org/0000-0003-1579-2859) and my [researchgate](https://www.researchgate.net/profile/Damien-Sicard)
 
 ## 👨🏻‍💻 Current project
 
-I have a fascination for **Programming languages** that's why i'm starting Myr, a small [Domain Specific Language](https://en.wikipedia.org/wiki/Domain-specific_language) (DSL) and [Compiler](https://en.wikipedia.org/wiki/Compiler) for [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning).
+I have a fascination for **Programming languages** that's why i'm starting [Myr](https://crates.io/crates/myr), a small [Domain Specific Language](https://en.wikipedia.org/wiki/Domain-specific_language) (DSL) for [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning) built on top of the [Rust](https://www.rust-lang.org/) programming language. 
+The project take some inspirations from existing DSL like [FreeFEM](https://freefem.org/) and Rust powered scripting languages such as [Rune](https://rune-rs.github.io/), [dyon](https://github.com/altar31/dyon) or [Rhai](https://rhai.rs/).
 
 ### 💧 Myr 
 
-*"A Language and Compiler for Machine Learning"*
+*"A Language For Machine Learning"*
 
-The aim of **Myr** is to become a **Domain Specific Language (DSL)** and **Compiler** for **easily** build **High Performance Machine Learning** solutions. **Simplicity** is at the roots of the language with a clean and simple syntax inspired from programming languages such as [Python](https://www.python.org/), [Lua](https://www.lua.org/) and [Ruby](https://www.ruby-lang.org/en/).
-Myr use the [Python-Native Compiler Toolkit (xDSL)](https://xdsl.dev/) in order to leverage [LLVM](https://llvm.org/) and [MLIR](https://mlir.llvm.org/) compiler infrastructure.
+The aim of **Myr** is to become a **Domain Specific Language (DSL)** for **quickly** and **easily** build **High Performance Machine Learning** solutions. **Simplicity** is at the roots of the language with a clean and simple syntax inspired from programming languages such as [Python](https://www.python.org/), [Lua](https://www.lua.org/) and [Ruby](https://www.ruby-lang.org/en/).
+
 
 The goals (first draft) :
-- At first **satisfy my willingness** to learn more about DSL design, compilers and machine learning
-- Be **useful**...(a hard goal 😅). The DSL should allow to quickly implement high performance machine learning algorithms
+- At first, **satisfy my willingness** to learn the Rust programming language and to design a small DSL
+- Be **useful**...(a hard goal 😅). The DSL should leverage the **speed**, the **tooling** and the Rust ML **ecosystem** ([Polars](https://www.pola.rs/), [SmartCore](https://smartcorelib.org/) ...)
 
 Don't hesitate to contact me if you want to know more or are interested in !😃
 
@@ -93,4 +94,5 @@ The repository will be available in the upcoming months when the project will be
 
     
 <img src="stats.gif" width="90%"><br/><br/>
+
 
