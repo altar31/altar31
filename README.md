@@ -61,7 +61,7 @@ Myr use the [Python-Native Compiler Toolkit (xDSL)](https://xdsl.dev/) in order 
 
 The goals (first draft) :
 - At first **satisfy my willingness** to learn more about DSL design, compilers and machine learning
-- Be **useful**...(a hard goal 😅). The DSL should allow to implement high performance machine learning algorithms by leveraging the xDSL compiler toolkit and LLVM/MLIR ecosytem.
+- Be **useful**...(a hard goal 😅). The DSL should allow to quickly implement high performance machine learning algorithms
 
 Don't hesitate to contact me if you want to know more or are interested in !😃
 
