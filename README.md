@@ -49,12 +49,20 @@ My main research interests are :
 
 ## 👨🏻‍💻 Current project
 
-I have a fascination for **Programming languages** that's why i'm currently starting an **experimental project** about the creation of a small internal "**Domain Specific Language (DSL)**" for **Machine Learning**, built on top of the Rust programming language. The project take some inspirations from existing scripting languages built on top of Rust such as [Rune](https://rune-rs.github.io/), [dyon](https://github.com/altar31/dyon) or [Rhai](https://rhai.rs/).
+I have a fascination for **Programming languages** that's why i'm currently starting [Myr](https://crates.io/crates/myr) a small  **Domain Specific Language (DSL)** for **Machine Learning** built on top of the [Rust](https://www.rust-lang.org/) programming language. 
+The project take some inspirations from existing scripting languages built on top of Rust such as [Rune](https://rune-rs.github.io/), [dyon](https://github.com/altar31/dyon) or [Rhai](https://rhai.rs/).
 
-The goals :
+### 💧 Myr 
+
+*"A Dynamic Scripting Language For Machine Learning"*
+
+The aim of **Myr** is to become a **Domain Specific Language (DSL)** for **quickly** and **easily** build **High Performance Machine Learning** solutions. **Simplicity** is at the roots of the language with a clean and simple syntax inspired from programming languages such as [Python](https://www.python.org/), [Lua](https://www.lua.org/) and [Ruby](https://www.ruby-lang.org/en/).
+
+
+The goals (first draft) :
 - At first **satisfy my willingness** to learn the Rust programming language and to build a small DSL
-- Be **useful**...(a hard goal 😅). The DSL should leverage the **speed** and the **amazing tooling** of the rust programming language with a clean and simple syntax like python or matlab (very hard goal 😅)...
-- Be able to implement a **working** machine learning solutions in several lines of code, from data ingestions to model training (at first tree-based ML algorithms)
+- Be **useful**...(a hard goal 😅). The DSL should leverage the **speed** and the **amazing tooling** of the rust programming language with a clean and simple syntax 
+- Be able to implement a **working** machine learning solutions in several lines of code, from data ingestions to model training by leveraging the rust ML ecosystem (Polars, smartcore ...)
 
 Don't hesitate to contact me if you want to know more or are interested in !😃
 
