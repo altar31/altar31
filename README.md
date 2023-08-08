@@ -51,7 +51,7 @@ My main research interests are :
 ## 👨🏻‍💻 Current project
 
 I have a fascination for **Programming languages** that's why i'm starting [Myr](https://crates.io/crates/myr), a small [Domain Specific Language](https://en.wikipedia.org/wiki/Domain-specific_language) (DSL) for [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning) built on top of the [Rust](https://www.rust-lang.org/) programming language. 
-The project take some inspirations from existing DSL like [FreeFEM](https://freefem.org/) and scripting languages built on top of Rust such as [Rune](https://rune-rs.github.io/), [dyon](https://github.com/altar31/dyon) or [Rhai](https://rhai.rs/).
+The project take some inspirations from existing DSL like [FreeFEM](https://freefem.org/) and Rust powered scripting languages such as [Rune](https://rune-rs.github.io/), [dyon](https://github.com/altar31/dyon) or [Rhai](https://rhai.rs/).
 
 ### 💧 Myr 
 
