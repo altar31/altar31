@@ -50,8 +50,8 @@ My main research interests are :
 
 ## 👨🏻‍💻 Current project
 
-I have a fascination for **Programming languages** that's why i'm starting [Myr](https://crates.io/crates/myr), a small  **Domain Specific Language (DSL)** for **Machine Learning** built on top of the [Rust](https://www.rust-lang.org/) programming language. 
-The project take some inspirations from existing scripting languages built on top of Rust such as [Rune](https://rune-rs.github.io/), [dyon](https://github.com/altar31/dyon) or [Rhai](https://rhai.rs/).
+I have a fascination for **Programming languages** that's why i'm starting [Myr](https://crates.io/crates/myr), a small [Domain Specific Language](https://en.wikipedia.org/wiki/Domain-specific_language) (DSL) for [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning) built on top of the [Rust](https://www.rust-lang.org/) programming language. 
+The project take some inspirations from existing DSL like [FreeFEM](https://freefem.org/) and scripting languages built on top of Rust such as [Rune](https://rune-rs.github.io/), [dyon](https://github.com/altar31/dyon) or [Rhai](https://rhai.rs/).
 
 ### 💧 Myr 
 
@@ -62,13 +62,13 @@ The aim of **Myr** is to become a **Domain Specific Language (DSL)** for **quick
 
 The goals (first draft) :
 - At first **satisfy my willingness** to learn the Rust programming language and to build a small DSL
-- Be **useful**...(a hard goal 😅). The DSL should leverage the **speed** and the **amazing tooling** of the rust programming language with a clean and simple syntax 
-- Be able to implement a **working** machine learning solutions in several lines of code, from data ingestions to model training by leveraging the rust ML ecosystem (Polars, smartcore ...)
+- Be **useful**...(a hard goal 😅). The DSL should leverage the **speed** and the **amazing tooling** of the Rust programming language with a clean and simple syntax 
+- Be able to implement a **working** machine learning solutions in several lines of code, from data ingestions to model training by leveraging the Rust ML ecosystem ([Polars](https://www.pola.rs/), [SmartCore](https://smartcorelib.org/) ...)
 
 Don't hesitate to contact me if you want to know more or are interested in !😃
 
 The project will be highly collaborative🤝, so everyone is welcome to the project ! 🤗  
-Contributions could be done in many ways and are not exclusively code. You could write documentation, work on the project logo (very important 😉), participate to the community creation (slack,matrix,gitter...).
+Contributions could be done in many ways and are not exclusively code. You could write documentation ( very important !😉), participate to the community creation (slack,matrix,gitter...) etc ...
 
 The repository will be available in the upcoming months when the project will be more advanced. Stay tuned ! 🗓️
 
