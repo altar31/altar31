@@ -42,7 +42,7 @@
 ## 👨‍🔬 Science
 
 My main research interests are :
-* 🤖 Neural Architecture Search and High-performance machine learning for applied science and engineering
+* 🤖 High-performance machine learning for applied science and engineering
 * ✒️ Domain Specific Languages (DSL) and Programming languages
 * 🧮 Scientific computing with an emphasis in Multiphysics Finite Element simulations 
 
