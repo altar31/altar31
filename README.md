@@ -43,7 +43,7 @@
 
 My main research interests are :
 * 🤖 High-performance machine learning for applied science and engineering
-* ✒️ Domain Specific Languages (DSL) and Programming languages
+* ✒️ Domain Specific Languages (DSL) 
 * 🧮 Scientific computing with an emphasis in Multiphysics Finite Element simulations 
 
 [You can find my ORCID record](https://orcid.org/0000-0003-1579-2859) and my [researchgate](https://www.researchgate.net/profile/Damien-Sicard)
