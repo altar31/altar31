@@ -36,33 +36,37 @@
  
  - PhD in Physics and former French engineer.
  - Self-taught programmer passionate about the open source way to craft software
- - I'm interested in progamming languages, developer experiences and tooling
+ - I'm interested in Machine Learning, Compilers and Tooling
  - I have an amazing wife and two cats !
 
 ## 👨‍🔬 Science
 
 My main research interests are :
-* 🤖 High-performance machine learning for applied science and engineering
-* ✒️ Domain Specific Languages (DSL) 
+* 🤖 High-performance Machine Learning for applied science and engineering
+* ⚙️ Machine Learning Compilers 
 * 🧮 Scientific computing 
 
 [You can find my ORCID record](https://orcid.org/0000-0003-1579-2859) and my [researchgate](https://www.researchgate.net/profile/Damien-Sicard)
 
 ## 👨🏻‍💻 Current project
 
-I have a fascination for **Programming languages** that's why i'm starting [Myr](https://crates.io/crates/myr), a small [Domain Specific Language](https://en.wikipedia.org/wiki/Domain-specific_language) (DSL) for [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning) built on top of the [Rust](https://www.rust-lang.org/) programming language. 
-The project take some inspirations from existing DSL like [FreeFEM](https://freefem.org/) and Rust powered scripting languages such as [Rune](https://rune-rs.github.io/), [dyon](https://github.com/altar31/dyon) or [Rhai](https://rhai.rs/).
+I' have a growing interest in **Machine Learning Compiler** technology, wich are often the **hidden pieces** for the "lambda" user of major **ML frameworks** such as [Tensorflow](https://www.tensorflow.org/) and [Pytorch](https://pytorch.org/). **Machine learning compilers** are the systems responsable of **Machine Learning Compilation** (MLC) wich could be defined as *"the process of transforming and optimizing machine learning execution from its development form to its deployment form"* [[mlc-ai]](https://mlc.ai/index.html).\
+Understand **MLC systems** is necessary for people interested in **high-performance implementation** of their programs (wich is especially true for deploying optimized programs in production on heterogenous devices such as embedded ones). However, it's a **huge** and **complex** topic often seen as **black magic**🔮 for newcomers in the field (including me 😊).
 
+For people interested in the topic, I highly recommend the following ressources :
+- [Dive intro deep learning compiler](https://tvm.d2l.ai/chapter_expressions/index.html)
+- [Machine learning compilation](https://mlc.ai/)
+- [Apache TVM Documentation](https://tvm.apache.org/docs/)
+  
 ### 💧 Myr 
 
-*"A Language For Machine Learning"*
+*"High Performance Machine Learning Primitives"*
 
-The aim of **Myr** is to become a **Domain Specific Language (DSL)** for **quickly** and **easily** build **High Performance Machine Learning** solutions. **Simplicity** is at the roots of the language with a clean and simple syntax inspired from programming languages such as [Python](https://www.python.org/), [Lua](https://www.lua.org/) and [Ruby](https://www.ruby-lang.org/en/).
-
+**Myr** is an **experimental** attempt to provide **high performance implementation** of some ML/DL algorithms using [Apache TVM](https://tvm.apache.org/) the End to End Machine Learning Compiler Framework for several target architectures. The long-term goal of the project is to be able to build some generic **high performance ML primitives** (ie. building blocks) by providing **high-level** TVM abstractions easily reusable by the user.
 
 The goals (first draft) :
-- At first, **satisfy my willingness** to learn the Rust programming language and to design a small DSL
-- Be **useful**...(a hard goal 😅). The DSL should leverage the **speed**, the **tooling** and the Rust ML **ecosystem** ([Polars](https://www.pola.rs/), [SmartCore](https://smartcorelib.org/) ...)
+- At first **satisfy my willingness** to deep dive into **Machine Learning Compilation** and **High Performance** ML algorithms.
+- Be **useful**...(a hard goal 😅) by provinding **simple** optimized reusable primitives...  
 
 Don't hesitate to contact me if you want to know more or are interested in !😃
 
