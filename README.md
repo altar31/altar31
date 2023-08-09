@@ -62,7 +62,7 @@ For people interested in the topic, I highly recommend the following ressources 
 
 *"High Performance Machine Learning Primitives"*
 
-**Myr** is an **experimental** attempt to provide **high performance implementation** of some ML/DL algorithms using [Apache TVM](https://tvm.apache.org/) the End to End Machine Learning Compiler Framework for several target architectures. The long-term goal of the project is to be able to build some generic **high performance ML primitives** (ie. building blocks) by providing **high-level** TVM abstractions easily reusable by the user.
+**Myr** is an **experimental** attempt to provide **high performance implementation** of some ML/DL algorithms (such as [PINN](https://arxiv.org/abs/2201.05624)) using [Apache TVM](https://tvm.apache.org/) the End to End Machine Learning Compiler Framework for several target architectures. The long-term goal of the project is to be able to build some generic **high performance ML primitives** (ie. building blocks) by providing **high-level** TVM abstractions easily reusable by the user.
 
 The goals (first draft) :
 - At first **satisfy my willingness** to deep dive into **Machine Learning Compilation** and **High Performance** ML algorithms.
