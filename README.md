@@ -49,31 +49,39 @@ My main research interests are :
 
 ## 👨🏻‍💻 Current project
 
-At first the motivations of this project are purely educatives and practicals... So as a researcher using deep learning on a daily basis, i would like to deep dive into it and implement from "scratch" some deep learning algorithms in such way that they will be **easily reusable** and **useful** for **others**. 
+# <img src="https://github.com/altar31/altar31/blob/c118ae805f12cb4fdbc061b08218a35557217cf4/public/sciml-logo.png" alt="Image Title" width="800" height="auto">
 
-### 💧 Myrs 
+### ☕️ About
+**sci-ml** is an attempt to provide a **high-level** and **human** friendly [API](https://en.wikipedia.org/wiki/API) for **Scientific Machine Learning** algorithms such as [PINN](https://arxiv.org/abs/2201.05624), [LSTM-RNN](https://arxiv.org/abs/1909.09586), [RC](https://arxiv.org/abs/2307.15092)... but with **applications** in mind.\
+In the spirit of [scikit-learn](https://scikit-learn.org/stable/index.html), the user will find an **extensive documentation** of the implemented algorithms as well as some **practicals** use-cases in **science** and **engineering**. 
 
-*"The Friendly Scientific Machine Learning Library"*
+Although some implementations and packages already exist, the **Python Scientific Machine Learning Community** is **sparse**... Thus, the **long-term** goal of the project is to provide a **constitutive** implementation of such algorithms under the same **banner**.
 
-**Myrs** is an attempt to provide a **high-level** and **human friendly API** for **Scientific Machine Learning** algorithms such as [Physics-Informed Neural Networks (PINN) ](https://arxiv.org/abs/2201.05624), [Long Short-Term Memory Recurrent Neural Networks (LSTM-RNN)](https://arxiv.org/abs/1909.09586), [Reservoir Computing](https://arxiv.org/abs/2307.15092)... but with **applications** in minds. In fact, in the same way as [scikit-learn](https://scikit-learn.org/stable/index.html), the user will find the algorithms classified by applications and practical use-cases in science and engineering.
+### 🎯 Goals
 
-The goals:
-- At first **satisfy my willingness** to deep dive into **Scientific Machine Learning** algorithms
-- Be **useful**...(a hard goal 😅)
+At first the motivations of this project are purely educatives and practicals... So as a researcher using machine/deep learning on a daily basis, i would like to deep dive into it and implement some algorithms in such way that they will be **easily reusable** and **useful** for **others**. 
 
-Features:
-- **Simple** and **efficient** tools for solving science and engineering problems
-- **Practical** and **powerful** API
-- Stand on the **shoulders of giants** -> Built on top of Pandas, Keras, scikit-learn and seaborn
+### 🚀 Features
+- **Simple** and **efficient** tools for solving **science** and **engineering** problems using **Machine Learning**
+- **Practical** and **expressive** API
+- Stand on the **shoulders of giants** -> on top of [Pandas](https://pandas.pydata.org/), [Keras](https://keras.io/), [scikit-learn](https://scikit-learn.org/stable/) and [seaborn](https://seaborn.pydata.org/). 
 
-Although some implementations and packages already exists, the **Python Scientific Machine Learning Community** is **sparse**... Thus, the long term goeal of the **Myrs** project is also to unified some scientific machine learning algorithms under the same "banner".
+### ⚠️ Warnings
+**For the moment:**
+- The development of the project takes place in a **private** GitHub repository
+- The project is at a very **early stage** -> **Nothing** is implemented in this **published version**
+- The **documentation** is **missing**
 
-Don't hesitate to contact me if you want to know more or are interested in !😃
+The **GitHub repository** as well as a **usable** Python package will be** available** in the **upcoming months**, when the project will be **more advanced**.
 
-The project will be highly collaborative🤝, so everyone is welcome to the project ! 🤗  
-Contributions could be done in many ways and are not exclusively code. You could write documentation ( very important !😉), participate to the community creation (slack,matrix,gitter...) etc ...
 
-The github repository will be **publicly** available in the **upcoming months** when the project will be more advanced. Stay tuned ! 🗓️
+### 🤝 Community-driven
+**sci-ml** is foremost a **community-driven** project! The project will be **highly collaborative**, so everyone is welcome to the project! 🤗 
+
+Don't hesitate to contact me if you want to know more or are interested in ! 😃 
+
+**Stay tuned !** 🗓️
+
 
 <h3 align="center" id="languages">
 
