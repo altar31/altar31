@@ -36,44 +36,39 @@
  
  - PhD in Physics and former French engineer.
  - Self-taught programmer passionate about the open source way to craft software
- - I'm interested in Machine Learning, Compilers and Tooling
+ - I'm interested in Machine Learning, APIs and Tooling
  - I have an amazing wife and two cats !
 
 ## 👨‍🔬 Science
 
 My main research interests are :
-* 🤖 High-performance Machine Learning for applied science and engineering
-* ⚙️ Machine Learning Compilers 
+* 🤖 Machine Learning for Applied Science and Engineering
 * 🧮 Scientific computing 
 
 [You can find my ORCID record](https://orcid.org/0000-0003-1579-2859) and my [researchgate](https://www.researchgate.net/profile/Damien-Sicard)
 
 ## 👨🏻‍💻 Current project
 
-I' have a growing interest in **Machine Learning Compiler** technology, wich are often the **hidden pieces** for the "lambda" user of major **ML frameworks** such as [Tensorflow](https://www.tensorflow.org/) and [Pytorch](https://pytorch.org/). **Machine learning compilers** are the systems responsable of **Machine Learning Compilation** (MLC) wich could be defined as *"the process of transforming and optimizing machine learning execution from its development form to its deployment form"* [[mlc-ai]](https://mlc.ai/index.html).\
-Understand **MLC systems** is necessary for people interested in **high-performance implementation** of their programs (wich is especially true for deploying optimized programs in production on heterogenous devices such as embedded ones). However, it's a **huge** and **complex** topic often seen as **black magic**🔮 for newcomers in the field (including me 😊).
+At first the motivations of this project are purely educatives and practicals... So as a researcher using deep learning on a daily basis, i would like to deep dive into it and implement from "scratch" some deep learning algorithms in such way that they will be **easily reusable** and **useful** for **others**. 
 
-For people interested in the topic, I highly recommend the following ressources :
-- [Dive intro deep learning compiler](https://tvm.d2l.ai/chapter_expressions/index.html)
-- [Machine learning compilation](https://mlc.ai/)
-- [Apache TVM Documentation](https://tvm.apache.org/docs/)
-  
-### 💧 Myr 
+### 💧 Myrs 
 
-*"High Performance Machine Learning Primitives"*
+*"The Friendly Scientific Machine Learning Library"*
 
-**Myr** is an **experimental** attempt to provide **high performance implementation** of some ML/DL algorithms (such as [PINN](https://arxiv.org/abs/2201.05624)) using [Apache TVM](https://tvm.apache.org/) the End to End Machine Learning Compiler Framework for several target architectures. The long-term goal of the project is to be able to build some generic **high performance ML primitives** (ie. building blocks) by providing **high-level** TVM abstractions easily reusable by the user.
+**Myrs** is an attempt to provide a **high-level** and **human friendly API** for **Scientific Machine Learning** algorithms such as [Physics-Informed Neural Networks (PINN) ](https://arxiv.org/abs/2201.05624), [Long Short-Term Memory Recurrent Neural Networks (LSTM-RNN)](https://arxiv.org/abs/1909.09586), [Reservoir Computing](https://arxiv.org/abs/2307.15092)... but with **applications** in minds.  In fact, in the same way as [scikit-learn](https://scikit-learn.org/stable/index.html), the user will find the algorithms classified by applications and use-cases in science and engineering.
 
 The goals (first draft) :
-- At first **satisfy my willingness** to deep dive into **Machine Learning Compilation** and **High Performance** ML algorithms.
-- Be **useful**...(a hard goal 😅) by provinding **simple** optimized reusable primitives...  
+- At first **satisfy my willingness** to get my **hands dirty** to dive into **Scientific Machine Learning** algorithms and **High Performance** ML algorithms.
+- Be **useful**...(a hard goal 😅) by provinding a **simple**, **practical** and **powerful** API
+
+Although some implementations and packages already exists, the **Python Scientific Machine Learning Community** is sparse... Thus, the long term goeal of the **Myrs** project is also to unified some scientific machine learning algorithms under the "banner".
 
 Don't hesitate to contact me if you want to know more or are interested in !😃
 
 The project will be highly collaborative🤝, so everyone is welcome to the project ! 🤗  
 Contributions could be done in many ways and are not exclusively code. You could write documentation ( very important !😉), participate to the community creation (slack,matrix,gitter...) etc ...
 
-The repository will be available in the upcoming months when the project will be more advanced. Stay tuned ! 🗓️
+The github repository will be **publicly** available in the **upcoming months** when the project will be more advanced. Stay tuned ! 🗓️
 
 <h3 align="center" id="languages">
 
