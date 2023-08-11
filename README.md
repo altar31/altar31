@@ -49,10 +49,10 @@ My main research interests are :
 
 ## 👨🏻‍💻 Current project
 
-# <img src="https://github.com/altar31/altar31/blob/c118ae805f12cb4fdbc061b08218a35557217cf4/public/sciml-logo.png" alt="Image Title" width="800" height="auto">
+<img src="https://raw.githubusercontent.com/altar31/altar31/7b6b6fbca83da051934d326feaa64db12ba8ad15/public/sciml-logo.png" alt="Image Title" width="800" height="auto">
 
 ### ☕️ About
-**sci-ml** is an attempt to provide a **high-level** and **human** friendly [API](https://en.wikipedia.org/wiki/API) for **Scientific Machine Learning** algorithms such as [PINN](https://arxiv.org/abs/2201.05624), [LSTM-RNN](https://arxiv.org/abs/1909.09586), [RC](https://arxiv.org/abs/2307.15092)... but with **applications** in mind.\
+[sci-ml](https://pypi.org/project/sci-mls/) is an attempt to provide a **high-level** and **human** friendly [API](https://en.wikipedia.org/wiki/API) for **Scientific Machine Learning** algorithms such as [PINN](https://arxiv.org/abs/2201.05624), [LSTM-RNN](https://arxiv.org/abs/1909.09586), [RC](https://arxiv.org/abs/2307.15092)... but with **applications** in mind.\
 In the spirit of [scikit-learn](https://scikit-learn.org/stable/index.html), the user will find an **extensive documentation** of the implemented algorithms as well as some **practicals** use-cases in **science** and **engineering**. 
 
 Although some implementations and packages already exist, the **Python Scientific Machine Learning Community** is **sparse**... Thus, the **long-term** goal of the project is to provide a **constitutive** implementation of such algorithms under the same **banner**.
@@ -72,15 +72,16 @@ At first the motivations of this project are purely educatives and practicals...
 - The project is at a very **early stage** -> **Nothing** is implemented in this **published version**
 - The **documentation** is **missing**
 
-The **GitHub repository** as well as a **usable** Python package will be** available** in the **upcoming months**, when the project will be **more advanced**.
+The **GitHub repository** as well as a **usable** Python package will be **available** in the **upcoming months** when the project will be **more advanced**.
 
 
 ### 🤝 Community-driven
-**sci-ml** is foremost a **community-driven** project! The project will be **highly collaborative**, so everyone is welcome to the project! 🤗 
+**sci-ml** is foremost a **community-driven** project ! The project will be **highly collaborative** and everyone is welcome to the project ! 🤗 
 
 Don't hesitate to contact me if you want to know more or are interested in ! 😃 
 
 **Stay tuned !** 🗓️
+
 
 
 <h3 align="center" id="languages">
