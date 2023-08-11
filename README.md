@@ -55,13 +55,18 @@ At first the motivations of this project are purely educatives and practicals...
 
 *"The Friendly Scientific Machine Learning Library"*
 
-**Myrs** is an attempt to provide a **high-level** and **human friendly API** for **Scientific Machine Learning** algorithms such as [Physics-Informed Neural Networks (PINN) ](https://arxiv.org/abs/2201.05624), [Long Short-Term Memory Recurrent Neural Networks (LSTM-RNN)](https://arxiv.org/abs/1909.09586), [Reservoir Computing](https://arxiv.org/abs/2307.15092)... but with **applications** in minds.  In fact, in the same way as [scikit-learn](https://scikit-learn.org/stable/index.html), the user will find the algorithms classified by applications and use-cases in science and engineering.
+**Myrs** is an attempt to provide a **high-level** and **human friendly API** for **Scientific Machine Learning** algorithms such as [Physics-Informed Neural Networks (PINN) ](https://arxiv.org/abs/2201.05624), [Long Short-Term Memory Recurrent Neural Networks (LSTM-RNN)](https://arxiv.org/abs/1909.09586), [Reservoir Computing](https://arxiv.org/abs/2307.15092)... but with **applications** in minds. In fact, in the same way as [scikit-learn](https://scikit-learn.org/stable/index.html), the user will find the algorithms classified by applications and practical use-cases in science and engineering.
 
-The goals (first draft) :
-- At first **satisfy my willingness** to get my **hands dirty** to dive into **Scientific Machine Learning** algorithms and **High Performance** ML algorithms.
-- Be **useful**...(a hard goal 😅) by provinding a **simple**, **practical** and **powerful** API
+The goals:
+- At first **satisfy my willingness** to deep dive into **Scientific Machine Learning** algorithms
+- Be **useful**...(a hard goal 😅)
 
-Although some implementations and packages already exists, the **Python Scientific Machine Learning Community** is sparse... Thus, the long term goeal of the **Myrs** project is also to unified some scientific machine learning algorithms under the "banner".
+Features:
+- **Simple** and **efficient** tools for solving science and engineering problems
+- **Practical** and **powerful** API
+- Stand on the **shoulders of giants** -> Built on top of Pandas, Keras, scikit-learn and seaborn
+
+Although some implementations and packages already exists, the **Python Scientific Machine Learning Community** is **sparse**... Thus, the long term goeal of the **Myrs** project is also to unified some scientific machine learning algorithms under the same "banner".
 
 Don't hesitate to contact me if you want to know more or are interested in !😃
 
