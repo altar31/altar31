@@ -49,22 +49,29 @@ My main research interests are :
 
 ## 👨🏻‍💻 Current project
 
-<img src="https://raw.githubusercontent.com/altar31/altar31/7b6b6fbca83da051934d326feaa64db12ba8ad15/public/sciml-logo.png" alt="Image Title" width="800" height="auto">
+<img src="https://raw.githubusercontent.com/altar31/altar31/5fcce3a8ff99ecd838720bc4d43a22b1e5e37c9d/public/logo-magicml.png" alt="Image Title" width="800" height="auto">
 
 ### ☕️ About
-[sci-ml](https://pypi.org/project/sci-mls/) is an attempt to provide a **high-level** and **human** friendly [API](https://en.wikipedia.org/wiki/API) for **Scientific Machine Learning** algorithms such as [PINN](https://arxiv.org/abs/2201.05624), [LSTM-RNN](https://arxiv.org/abs/1909.09586), [RC](https://arxiv.org/abs/2307.15092)... but with **applications** in mind.\
-In the spirit of [scikit-learn](https://scikit-learn.org/stable/index.html), the user will find an **extensive documentation** of the implemented algorithms as well as some **practicals** use-cases in **science** and **engineering**. 
+**MagicML** is an open source **software** with a **Graphical User Interface (GUI)** to simplify Machine Learning (ML) models usage following the [MLOps](https://neptune.ai/blog/mlops) paradigm. It provides a **collection** of (scientific) **machine learning algorithms** and the necessary tooling for **model management**. 
 
-Although some implementations and packages already exist, the **Python Scientific Machine Learning Community** is **sparse**... Thus, the **long-term** goal of the project is to provide a **constitutive** implementation of such algorithms under the same **banner**.
+ 
+<img src="https://raw.githubusercontent.com/altar31/altar31/5fcce3a8ff99ecd838720bc4d43a22b1e5e37c9d/public/magilml-mlops.png" alt="Image Title" width="800" height="auto">
 
+**MagicML** take some inspiration from the [Weka](https://www.cs.waikato.ac.nz/ml/weka/index.html) software but in a lightweight manner, leverage the python ML ecosystem, the modern web stack (python [Dash](https://dash.plotly.com/)) and try to follow the [MLOps](https://en.wikipedia.org/wiki/MLOps) guidelines.
 ### 🎯 Goals
 
-At first the motivations of this project are purely educatives and practicals... So as a researcher using machine/deep learning on a daily basis, i would like to deep dive into it and implement some algorithms in such way that they will be **easily reusable** and **useful** for **others**. 
+- Make ML algorithms more acessible
+- Create a  ML "workbench" for researchers and enginners
+
 
 ### 🚀 Features
-- **Simple** and **efficient** tools for solving **science** and **engineering** problems using **Machine Learning**
-- **Practical** and **expressive** API
-- Stand on the **shoulders of giants** -> on top of [Pandas](https://pandas.pydata.org/), [Keras](https://keras.io/), [scikit-learn](https://scikit-learn.org/stable/) and [seaborn](https://seaborn.pydata.org/). 
+- **Model architecture** -> provide a model manager allowing the user to use pre-implemented ones and add this own. In addition, by supporting the [Open Neural Network Exchange format (ONNX)](https://onnx.ai/), MagicML is framework **agnostic**.
+- **Model training** -> the user could train from scratch the model using the **MagicML** built-in tooling. In addition pre-trained models could also be used for specific tasks.
+- **Model evaluation** -> for a selected model, MagicML provide the corresponding State Of The Art (SOTA) metrics in order to assess the model performances. 
+- **Model versioning** -> provide a tool for versioning ML training runs and experiments 
+- **Model deployment** -> provide utilities for model deployment in production
+- **Summary** -> Systematically, for each  ML experiments it provide detailed synthetic reports
+- Stand on the **shoulders of giants** -> MagicML is built on top of [Dash](https://dash.plotly.com/), [Pandas](https://pandas.pydata.org/), [Keras](https://keras.io/), [scikit-learn](https://scikit-learn.org/stable/), [mlflow](https://mlflow.org/), and [seaborn](https://seaborn.pydata.org/). 
 
 ### ⚠️ Warnings
 **For the moment:**
@@ -76,11 +83,12 @@ The **GitHub repository** as well as a **usable** Python package will be **avail
 
 
 ### 🤝 Community-driven
-**sci-ml** is foremost a **community-driven** project ! The project will be **highly collaborative** and everyone is welcome to the project ! 🤗 
+**MagicML** is foremost a **community-driven** project ! The project will be **highly collaborative** and everyone is welcome to the project ! 🤗 
 
 Don't hesitate to contact me if you want to know more or are interested in ! 😃 
 
 **Stay tuned !** 🗓️
+ 
 
 
 
