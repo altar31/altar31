@@ -49,6 +49,7 @@ My main research interests are :
 
 ## 👨🏻‍💻 Current project
 
+ 
 <img src="https://raw.githubusercontent.com/altar31/altar31/5fcce3a8ff99ecd838720bc4d43a22b1e5e37c9d/public/logo-magicml.png" alt="Image Title" width="800" height="auto">
 
 ### ☕️ About
@@ -65,13 +66,13 @@ My main research interests are :
 
 
 ### 🚀 Features
-- **Model architecture** -> provide a model manager allowing the user to use pre-implemented ones and add this own. In addition, by supporting the [Open Neural Network Exchange format (ONNX)](https://onnx.ai/), MagicML is framework **agnostic**.
-- **Model training** -> the user could train from scratch the model using the **MagicML** built-in tooling. In addition pre-trained models could also be used for specific tasks.
-- **Model evaluation** -> for a selected model, MagicML provide the corresponding State Of The Art (SOTA) metrics in order to assess the model performances. 
-- **Model versioning** -> provide a tool for versioning ML training runs and experiments 
-- **Model deployment** -> provide utilities for model deployment in production
-- **Summary** -> Systematically, for each  ML experiments it provide detailed synthetic reports
-- Stand on the **shoulders of giants** -> MagicML is built on top of [Dash](https://dash.plotly.com/), [Pandas](https://pandas.pydata.org/), [Keras](https://keras.io/), [scikit-learn](https://scikit-learn.org/stable/), [mlflow](https://mlflow.org/), and [seaborn](https://seaborn.pydata.org/). 
+- **Model architecture** -> model manager for using  pre-implemented models and allow the user to add this owns. In addition, by supporting the [Open Neural Network Exchange format (ONNX)](https://onnx.ai/), MagicML is framework **agnostic**.
+- **Model training** -> train from scratch the model using the built-in tooling. In addition pre-trained models could also be used for specific tasks.
+- **Model evaluation** -> for a selected model, the corresponding State Of The Art (SOTA) metrics are provided in order to assess the model performances. 
+- **Model versioning** -> a tool for versioning ML training runs and experiments 
+- **Model deployment** -> utilities for model deployment in production
+- **Summary** -> automatic ML experiments reports after each run
+- Stand on the **shoulders of giants** -> **MagicML** is built on top of [Dash](https://dash.plotly.com/), [Pandas](https://pandas.pydata.org/), [Keras](https://keras.io/), [scikit-learn](https://scikit-learn.org/stable/), [mlflow](https://mlflow.org/), and [seaborn](https://seaborn.pydata.org/). 
 
 ### ⚠️ Warnings
 **For the moment:**
@@ -88,6 +89,8 @@ The **GitHub repository** as well as a **usable** Python package will be **avail
 Don't hesitate to contact me if you want to know more or are interested in ! 😃 
 
 **Stay tuned !** 🗓️
+ 
+
  
 
 
