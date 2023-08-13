@@ -60,8 +60,8 @@ My main research interests are :
 **MagicML** take some inspiration from the [Weka](https://www.cs.waikato.ac.nz/ml/weka/index.html) software but in a lightweight manner, leverage the python ML ecosystem, the modern web stack (python [Dash](https://dash.plotly.com/)) and try to follow the [MLOps](https://en.wikipedia.org/wiki/MLOps) guidelines.
 ### 🎯 Goals
 
-- Make ML algorithms more acessible
-- Create a  ML "workbench" for researchers and enginners
+- Make ML algorithms more **acessible**
+- Create an **open source** ML **workbench** for researchers and enginners
 
 
 ### 🚀 Features
