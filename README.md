@@ -36,16 +36,18 @@
  
  - PhD in Physics and former French engineer.
  - Self-taught programmer passionate about the open source way to craft software
- - I'm interested in Machine Learning, Domain Specific Language (DSL) and Tooling
+ - I'm interested in machine learning, progamming languages, compilers and tooling
  - I have an amazing wife and two cats !
 
 ## 👨‍🔬 Science
 
 My main research interests are :
-* 🤖 Machine Learning for Applied Science and Engineering
+* 🤖 Machine learning for applied science and engineering
+* ✒️ Domain Specific Languages (DSL) and compilers
 * 🧮 Scientific computing 
 
 [You can find my ORCID record](https://orcid.org/0000-0003-1579-2859) and my [researchgate](https://www.researchgate.net/profile/Damien-Sicard)
+
 
 
 <h3 align="center" id="languages">
@@ -71,5 +73,4 @@ My main research interests are :
 
     
 <img src="stats.gif" width="90%"><br/><br/>
-
 
