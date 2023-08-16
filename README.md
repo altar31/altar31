@@ -43,7 +43,6 @@
 
 My main research interests are :
 * 🤖 Machine learning for applied science and engineering
-* ✒️ Domain Specific Languages (DSL) and compilers
 * 🧮 Scientific computing 
 
 [You can find my ORCID record](https://orcid.org/0000-0003-1579-2859) and my [researchgate](https://www.researchgate.net/profile/Damien-Sicard)
