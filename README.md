@@ -36,7 +36,7 @@
  
  - PhD in Physics and former French engineer.
  - Self-taught programmer passionate about the open source way to craft software
- - I'm interested in machine learning, algorithms and tooling
+ - I'm interested in machine learning, algorithms, programming languages and tooling
  - I have an amazing wife and two cats !
 
 ## 👨‍🔬 Science
