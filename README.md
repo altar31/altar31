@@ -36,14 +36,15 @@
  
  - PhD in Physics and former French engineer.
  - Self-taught programmer passionate about the open source way to craft software
- - I'm interested in machine learning, algorithms, programming languages and tooling
+ - I'm interested in Scientific Computing, Machine Learning and developer tooling
  - I have an amazing wife and two cats !
 
 ## 👨‍🔬 Science
 
 My main research interests are :
-* 🤖 Machine learning for applied science and engineering
-* 🧮 Scientific computing 
+* 🧮 Numerical Simulation of Powder Metallurgy Process
+* 🤖 Application of Machine learning in Materials science and Engineering
+
 
 [You can find my ORCID record](https://orcid.org/0000-0003-1579-2859) and my [researchgate](https://www.researchgate.net/profile/Damien-Sicard)
 
