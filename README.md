@@ -46,7 +46,7 @@ My main research interests are :
 * 🤖 Application of Machine learning in Materials science and Engineering
 
 
-[You can find my ORCID record](https://orcid.org/0000-0003-1579-2859) and my [researchgate](https://www.researchgate.net/profile/Damien-Sicard)
+[You can find my researchgate](https://www.researchgate.net/profile/Damien-Sicard)
 
 
 
