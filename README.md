@@ -36,7 +36,7 @@
  
  - PhD in Physics and former French engineer.
  - Self-taught programmer passionate about the open source way to craft software
- - I'm interested in Machine Learning, Real-time simulation and Hardware-in-the-loop simulation
+ - I'm interested in Machine Learning, Real-time and Hardware-in-the-loop simulations and systems.
  - I have an amazing wife and two cats !
 
 <h3 align="center" id="languages">
