@@ -36,8 +36,18 @@
  
  - PhD in Physics and former French engineer.
  - Self-taught programmer passionate about the open source way to craft software
- - I'm interested in Machine Learning, Real-time and Hardware-in-the-loop simulations and systems.
- - I have an amazing wife and two cats !
+ - I'm interested in Powder Metallurgy, Numerical Simulation, Machine Learning and Software Engineering
+
+## 👨‍🔬 Science
+
+My main research interests are :
+* 🧮 Numerical Simulation of Powder Metallurgy Process
+* 🤖 Application of Machine learning in Materials science and Engineering
+
+
+[You can find my ORCID record](https://orcid.org/0000-0003-1579-2859) and my [researchgate](https://www.researchgate.net/profile/Damien-Sicard)
+
+
 
 <h3 align="center" id="languages">
 
@@ -62,4 +72,3 @@
 
     
 <img src="stats.gif" width="90%"><br/><br/>
-
