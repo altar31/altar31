@@ -36,7 +36,7 @@
  
  - PhD in Physics and former French engineer.
  - Self-taught programmer passionate about the open source way to craft software
- - I'm interested in Powder Metallurgy, Numerical Simulation, Machine Learning and Software Engineering
+ - I'm interested in Powder Metallurgy and Software Engineering
 
 ## 👨‍🔬 Science
 
