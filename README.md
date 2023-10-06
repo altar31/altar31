@@ -35,8 +35,7 @@
  ## About me 🧔‍♂️
  
  - PhD in Physics and former French engineer.
- - Self-taught programmer passionate about the open source way to craft software
- - I'm interested in automation, package manager and building tools.
+ - I'm interested in building high-performances scientific & technical softwares
 
 ## 👨‍🔬 Science
 
@@ -57,8 +56,8 @@ My main research interests are :
 </h3>
 <p align="center">
     <!------>
-     <a href="https://www.rust-lang.org/"  target="blank" rel="noreferrer">
-    <img src="public/rust-logo.png" alt="rust" width="80" height="45"/></a> 
+     <a href="https://isocpp.org/"  target="blank" rel="noreferrer">
+    <img src="public/cpp-logo.png" alt="cpp" width="40" height="45"/></a> 
     <!------>
     <a href="https://www.python.org" target="blank" rel="noreferrer">
     <img src="public/python-logo.svg" alt="python" width="40" height="45"/></a>
