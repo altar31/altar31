@@ -35,7 +35,7 @@
  ## About me 🧔‍♂️
  
  - PhD in Physics and former French engineer.
- - I'm interested in building high-performances scientific & technical softwares
+ - I'm interested in building numerical simulation solvers, compilers and high-performances scientific softwares
 
 ## 👨‍🔬 Science
 
