@@ -35,13 +35,13 @@
  ## About me 🧔‍♂️
  
  - PhD in Physics and former French engineer.
- - I'm interested in building numerical simulation solvers, compilers and high-performances scientific softwares
+ - I'm interested in building interactive web apps (R Shiny), numerical simulation solvers and high-performances "data intensive" softwares
 
 ## 👨‍🔬 Science
 
 My main research interests are :
 * 🧮 Numerical Simulation of Powder Metallurgy Process
-* 🤖 Application of Machine learning in Materials science and Engineering
+* 🤖 Application of Data Analytics/Machine Learning in Materials science and Engineering
 
 
 You can find my [researchgate](https://www.researchgate.net/profile/Damien-Sicard)
