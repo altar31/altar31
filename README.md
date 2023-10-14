@@ -35,7 +35,7 @@
  ## About me 🧔‍♂️
  
  - PhD in Physics and former French engineer.
- - I'm interested in building interactive web apps (R Shiny), numerical simulation solvers and high-performances "data intensive" softwares
+ - I'm interested in programming languages, compilers, package managers and many other things...
 
 ## 👨‍🔬 Science
 
