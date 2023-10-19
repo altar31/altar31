@@ -52,7 +52,7 @@ You can find my [researchgate](https://www.researchgate.net/profile/Damien-Sicar
 
 *"Revisit the daily computing experience"* 
 
-I started working on an *"Emacs Operating Environment"*.
+I started working on a new **Emacs distribution**.
 
 It's an **invitation** for anyone to **rethink and experiment** different ways of **using a computer** for "daily" tasks such as web, mails, text/file manipulation, code...**without** leaving **Emacs**.
 
