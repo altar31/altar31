@@ -48,11 +48,11 @@ My main research interests are :
 
 You can find my [researchgate](https://www.researchgate.net/profile/Damien-Sicard)
 
-## 👨🏻‍💻 Project
+## 🌳🌳 Project 🌳🌳
 
-"Revisit the daily computing experience" 
+*"Revisit the daily computing experience"* 
 
-I started working on an *Emacs Operating Environment*.
+I started working on an *"Emacs Operating Environment"*.
 
 It's an **invitation** for anyone to **rethink and experiment** different ways of **using a computer** for "daily" tasks such as web, mails, text/file manipulation, code...**without** leaving **Emacs**.
 
@@ -60,7 +60,7 @@ The long term goals of the project :
 - Offer a **friendly**, **smooth** and **delightful** computing experience 
 - Be **friendly** for Emacs **newcomers**
 - Provide an **extensive** documentation
-- **Open source** and **Community** driven
+- **Community** driven
 
 ### Why ?
 
@@ -90,10 +90,13 @@ Stay tuned !
 <p align="center">
     <!------>
      <a href="https://www.rust-lang.org/"  target="blank" rel="noreferrer">
-    <img src="public/rust-logo.png" alt="rust" width="80" height="45"/></a> 
+    <img src="public/emacs-logo.png" alt="rust" width="90" height="80"/></a> 
+    <!------>
+     <a href="https://www.rust-lang.org/"  target="blank" rel="noreferrer">
+    <img src="public/rust-logo.png" alt="rust" width="80" height="65"/></a> 
     <!------>
     <a href="https://www.python.org" target="blank" rel="noreferrer">
-    <img src="public/python-logo.svg" alt="python" width="40" height="45"/></a>
+    <img src="public/python-logo.svg" alt="python" width="80" height="75"/></a>
 </p>
      
 
