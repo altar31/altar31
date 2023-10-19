@@ -37,7 +37,6 @@
  - PhD in Physics and former French engineer.
  - Among other things, I'm interested in programming languages, developer tooling and experiences,  machine learning, numerical simulation (FEM-based)...
  - I really enjoy to craft and fine-tune my computing experience...
- - I'm currently working on my own Emacs distribution (open source the project when the time comes)
  - I have an amazing wife and two cats 
 
 ## 👨‍🔬 Science
@@ -48,6 +47,37 @@ My main research interests are :
 
 
 You can find my [researchgate](https://www.researchgate.net/profile/Damien-Sicard)
+
+## 👨🏻‍💻 Project
+
+"Revisit the daily computing experience" 
+
+I started working on an *Emacs Operating Environment*.
+
+It's an **invitation** for anyone to **rethink and experiment** different ways of **using a computer** for "daily" tasks such as web, mails, text/file manipulation, code...**without** leaving **Emacs**.
+
+The long term goals of the project :
+- Offer a **friendly**, **smooth** and **delightful** computing experience 
+- Be **friendly** for Emacs **newcomers**
+- Provide an **extensive** documentation
+- **Open source** and **Community** driven
+
+### Why ?
+
+- For **fun** and the **joy** of **digital crafting**
+- **Revisit/rethink** my **computing experience** and the way i use a computer
+- Increase my **enjoyment and productivity**
+- **Learning** purposes (improve my skills and my knowledge of Emacs)
+
+### Contributions
+
+Don't hesitate to contact me if you want to know more or are interested in !😃
+
+The project will be highly collaborative🤝, so everyone is welcome to the project ! 🤗
+
+The github repository will be available in the upcoming months when the project will be more advanced. 
+
+Stay tuned !
 
 
 
