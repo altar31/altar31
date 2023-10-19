@@ -35,7 +35,8 @@
  ## About me 🧔‍♂️
  
  - PhD in Physics and former French engineer.
- - Among other things, I'm interested in programming languages, compilers, Machine Learning, Numerical Simulation (FEM-based)...
+ - Among other things, I'm interested in programming languages, developer tooling, compilers, machine learning, numerical imulation (FEM-based)...
+ - My Emacs' usage and interest are in progress :)
  - I have an amazing wife and two cats 
 
 ## 👨‍🔬 Science
