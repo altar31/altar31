@@ -36,6 +36,8 @@
  
  - PhD in Physics and former French engineer.
  - Among other things, I'm interested in scientific computing, machine learning, package manager, developer tooling and experiences...
+ - I really enjoy to craft and fine-tune my computing experience -> [GNU Emacs](https://www.gnu.org/software/emacs/) 
+ - I'm a [NixOS](https://nixos.org/) enthusiast
  - I have an amazing wife and two cats 
 
 ## 👨‍🔬 Science
@@ -54,8 +56,8 @@ You can find my [researchgate](https://www.researchgate.net/profile/Damien-Sicar
 
 </h3>
 <p align="center">
-    <a href="https://chapel-lang.org/"  target="blank" rel="noreferrer">
-    <img src="public/chapel-logo.png" alt="chapel" width="110" height="80"/></a> 
+    <a href="https://www.gnu.org/software/emacs/"  target="blank" rel="noreferrer">
+    <img src="public/emacs-logo.png" alt="emacs" width="90" height="80"/></a> 
     <!------>
     <!------>
      <a href="https://nixos.org/"  target="blank" rel="noreferrer">
