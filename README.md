@@ -57,8 +57,8 @@ You can find my [researchgate](https://www.researchgate.net/profile/Damien-Sicar
 </h3>
 <p align="center">
     <!------>
-     <a href="https://www.rust-lang.org/"  target="blank" rel="noreferrer">
-    <img src="public/emacs-logo.png" alt="rust" width="90" height="80"/></a> 
+     <a href="https://nixos.org/"  target="blank" rel="noreferrer">
+    <img src="public/nixos-logo2.png" alt="nixos" width="90" height="80"/></a> 
     <!------>
      <a href="https://www.rust-lang.org/"  target="blank" rel="noreferrer">
     <img src="public/rust-logo.png" alt="rust" width="80" height="65"/></a> 
