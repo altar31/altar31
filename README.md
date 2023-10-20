@@ -36,7 +36,7 @@
  
  - PhD in Physics and former French engineer.
  - Among other things, I'm interested in programming languages, developer tooling and experiences,  machine learning, numerical simulation (FEM-based)...
- - I really enjoy to craft and fine-tune my computing experience
+ - I really enjoy to craft and fine-tune my computing experience -> [GNU Emacs](https://www.gnu.org/software/emacs/) 
  - I'm a [NixOS](https://nixos.org/) enthusiast
  - I have an amazing wife and two cats 
 
@@ -56,6 +56,9 @@ You can find my [researchgate](https://www.researchgate.net/profile/Damien-Sicar
 
 </h3>
 <p align="center">
+    <a href="https://www.gnu.org/software/emacs/"  target="blank" rel="noreferrer">
+    <img src="public/emacs-logo.png" alt="emacs" width="90" height="80"/></a> 
+    <!------>
     <!------>
      <a href="https://nixos.org/"  target="blank" rel="noreferrer">
     <img src="public/nixos-logo2.png" alt="nixos" width="90" height="80"/></a> 
