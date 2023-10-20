@@ -35,9 +35,9 @@
  ## About me 🧔‍♂️
  
  - PhD in Physics and former French engineer.
- - Among other things, I'm interested in scientific computing, machine learning, package manager, developer tooling and experiences...
- - I really enjoy to craft and fine-tune my computing experience -> [GNU Emacs](https://www.gnu.org/software/emacs/) 
- - I'm a [NixOS](https://nixos.org/) enthusiast
+ - Among other things, I'm interested in scientific computing and machine learning
+ - For fun and learning purposes, i currently implement from **scratch** a **Machine Learning Framework**  
+ - I'm a gamer, runner, cookery enthusiast and avid traveler.
  - I have an amazing wife and two cats 
 
 ## 👨‍🔬 Science
@@ -63,6 +63,8 @@ You can find my [researchgate](https://www.researchgate.net/profile/Damien-Sicar
      <a href="https://nixos.org/"  target="blank" rel="noreferrer">
     <img src="public/nixos-logo2.png" alt="nixos" width="90" height="80"/></a> 
     <!------>
+     <a href="https://chapel-lang.org/"  target="blank" rel="noreferrer">
+    <img src="public/chapel-logo.png" alt="chapel" width="100" height="80"/></a> 
      <a href="https://www.rust-lang.org/"  target="blank" rel="noreferrer">
     <img src="public/rust-logo.png" alt="rust" width="80" height="65"/></a> 
     <!------>
