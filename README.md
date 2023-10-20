@@ -55,7 +55,7 @@ You can find my [researchgate](https://www.researchgate.net/profile/Damien-Sicar
 </h3>
 <p align="center">
     <a href="https://chapel-lang.org/"  target="blank" rel="noreferrer">
-    <img src="public/chapel-logo.png" alt="chapel" width="90" height="80"/></a> 
+    <img src="public/chapel-logo.png" alt="chapel" width="110" height="80"/></a> 
     <!------>
     <!------>
      <a href="https://nixos.org/"  target="blank" rel="noreferrer">
