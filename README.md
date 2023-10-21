@@ -37,6 +37,7 @@
  - PhD in Physics and former French engineer.
  - Among other things, I'm interested in scientific computing, machine learning, domain specific languages and compilers
  - I'm a polyglot developer but i mainly use the [Julia](https://julialang.org/) programming language these days
+ - I enjoy to build interactive dashboards/web apps
  - I'm a gamer, runner, cookery enthusiast and avid traveler.
  - I have an amazing wife and two cats 
 
