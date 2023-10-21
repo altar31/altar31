@@ -37,7 +37,7 @@
  - PhD in Physics and former French engineer.
  - Among other things, I'm interested in scientific computing and machine learning
  - For fun and learning purposes, i currently implement from **scratch** a **Machine Learning Framework**
- - I like to tinker my [Emacs](https://www.gnu.org/software/emacs/) configuration 
+ - I like to tinker my [GNU Emacs](https://www.gnu.org/software/emacs/) configuration 
  - I'm a gamer, runner, cookery enthusiast and avid traveler.
  - I have an amazing wife and two cats 
 
