@@ -35,9 +35,8 @@
  ## About me 🧔‍♂️
  
  - PhD in Physics and former French engineer.
- - Among other things, I'm interested in scientific computing and machine learning
- - For fun and learning purposes, i currently implement from **scratch** a **Machine Learning Framework**
- - I like to tinker my [GNU Emacs](https://www.gnu.org/software/emacs/) configuration 
+ - Among other things, I'm interested in scientific computing, machine learning, domain specific languages and compilers
+ - I'm a polyglot developer but these days i extensively use the [Julia](https://julialang.org/) programming language
  - I'm a gamer, runner, cookery enthusiast and avid traveler.
  - I have an amazing wife and two cats 
 
@@ -57,16 +56,12 @@ You can find my [researchgate](https://www.researchgate.net/profile/Damien-Sicar
 
 </h3>
 <p align="center">
-    <a href="https://www.gnu.org/software/emacs/"  target="blank" rel="noreferrer">
-    <img src="public/emacs-logo.png" alt="emacs" width="90" height="80"/></a> 
     <!------>
-     <a href="https://chapel-lang.org/"  target="blank" rel="noreferrer">
-    <img src="public/chapel-logo.png" alt="chapel" width="100" height="80"/></a> 
-     <a href="https://www.rust-lang.org/"  target="blank" rel="noreferrer">
-    <img src="public/rust-logo.png" alt="rust" width="80" height="65"/></a> 
+    <a href="https://julialang.org/" target="blank" rel="noreferrer">
+    <img src="public/julia-logo.png" alt="julia" width="80" height="75"/></a>
     <!------>
     <a href="https://www.python.org" target="blank" rel="noreferrer">
-    <img src="public/python-logo.svg" alt="python" width="80" height="75"/></a>
+    <img src="public/python-logo.svg" alt="python" width="80" height="80"/></a>
 </p>
      
 
