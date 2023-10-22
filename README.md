@@ -36,8 +36,7 @@
  
  - PhD in Physics and former French engineer.
  - Among other things, I'm interested in scientific computing, machine learning, domain specific languages and compilers
- - I'm a polyglot developer but i mainly use the [Julia](https://julialang.org/) programming language these days
- - I enjoy to build interactive dashboards/web apps
+ - I'm a polyglot developer but i mainly use Python on a daily basis. 
  - I'm a gamer, runner, cookery enthusiast and avid traveler.
  - I have an amazing wife and two cats 
 
@@ -53,17 +52,6 @@ You can find my [researchgate](https://www.researchgate.net/profile/Damien-Sicar
 <h3 align="center" id="languages">
 
 ![Damien's github stats](https://github-readme-stats.vercel.app/api?username=altar31&count_private=true&show_icons=true&theme=chartreuse-dark)<a href="https://github.com/altar31/github-readme-stats">
-<!-- Programming Languages -->
-
-</h3>
-<p align="center">
-    <!------>
-    <a href="https://julialang.org/" target="blank" rel="noreferrer">
-    <img src="public/julia-logo.png" alt="julia" width="80" height="75"/></a>
-    <!------>
-    <a href="https://www.python.org" target="blank" rel="noreferrer">
-    <img src="public/python-logo.svg" alt="python" width="80" height="80"/></a>
-</p>
      
 
  <p align="center"> 
