@@ -57,11 +57,14 @@ You can find my [researchgate](https://www.researchgate.net/profile/Damien-Sicar
 </h3>
 <p align="center">
     <!------>
+    <a href="https://quasar.dev/" target="blank" rel="noreferrer">
+    <img src="public/quasar.png" alt="quasar" width="85" height="80"/></a>
+    <!------>
     <a href="https://julialang.org/" target="blank" rel="noreferrer">
     <img src="public/julia-logo.png" alt="julia" width="80" height="75"/></a>
     <!------>
     <a href="https://www.python.org" target="blank" rel="noreferrer">
-    <img src="public/python-logo.svg" alt="python" width="80" height="80"/></a>
+    <img src="public/python-logo.svg" alt="python" width="75" height="80"/></a>
 </p>
      
 
