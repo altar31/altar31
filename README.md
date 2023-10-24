@@ -35,7 +35,7 @@
  ## About me 🧔‍♂️
  
  - PhD in Physics and former French engineer.
- - Among other things, I'm interested in scientific computing and  machine learning
+ - Among other things, I'm interested in scientific computing, machine learning, programming languages and compilers
  - I enjoy to build interactive web applications
  - I'm a gamer, runner, cookery enthusiast and avid traveler.
  - I have an amazing wife and two cats 
@@ -56,15 +56,17 @@ You can find my [researchgate](https://www.researchgate.net/profile/Damien-Sicar
 
 </h3>
 <p align="center">
-    <!------>
-    <a href="https://quasar.dev/" target="blank" rel="noreferrer">
-    <img src="public/quasar.png" alt="quasar" width="85" height="80"/></a>
-    <!------>
     <a href="https://julialang.org/" target="blank" rel="noreferrer">
     <img src="public/julia-logo.png" alt="julia" width="80" height="75"/></a>
     <!------>
     <a href="https://www.python.org" target="blank" rel="noreferrer">
     <img src="public/python-logo.svg" alt="python" width="75" height="80"/></a>
+      <!------>
+    <a href="https://isocpp.org/" target="blank" rel="noreferrer">
+    <img src="public/cpp-logo.png" alt="cpp" width="70" height="75"/></a>
+        <!------>
+    <a href="https://quasar.dev/" target="blank" rel="noreferrer">
+    <img src="public/quasar.png" alt="quasar" width="85" height="80"/></a>
 </p>
      
 
