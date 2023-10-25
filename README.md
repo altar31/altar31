@@ -64,8 +64,6 @@ You can find my [researchgate](https://www.researchgate.net/profile/Damien-Sicar
     <a href="https://isocpp.org/" target="blank" rel="noreferrer">
     <img src="public/cpp-logo.png" alt="cpp" width="70" height="75"/></a>
         <!------>
-    <a href="https://quasar.dev/" target="blank" rel="noreferrer">
-    <img src="public/quasar.png" alt="quasar" width="85" height="80"/></a>
 </p>
      
 
