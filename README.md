@@ -35,9 +35,10 @@
  ## About me 🧔‍♂️
  
  - PhD in Physics and former French engineer.
- - Among other things, I'm interested in scientific computing, machine learning, software engineering and powder metallurgy
+ - Among other things, I'm interested in scientific computing, machine learning, software engineering and powder metallurgy.
+ - I enjoy to build interactive dashboards/web applications.
  - I'm a gamer, runner, cookery enthusiast and avid traveler.
- - I have an amazing wife and two cats 
+ - I have an amazing wife and two cats. 
 
 ## 👨‍🔬 Science
 
