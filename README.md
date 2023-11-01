@@ -57,21 +57,13 @@ You can find my [researchgate](https://www.researchgate.net/profile/Damien-Sicar
 </h3>
 <p align="center">
     <!------>
-    <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="blank" rel="noreferrer">
-    <img src="public/csharp-logo.png" alt="cs" width="70" height="75"/></a>
-    <!------>
-    <a href="https://dotnet.microsoft.com/en-us/" target="blank" rel="noreferrer">
-    <img src="public/net-logo.png" alt="dotnet" width="70" height="75"/></a>
-    <!------>
-    <a href="https://avaloniaui.net/" target="blank" rel="noreferrer">
-    <img src="public/avalonia-logo.png" alt="dotnet" width="70" height="75"/></a>
-    <!------>
+    <a href="https://plotly.com/graphing-libraries/" target="blank" rel="noreferrer">
+    <img src="public/dash-logo.png" alt="dash" width="130" height="85"/></a>
     <a href="https://julialang.org/" target="blank" rel="noreferrer">
     <img src="public/julia-logo.png" alt="julia" width="80" height="75"/></a>
     <!------>
     <a href="https://www.python.org" target="blank" rel="noreferrer">
     <img src="public/python-logo.svg" alt="python" width="75" height="80"/></a>
-
 </p>
      
 
