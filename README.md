@@ -35,16 +35,15 @@
  ## About me 🧔‍♂️
  
  - PhD in Physics and former French engineer.
- - Among other things, I'm interested in scientific computing, machine learning, software engineering and powder metallurgy.
- - I enjoy to build interactive dashboards/web applications.
- - I'm a gamer, runner, cookery enthusiast and avid traveler.
+ - Among other things, I'm interested in scientific computing, data science, software engineering and powder metallurgy.
+ - I'm a gamer, avid fantasy reader, runner, cookery enthusiast and avid traveler.
  - I have an amazing wife and two cats. 
 
 ## 👨‍🔬 Science
 
 My main research interests are :
 * 🧮 Numerical Simulation of Powder Metallurgy Process
-* 🤖 Application of Data Analytics/Machine Learning in Materials science and Engineering
+* 🤖 Application of Data Science/Machine Learning in Materials science and Engineering
 
 
 You can find my [researchgate](https://www.researchgate.net/profile/Damien-Sicard)
@@ -57,8 +56,6 @@ You can find my [researchgate](https://www.researchgate.net/profile/Damien-Sicar
 </h3>
 <p align="center">
     <!------>
-    <a href="https://plotly.com/graphing-libraries/" target="blank" rel="noreferrer">
-    <img src="public/dash-logo.png" alt="dash" width="130" height="85"/></a>
     <a href="https://julialang.org/" target="blank" rel="noreferrer">
     <img src="public/julia-logo.png" alt="julia" width="80" height="75"/></a>
     <!------>
