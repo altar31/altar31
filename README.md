@@ -57,7 +57,7 @@ You can find my [researchgate](https://www.researchgate.net/profile/Damien-Sicar
 <p align="center">
     <!------>
     <a href="https://go.dev/" target="blank" rel="noreferrer">
-    <img src="public/go-logo.png" alt="go" width="130" height="130"/></a>
+    <img src="public/go-logo.png" alt="go" width="130" height="120"/></a>
     <!------>
     <a href="https://www.python.org" target="blank" rel="noreferrer">
     <img src="public/python-logo.svg" alt="python" width="75" height="80"/></a>
