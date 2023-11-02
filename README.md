@@ -36,7 +36,7 @@
  
  - PhD in Physics and former French engineer.
  - Among other things, I'm interested in scientific computing, data science, software engineering and powder metallurgy.
- - I'm a gamer, avid fantasy reader, runner, cookery enthusiast and avid traveler.
+ - I'm a gamer, avid fantasy reader, cookery enthusiast, runner and traveler.
  - I have an amazing wife and two cats. 
 
 ## 👨‍🔬 Science
@@ -56,11 +56,14 @@ You can find my [researchgate](https://www.researchgate.net/profile/Damien-Sicar
 </h3>
 <p align="center">
     <!------>
-    <a href="https://julialang.org/" target="blank" rel="noreferrer">
-    <img src="public/julia-logo.png" alt="julia" width="80" height="75"/></a>
+    <a href="https://go.dev/" target="blank" rel="noreferrer">
+    <img src="public/go-logo.png" alt="go" width="75" height="80"/></a>
     <!------>
     <a href="https://www.python.org" target="blank" rel="noreferrer">
     <img src="public/python-logo.svg" alt="python" width="75" height="80"/></a>
+    <!------>
+    <a href="https://julialang.org/" target="blank" rel="noreferrer">
+    <img src="public/julia-logo.png" alt="julia" width="80" height="75"/></a>
 </p>
      
 
