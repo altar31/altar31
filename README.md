@@ -36,7 +36,7 @@
  
  - PhD in Physics and former French engineer.
  - Among other things, I'm interested in scientific computing, data science, software engineering and powder metallurgy.
- - I enjoy to build interactive dashboard/web applications 
+ - I enjoy to build interactive dashboard/web applications in Python. 
  - I'm a gamer, avid fantasy reader, cookery enthusiast, runner and traveler.
  - I have an amazing wife and two cats. 
 
@@ -62,9 +62,6 @@ You can find my [researchgate](https://www.researchgate.net/profile/Damien-Sicar
     <!------>
     <a href="https://julialang.org/" target="blank" rel="noreferrer">
     <img src="public/julia-logo.png" alt="julia" width="80" height="75"/></a>
-    <!------>
-    <a href="https://go.dev/" target="blank" rel="noreferrer">
-    <img src="public/go-logo.png" alt="go" width="130" height="120"/></a>
 </p>
      
 
