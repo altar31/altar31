@@ -35,16 +35,17 @@
  ## About me 🧔‍♂️
  
  - PhD in Physics and former French engineer.
- - Among other things, I'm interested in scientific computing, data science, software engineering and powder metallurgy.
- - I enjoy to build interactive dashboard/web applications in Python. 
- - I'm a gamer, avid fantasy reader, cookery enthusiast, runner and traveler.
+ - Among other things, I'm interested in scientific computing, software engineering and powder metallurgy.
+ - I'm a cookery enthusiast, runner and traveler.
  - I have an amazing wife and two cats. 
 
 ## 👨‍🔬 Science
 
 My main research interests are :
-* 🧮 Numerical Simulation of Powder Metallurgy Process
-* 🤖 Application of Data Science/Machine Learning in Materials science and Engineering
+* Numerical Simulation of Powder Metallurgy Process
+* [Domain Specific Languages (DSL)](https://en.wikipedia.org/wiki/Domain-specific_language)
+* Applications of Machine Learning algorithms in Materials science and Engineering
+
 
 
 You can find my [researchgate](https://www.researchgate.net/profile/Damien-Sicard)
@@ -56,6 +57,9 @@ You can find my [researchgate](https://www.researchgate.net/profile/Damien-Sicar
 
 </h3>
 <p align="center">
+    <!------>
+    <a href="https://go.dev/" target="blank" rel="noreferrer">
+    <img src="public/go-logo.png" alt="golang" width="140" height="120"/></a>
     <!------>
     <a href="https://www.python.org" target="blank" rel="noreferrer">
     <img src="public/python-logo.svg" alt="python" width="75" height="80"/></a>
