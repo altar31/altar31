@@ -42,9 +42,9 @@
 ## 👨‍🔬 Science
 
 My main research interests are :
-* Numerical Simulation of Powder Metallurgy Process
+* Numerical Simulation of [Powder Metallurgy Process](https://en.wikipedia.org/wiki/Spark_plasma_sintering) 
 * [Domain Specific Languages (DSL)](https://en.wikipedia.org/wiki/Domain-specific_language)
-* Applications of Machine Learning algorithms in Materials science and Engineering
+* Applications of [Machine Learning](https://mitsloan.mit.edu/ideas-made-to-matter/machine-learning-explained) algorithms in Materials science and Engineering
 
 
 
@@ -59,7 +59,11 @@ You can find my [researchgate](https://www.researchgate.net/profile/Damien-Sicar
 <p align="center">
     <!------>
     <a href="https://go.dev/" target="blank" rel="noreferrer">
-    <img src="public/go-logo.png" alt="golang" width="140" height="120"/></a>
+    <img src="public/go-logo.png" alt="golang" width="140" height="140"/></a>
+    <!------>
+    <!------>
+    <a href="https://isocpp.org/" target="blank" rel="noreferrer">
+    <img src="public/cpp-logo.png" alt="cpp" width="75" height="80"/></a>
     <!------>
     <a href="https://www.python.org" target="blank" rel="noreferrer">
     <img src="public/python-logo.svg" alt="python" width="75" height="80"/></a>
