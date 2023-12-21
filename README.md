@@ -36,7 +36,7 @@
  
  - PhD in Physics and former energy engineer.
  - Among other things, I'm interested in  machine learning, scientific computing and software engineering.
- - I enjoy to implement high-performance algorithms in [modern fortran](https://fortran-lang.org/) 
+ - I enjoy to implement high-performance machine learning algorithms from scratch.
  - I'm a cookery enthusiast, runner and traveler.
  - I have an amazing wife and two cats. 
 
@@ -54,14 +54,7 @@ You can find my [researchgate](https://www.researchgate.net/profile/Damien-Sicar
 <!-- Programming Languages -->
 
 </h3>
-<p align="center">
-    <!------>
-    <a href="https://fortran-lang.org/" target="blank" rel="noreferrer">
-    <img src="public/fortran_logo.png" alt="fortran" width="80" height="80"/></a>
-    <!------>
-    <a href="https://www.python.org" target="blank" rel="noreferrer">
-    <img src="public/python-logo.svg" alt="python" width="75" height="80"/></a>
-</p>
+
      
 
  <p align="center"> 
