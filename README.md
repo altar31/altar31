@@ -36,7 +36,6 @@
  
  - PhD in Physics and former energy engineer.
  - Among other things, I'm interested in database, machine learning, scientific computing and software engineering.
- - I enjoy to implement high-performance machine learning algorithms from scratch.
  - I'm a cookery enthusiast, runner and traveler.
  - I have an amazing wife and two cats. 
 
