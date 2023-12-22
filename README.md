@@ -33,7 +33,7 @@
  
  - PhD in Physics and former energy engineer.
  - Among other things, I'm interested in machine learning, scientific computing, software engineering, and powder metallurgy.
- - In my sparse time i play with the [Pharo](https://pharo.org/) programming language.
+ - In my sparse time i enjoy programming in [Ruby](https://www.ruby-lang.org/en/).
  - I'm a cookery enthusiast, runner and traveler.
  - I have an amazing wife and two cats. 
 
@@ -55,8 +55,8 @@ You can find my [researchgate](https://www.researchgate.net/profile/Damien-Sicar
     <!------>
     <a href="https://www.python.org" target="blank" rel="noreferrer">
     <img src="public/python-logo.svg" alt="python" width="75" height="80"/></a>
-    <a href="https://pharo.org/" target="blank" rel="noreferrer">
-    <img src="public/pharo_logo.png" alt="pharo" width="80" height="80"/></a>
+    <a href="https://www.ruby-lang.org/en/" target="blank" rel="noreferrer">
+    <img src="public/ruby_logo.png" alt="pharo" width="80" height="80"/></a>
 </p>
      
 
