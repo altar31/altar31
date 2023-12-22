@@ -56,7 +56,7 @@ You can find my [researchgate](https://www.researchgate.net/profile/Damien-Sicar
     <a href="https://www.python.org" target="blank" rel="noreferrer">
     <img src="public/python-logo.svg" alt="python" width="75" height="80"/></a>
     <a href="https://www.ruby-lang.org/en/" target="blank" rel="noreferrer">
-    <img src="public/ruby_logo.png" alt="pharo" width="80" height="80"/></a>
+    <img src="public/ruby_logo2.png" alt="ruby" width="80" height="80"/></a>
 </p>
      
 
