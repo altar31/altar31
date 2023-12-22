@@ -32,16 +32,16 @@
  ## About me 🧔‍♂️
  
  - PhD in Physics and former energy engineer.
- - Among other things, I'm interested in machine learning, software engineering, scientific computing and powder metallurgy.
- - I enjoy to build interactive software and implement algorithms from scratch (often for learning purpose ;) ).
+ - Among other things, I'm interested in machine learning, scientific computing, software engineering, and powder metallurgy.
+ - In my sparse time i play with the [Pharo](https://pharo.org/) programming language.
  - I'm a cookery enthusiast, runner and traveler.
  - I have an amazing wife and two cats. 
 
 ## 👨‍🔬 Science
 
 My main research interests are :
+* Numerical Simulation of [Powder Metallurgy Process](https://en.wikipedia.org/wiki/Spark_plasma_sintering)
 * Applications of [Machine Learning](https://mitsloan.mit.edu/ideas-made-to-matter/machine-learning-explained) algorithms in Materials science and Engineering
-* Numerical Simulation of [Powder Metallurgy Process](https://en.wikipedia.org/wiki/Spark_plasma_sintering) 
 
 You can find my [researchgate](https://www.researchgate.net/profile/Damien-Sicard)
 
