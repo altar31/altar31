@@ -35,7 +35,7 @@
  ## About me 🧔‍♂️
  
  - PhD in Physics and former energy engineer.
- - Among other things, I'm interested in database, machine learning, scientific computing and software engineering.
+ - Among other things, I'm interested in database & data analytics, machine learning and software engineering.
  - I'm a cookery enthusiast, runner and traveler.
  - I have an amazing wife and two cats. 
 
