@@ -21,9 +21,6 @@
     <a href="mailto:sicard.research@gmail.com" target="blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-sicard.research@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=sicard.research@gmail.com)" alt="linkedin" alt="ORCID" height="28" /></a> 
     <!------>
-    <a href="https://orcid.org/0000-0003-1579-2859" target="blank" rel="noreferrer">
-    <img src="public\ORCID-green.svg" alt="ORCID" width="65" /></a>
-    <!------>
     <a href="https://www.researchgate.net/profile/Damien-Sicard" target="blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white" alt="researchgate" /></a>
 </p>
