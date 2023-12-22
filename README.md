@@ -33,7 +33,7 @@
  
  - PhD in Physics and former energy engineer.
  - Among other things, I'm interested in machine learning, scientific computing, software engineering, and powder metallurgy.
- - In my sparse time i enjoy programming in [Ruby](https://www.ruby-lang.org/en/).
+ - Programming in [Ruby](https://www.ruby-lang.org/en/) make me [happy](https://poignant.guide/).
  - I'm a cookery enthusiast, runner and traveler.
  - I have an amazing wife and two cats. 
 
