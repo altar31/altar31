@@ -36,7 +36,7 @@
  
  - PhD in Physics and former energy engineer.
  - Among other things, I'm interested in machine learning, software engineering, scientific computing and powder metallurgy.
- - I enjoy to build interactive software and implement algorithms from scratch (often for learning purpose).
+ - I enjoy to build interactive software and implement algorithms from scratch (often for learning purpose ;) ).
  - I'm a cookery enthusiast, runner and traveler.
  - I have an amazing wife and two cats. 
 
