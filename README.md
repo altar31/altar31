@@ -33,7 +33,7 @@
  
  - PhD in Physics and former energy engineer.
  - Among other things, I'm interested in machine learning, scientific computing and software engineering.
- - I extensively use [Rust](https://www.rust-lang.org/) and [Python](https://www.python.org) programming labguages
+ - I extensively use [Rust](https://www.rust-lang.org/) and [Python](https://www.python.org) programming languages.
  - I'm a cookery enthusiast, runner and traveler.
  - I have an amazing wife and two cats. 
 
