@@ -32,7 +32,7 @@
  ## About me 🧔‍♂️
  
  - PhD in Physics and former energy engineer.
- - Among other things, I'm interested in machine learning, scientific computing, software engineering, and powder metallurgy.
+ - Among other things, I'm interested in machine learning algorithms and their implementations, scientific computing and software engineering.
  - I'm a cookery enthusiast, runner and traveler.
  - I have an amazing wife and two cats. 
 
@@ -42,7 +42,6 @@ My main research interests are :
 * Numerical Simulation of [Powder Metallurgy Process](https://en.wikipedia.org/wiki/Spark_plasma_sintering)
 * Applications of [Machine Learning](https://mitsloan.mit.edu/ideas-made-to-matter/machine-learning-explained) algorithms in Materials science and Engineering
 
-You can find my [researchgate](https://www.researchgate.net/profile/Damien-Sicard)
 
 <h3 align="center" id="languages">
 
@@ -54,8 +53,6 @@ You can find my [researchgate](https://www.researchgate.net/profile/Damien-Sicar
     <!------>
     <a href="https://www.python.org" target="blank" rel="noreferrer">
     <img src="public/python-logo.svg" alt="python" width="75" height="80"/></a>
-    <a href="https://www.rust-lang.org/" target="blank" rel="noreferrer">
-    <img src="public/rust-logo.png" alt="rust" width="100" height="85"/></a>
 </p>
      
 
