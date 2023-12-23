@@ -33,7 +33,6 @@
  
  - PhD in Physics and former energy engineer.
  - Among other things, I'm interested in machine learning, scientific computing, software engineering, and powder metallurgy.
- - Programming in [Ruby](https://www.ruby-lang.org/en/) make me [happy](https://poignant.guide/).
  - I'm a cookery enthusiast, runner and traveler.
  - I have an amazing wife and two cats. 
 
@@ -55,8 +54,8 @@ You can find my [researchgate](https://www.researchgate.net/profile/Damien-Sicar
     <!------>
     <a href="https://www.python.org" target="blank" rel="noreferrer">
     <img src="public/python-logo.svg" alt="python" width="75" height="80"/></a>
-    <a href="https://www.ruby-lang.org/en/" target="blank" rel="noreferrer">
-    <img src="public/ruby_logo2.png" alt="ruby" width="90" height="85"/></a>
+    <a href="https://www.rust-lang.org/" target="blank" rel="noreferrer">
+    <img src="public/rust-logo.png" alt="rust" width="100" height="85"/></a>
 </p>
      
 
