@@ -39,8 +39,8 @@
 ## 👨‍🔬 Science
 
 My main research interests are :
-* Numerical Simulation of [Powder Metallurgy Process](https://en.wikipedia.org/wiki/Spark_plasma_sintering)
-* Applications of [Machine Learning](https://mitsloan.mit.edu/ideas-made-to-matter/machine-learning-explained) algorithms in Materials science and Engineering
+* Numerical Simulation of Powder Metallurgy Process
+* Applications of Machine Learning/ Deep Learning algorithms in Materials science and Engineering
 
 
 <h3 align="center" id="languages">
