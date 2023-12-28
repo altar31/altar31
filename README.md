@@ -33,7 +33,6 @@
  
  - PhD in Physics and former energy engineer.
  - Among other things, I'm interested in machine learning, scientific computing and software engineering.
- - I extensively use [Rust](https://www.rust-lang.org/) and [Python](https://www.python.org) programming languages.
  - I'm a cookery enthusiast, runner and traveler.
  - I have an amazing wife and two cats. 
 
@@ -54,6 +53,8 @@ My main research interests are :
     <!------>
     <a href="https://www.rust-lang.org/" target="blank" rel="noreferrer">
     <img src="public/rust-logo.png" alt="rust" width="100" height="80"/></a>
+    <a href="https://isocpp.org/" target="blank" rel="noreferrer">
+    <img src="public/cpp-logo.png" alt="cpp" width="75" height="80"/></a>
     <a href="https://www.python.org" target="blank" rel="noreferrer">
     <img src="public/python-logo.svg" alt="python" width="75" height="80"/></a>
 </p>
