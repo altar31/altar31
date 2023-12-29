@@ -33,7 +33,7 @@
  
  - PhD in Physics and former energy engineer.
  - Among other things, I'm interested in machine learning, scientific computing and software engineering.
- - I enjoy using [Nushell](https://www.nushell.sh/) in my workflow.
+ - I enjoy using [Nix & NixOS](https://nixos.org/).
  - I'm a cookery enthusiast, runner and traveler.
  - I have an amazing wife and two cats. 
 
@@ -52,8 +52,8 @@ My main research interests are :
 </h3>
 <p align="center">
     <!------>    
-    <a href="https://www.nushell.sh/" target="blank" rel="noreferrer">
-    <img src="public/nu-logo.png" alt="nushell" width="80" height="75"/></a>
+    <a href="https://nixos.org/" target="blank" rel="noreferrer">
+    <img src="public/nix-logo.png" alt="nix" width="80" height="80"/></a>
     <a href="https://www.rust-lang.org/" target="blank" rel="noreferrer">
     <img src="public/rust-logo.png" alt="rust" width="90" height="70"/></a>
     <a href="https://isocpp.org/" target="blank" rel="noreferrer">
