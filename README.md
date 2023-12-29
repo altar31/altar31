@@ -54,7 +54,9 @@ My main research interests are :
 <p align="center">
     <!------>    
     <a href="https://nixos.org/" target="blank" rel="noreferrer">
-    <img src="public/nix-logo.png" alt="nix" width="90" height="90"/></a>
+    <img src="public/nix-logo.png" alt="nix" width="80" height="80"/></a>
+    <a href="https://www.nushell.sh/" target="blank" rel="noreferrer">
+    <img src="public/nu-logo.png" alt="nushell" width="80" height="75"/></a>
     <a href="https://www.rust-lang.org/" target="blank" rel="noreferrer">
     <img src="public/rust-logo.png" alt="rust" width="90" height="70"/></a>
     <a href="https://isocpp.org/" target="blank" rel="noreferrer">
