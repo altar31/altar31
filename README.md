@@ -33,7 +33,7 @@
  
  - PhD in Physics and former energy engineer.
  - Among other things, I'm interested in machine learning, scientific computing and software engineering.
- - I enjoy using [Nix](https://nixos.org/))  programming in [Ocaml](https://ocaml.org/).
+ - I enjoy using [Nix](https://nixos.org/) in my workflow.
  - I'm a cookery enthusiast, runner and traveler.
  - I have an amazing wife and two cats. 
 
