@@ -33,7 +33,7 @@
  
  - PhD in Physics and former energy engineer.
  - Among other things, I'm interested in machine learning, scientific computing and software engineering.
- - I enjoy using [Nix](https://nixos.org/) in my workflow.
+ - I enjoy using [Nix](https://nixos.org/) and [Nushell](https://www.nushell.sh/) in my workflow.
  - I'm a cookery enthusiast, runner and traveler.
  - I have an amazing wife and two cats. 
 
@@ -41,8 +41,7 @@
 
 My main research interests are :
 * Numerical Simulation of Powder Metallurgy Process,
-* Applications of Machine Learning/Deep Learning algorithms in Materials science and Engineering,
-* Domain Specific Language (DSL).
+* Applications of Machine Learning/Deep Learning algorithms in Materials science and Engineering.
 
 
 <h3 align="center" id="languages">
