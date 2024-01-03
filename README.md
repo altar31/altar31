@@ -33,7 +33,7 @@
  
  - PhD in Physics and former energy engineer.
  - Among other things, I'm interested in Machine Learning (ML), Scientific Computing and Software Engineering.
- - I enjoy implementing from scratch some ML algorithms in [D](https://dlang.org/) programming language.
+ - I enjoy implementing from scratch some ML algorithms.
  - I'm a cookery enthusiast, runner and traveler.
  - I have an amazing wife and two cats. 
 
