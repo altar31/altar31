@@ -33,15 +33,16 @@
  
  - PhD in Physics and former energy engineer.
  - Among other things, I'm interested in Machine Learning (ML), Scientific Computing and Software Engineering.
- - I enjoy implementing from scratch some ML algorithms.
+ - I enjoy implementing from scratch ML algorithms.
  - I'm a cookery enthusiast, runner and traveler.
  - I have an amazing wife and two cats. 
 
 ## 👨‍🔬 Science
 
 My main research interests are :
-* Numerical Simulation of Powder Metallurgy Process,
-* Applications of Machine Learning/Deep Learning algorithms in Materials science and Engineering.
+* High-performance Machine Learning,
+* Applications of Machine Learning/Deep Learning algorithms in Materials science and Engineering,
+* Numerical Simulation of Powder Metallurgy Process.
 
 
 <h3 align="center" id="languages">
@@ -52,8 +53,8 @@ My main research interests are :
 </h3>
 <p align="center">
     <!------>    
-    <a href="https://dlang.org/" target="blank" rel="noreferrer">
-    <img src="public/D-logo.png" alt="D" width="90" height="80"/></a>
+    <a href="https://chapel-lang.org" target="blank" rel="noreferrer">
+    <img src="https://chapel-lang.org/images/chapel-logo-200.png" alt="chapel" width="130" height="85"/></a>
     <a href="https://isocpp.org/" target="blank" rel="noreferrer">
     <img src="public/cpp-logo.png" alt="cpp" width="75" height="80"/></a>
     <a href="https://www.python.org" target="blank" rel="noreferrer">
