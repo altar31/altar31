@@ -52,6 +52,8 @@ My main research interests are :
 </h3>
 <p align="center">
     <!------>    
+    <a href="https://dlang.org/" target="blank" rel="noreferrer">
+    <img src="public/D-logo.png" alt="D" width="90" height="80"/></a>
     <a href="https://isocpp.org/" target="blank" rel="noreferrer">
     <img src="public/cpp-logo.png" alt="cpp" width="75" height="80"/></a>
     <a href="https://www.python.org" target="blank" rel="noreferrer">
