@@ -32,7 +32,7 @@
  ## About me 🧔‍♂️
  
  - PhD in Physics and former energy engineer.
- - Among other things, I'm interested in Powder Metallurgy, Scientific Computing and Machine Learning.
+ - Among other things, I'm interested in Powder Metallurgy, Scientific Computing and Scientific Machine Learning.
  - I'm a cookery enthusiast, runner and traveler.
  - I have an amazing wife and two cats. 
 
