@@ -40,8 +40,7 @@
 
 My main research interests are :
 * Numerical Simulation of Powder Metallurgy Process,
-* Development of multiphysics numerical solver (Finite Element Methods (FEM)),
-* High-performance Machine Learning,
+* Physics-Informed Machine Learning,
 * Applications of Machine Learning/Deep Learning algorithms in Materials science and Engineering.
 
 
