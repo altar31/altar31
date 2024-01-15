@@ -54,7 +54,7 @@ My main research interests are :
 <p align="center">
     <!------> 
     <a href="https://elixir-lang.org/" target="blank" rel="noreferrer">
-    <img src="public/elixir-logo2.png" alt="elixir" width="120" height="80"/></a>
+    <img src="public/elixir-logo2.png" alt="elixir" width="100" height="75"/></a>
     <a href="https://www.python.org" target="blank" rel="noreferrer">
     <img src="public/python-logo.svg" alt="python" width="75" height="80"/></a>
 </p>
