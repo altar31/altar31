@@ -53,7 +53,7 @@ My main research interests are :
 <p align="center">
     <!------> 
     <a href="https://www.python.org" target="blank" rel="noreferrer">
-    <img src="public/python-logo.svg" alt="python" width="75" height="80"/></a>
+    <img src="public/python-logo.svg" alt="python" width="70" height="80"/></a>
 </p>
      
 
