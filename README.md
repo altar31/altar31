@@ -32,7 +32,6 @@
  ## About me 🧔‍♂️
  
  - PhD in Physics and former energy engineer.
- - I enjoy to build interactive scientific web applications using [Elixir](https://elixir-lang.org/) and the [Phoenix framework](https://www.phoenixframework.org/).
  - I'm a cookery enthusiast, runner and traveler.
  - I have an amazing wife and two cats. 
 
@@ -53,8 +52,6 @@ My main research interests are :
 </h3>
 <p align="center">
     <!------> 
-    <a href="https://elixir-lang.org/" target="blank" rel="noreferrer">
-    <img src="public/elixir-logo2.png" alt="elixir" width="100" height="75"/></a>
     <a href="https://www.python.org" target="blank" rel="noreferrer">
     <img src="public/python-logo.svg" alt="python" width="75" height="80"/></a>
 </p>
