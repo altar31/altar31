@@ -32,7 +32,7 @@
  ## About me 🧔‍♂️
  
  - PhD in Physics and former energy engineer.
- - Among other things, I'm interested in Powder Metallurgy, Scientific Computing, Machine Learning and Software Engineering.
+ - I enjoy to build interactive scientific web applications using [Elixir](https://elixir-lang.org/) and the [Phoenix framework](https://www.phoenixframework.org/).
  - I'm a cookery enthusiast, runner and traveler.
  - I have an amazing wife and two cats. 
 
