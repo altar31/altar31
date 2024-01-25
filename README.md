@@ -31,9 +31,9 @@
 
  ## About me 🧔‍♂️
  
- - PhD in Physics and former energy engineer.
- - I'm a cookery enthusiast, runner and traveler.
- - I have an amazing wife and two cats. 
+ - PhD in Physics and former energy engineer
+ - I'm a cookery enthusiast, runner and traveler
+ - I have an amazing wife and two cats
 
 ## 👨‍🔬 Science
 
@@ -54,6 +54,9 @@ My main research interests are :
     <!------> 
     <a href="https://www.python.org" target="blank" rel="noreferrer">
     <img src="public/python-logo.svg" alt="python" width="70" height="80"/></a>
+    <!------> 
+    <a href="https://chapel-lang.org/" target="blank" rel="noreferrer">
+    <img src="public/chapel-logo.png" alt="chapel" width="120" height="80"/></a>
 </p>
      
 
