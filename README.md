@@ -54,6 +54,9 @@ My main research interests are :
     <!------> 
     <a href="https://www.python.org" target="blank" rel="noreferrer">
     <img src="public/python-logo.svg" alt="python" width="70" height="80"/></a>
+     <!------> 
+    <a href="https://www.rust-lang.org/" target="blank" rel="noreferrer">
+    <img src="public/rust-logo.png" alt="rust" width="100" height="80"/></a>
     <!------> 
     <a href="https://chapel-lang.org/" target="blank" rel="noreferrer">
     <img src="public/chapel-logo.png" alt="chapel" width="120" height="80"/></a>
