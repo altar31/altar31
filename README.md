@@ -51,12 +51,14 @@ My main research interests are :
 
 </h3>
 <p align="center">
+    <a href="https://ecma-international.org/technical-committees/tc39/" target="blank" rel="noreferrer">
+    <img src="public/Javascript-logo.png" alt="javascript" width="80" height="80"/></a>
+    <!------> 
+    <a href="https://www.rust-lang.org/" target="blank" rel="noreferrer">
+    <img src="public/rust-logo.png" alt="rust" width="90" height="80"/></a>
     <!------> 
     <a href="https://www.python.org" target="blank" rel="noreferrer">
     <img src="public/python-logo.svg" alt="python" width="70" height="80"/></a>
-     <!------> 
-    <a href="https://www.rust-lang.org/" target="blank" rel="noreferrer">
-    <img src="public/rust-logo.png" alt="rust" width="100" height="80"/></a>
 </p>
      
 
