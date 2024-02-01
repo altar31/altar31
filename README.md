@@ -52,11 +52,8 @@ My main research interests are :
 </h3>
 <p align="center">
     <!------> 
-    <a href="https://go.dev/" target="blank" rel="noreferrer">
-    <img src="public/go-logo.png" alt="go" width="140" height="120"/></a>
-    <!------> 
     <a href="https://julialang.org/" target="blank" rel="noreferrer">
-    <img src="public/julia-logo.png" alt="julia" width="80" height="70"/></a>
+    <img src="public/julia-logo.png" alt="julia" width="90" height="80"/></a>
     <!------> 
     <a href="https://www.python.org" target="blank" rel="noreferrer">
     <img src="public/python-logo.svg" alt="python" width="80" height="80"/></a>
