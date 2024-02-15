@@ -49,16 +49,7 @@ My main research interests are :
 ![Damien's github stats](https://github-readme-stats.vercel.app/api?username=altar31&count_private=true&show_icons=true&theme=chartreuse-dark)<a href="https://github.com/altar31/github-readme-stats">
 <!-- Programming Languages -->
 
-</h3>
-<p align="center">
-    <!------> 
-    <a href="https://www.python.org" target="blank" rel="noreferrer">
-    <img src="public/python-logo.svg" alt="python" width="80" height="90"/></a>
-    <!------> 
-    <a href="https://www.rust-lang.org/" target="blank" rel="noreferrer">
-    <img src="public/rust-logo.png" alt="rust" width="100" height="80"/></a>
-</p>
-     
+
 
  <p align="center"> 
   Visitors count<br>
