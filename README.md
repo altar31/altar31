@@ -38,8 +38,8 @@
 ## 👨‍🔬 Science
 
 My main research interests are :
-* Phase-field simulations of materials microstructures.
 * Simulation of Powder Metallurgy Process,
+* Phase-field simulation of materials microstructures,
 * Applications of Machine Learning in Materials science and Engineering.
 
 
