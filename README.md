@@ -41,20 +41,8 @@ My main research interests are :
 * Simulation of Powder Metallurgy Process,
 * Applications of Machine Learning in Materials science and Engineering.
 * Low-level Deep Learning primitives (ie. Automatic differentiation,optimizers...)
-
-## Projects
-
-In my **free time** i working on a [automatic differentiation](https://en.wikipedia.org/wiki/Automatic_differentiation) library. 
-
-The library is written with the parallel programming language [Chapel](https://chapel-lang.org/) and I plan to write a frontend API in Python in the future.
-
-The **public** GitHub repository will be available when the project will be more advanced.
-
----------------------
-
-
-
-
+  
+--------------------------------
 <h3 align="center" id="languages">
 
 ![Damien's github stats](https://github-readme-stats.vercel.app/api?username=altar31&count_private=true&show_icons=true&theme=chartreuse-dark)<a href="https://github.com/altar31/github-readme-stats">
