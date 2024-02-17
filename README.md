@@ -39,8 +39,10 @@
 
 My main research interests are :
 
-* (kinetic) Monte Carlo methods.
+
 * Simulation of Powder Metallurgy Process,
+* Simulation of Material Microstructure,
+* (kinetic) Monte Carlo numerical methods,
 * Applications of Machine Learning in Materials science and Engineering.
   
 --------------------------------
