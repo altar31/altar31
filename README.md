@@ -39,7 +39,7 @@
 
 My main research interests are :
 
-* kinetic Monte Carlo (KMC) solvers.
+* (kinetic) Monte Carlo methods.
 * Simulation of Powder Metallurgy Process,
 * Applications of Machine Learning in Materials science and Engineering.
   
