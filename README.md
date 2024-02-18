@@ -32,16 +32,14 @@
  ## About me 🧔‍♂️
  
  - PhD in Physics and former energy engineer
+ - I enjoy playing with [LLVM](https://llvm.org/)
  - I'm a cookery enthusiast, runner and traveler
  - I have an amazing wife and two cats
 
 ## 👨‍🔬 Science
 
 My main research interests are :
-
-
 * Simulation of Powder Metallurgy Process at various scales,
-* Automatic differentiation,
 * Applications of Machine Learning in Materials science and Engineering.
   
 --------------------------------
