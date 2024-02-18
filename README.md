@@ -40,9 +40,8 @@
 My main research interests are :
 
 
-* Simulation of Powder Metallurgy Process,
-* Simulation of Material Microstructure,
-* (kinetic) Monte Carlo numerical methods,
+* Simulation of Powder Metallurgy Process at various scales,
+* Automatic differentiation,
 * Applications of Machine Learning in Materials science and Engineering.
   
 --------------------------------
