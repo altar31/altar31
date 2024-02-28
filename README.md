@@ -39,7 +39,7 @@
 
 My main research interests are :
 * Simulation of Powder Metallurgy Process,
-* Development of finite element solvers/models with [FreeFEM](https://freefem.org/)
+* Low-level Deep Learning primitives,
 * Applications of Deep Learning in Materials science and Engineering.
   
 --------------------------------
