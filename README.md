@@ -32,8 +32,10 @@
  ## About me 🧔‍♂️
  
  - PhD in Physics and former energy engineer
+ - I enjoy to build softwares with [React](https://react.dev/), [Tauri](https://tauri.app/) and [Rust](https://www.rust-lang.org/)
  - I'm a cookery enthusiast, runner and traveler
  - I have an amazing wife and two cats
+
 
 ## 👨‍🔬 Science
 
