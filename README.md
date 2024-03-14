@@ -32,7 +32,7 @@
  ## About me 🧔‍♂️
  
  - PhD in Physics and former energy engineer
- - I enjoy to build interactive, powerfull and portable software solutions by using [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) and [Tauri](https://tauri.app/)
+- I enjoy to build software solutions by using [React](https://react.dev/) for the **frontend** and [Rust](https://www.rust-lang.org/) for the **backend** : both side bundle with [Tauri](https://tauri.app/)
  - I'm a cookery enthusiast, runner and traveler
  - I have an amazing wife and two cats
 
