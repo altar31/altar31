@@ -32,7 +32,7 @@
  ## About me 🧔‍♂️
  
  - PhD in Physics and former energy engineer
-- I enjoy to build software solutions by using [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) & [React](https://react.dev/) for the **frontend** and [Rust](https://www.rust-lang.org/) for the **backend** : both side bundle with [Tauri](https://tauri.app/)
+ - I enjoy to build high-performance, portable and useful software in [Rust](https://www.rust-lang.org/) 
  - I'm a cookery enthusiast, runner and traveler
  - I have an amazing wife and two cats
 
