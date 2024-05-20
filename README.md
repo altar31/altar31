@@ -41,8 +41,8 @@
 
 My main research interests are :
 * Simulation of Powder Metallurgy Process,
-* Deep Learning models,
-* Applications of Deep Learning in Materials science and Engineering.
+* Deep Learning models and Physics Informed Neural Networks,
+* Applications of Deep Learning and Scientific Machine Learning in Powder Metallurgy, Materials science and Engineering.
   
 --------------------------------
 <h3 align="center" id="languages">
