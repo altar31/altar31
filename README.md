@@ -32,7 +32,6 @@
  ## About me 🧔‍♂️
  
  - PhD in Physics and former energy engineer
- - I'm a polyglot programmer, using mainly Python, Julia and Rust. 
  - I enjoy to build data-driven & technical computing softwares solutions & systems
  - I'm a cookery enthusiast, runner and traveler
  - I have an amazing wife and two cats
