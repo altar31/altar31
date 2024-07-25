@@ -40,7 +40,7 @@
 ## 👨‍🔬 Science
 
 My main research interests are :
-* Data-driven systems,
+* Data-driven systems
 * Machine Learning & Deep Learning algorithms
   
 --------------------------------
