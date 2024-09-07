@@ -33,7 +33,7 @@
  
  - PhD in Physics and former energy engineer
  - I enjoy to build data-driven & technical computing softwares solutions & systems
- - I'm interested in programming language and [DSL](https://developer.mozilla.org/en-US/docs/Glossary/DSL/Domain_specific_language) design.
+ - I'm interested in programming language.
  - I'm a cookery enthusiast, runner and traveler
  - I have an amazing wife and two cats
 
