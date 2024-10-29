@@ -32,7 +32,7 @@
  ## About me 🧔‍♂️
  
  - PhD in Physics and former energy engineer
- - I'm interested in "low-energy" Large Language Models (LLMs)
+ - I'm interested in package manager (developer experience...), Deep Learning and LLMs
  - I enjoy to build data-driven softwares solutions & systems
  - I'm a cookery enthusiast, runner and traveler
  - I have an amazing wife and two cats
@@ -41,8 +41,8 @@
 ## 👨‍🔬 Science
 
 My main research interests are :
-* Machine Learning & Deep Learning algorithms
-* Large Language Models (LLMs) and models compression algorithms
+* Deep Learning algorithms
+* Applications of Large Language Models (LLMs)
 * Scientific Computing (FEM-based simulations)
   
 --------------------------------
