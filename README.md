@@ -33,7 +33,6 @@
  
  - PhD in Physics and former energy engineer
  - I enjoy to build data-driven softwares solutions & systems
- - I'm a polyglot programmer (Python, Rust, C++, Java...) and a KNIME "addict"
  - I'm a cookery enthusiast, runner and traveler
  - I have an amazing wife and two cats
 
