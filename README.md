@@ -32,7 +32,8 @@
  ## About me 🧔‍♂️
  
  - PhD in Physics and former energy engineer
- - I enjoy to build data-driven softwares solutions & systems
+ - I'm a polyglot programmer ( Python, Rust, Java, C++ ...) and a [KNIME](https://www.knime.com/?pk_vid=474d9889bd3510461732723757d23a46) "addict"
+ - I enjoy to solve complex [Data Science](https://en.wikipedia.org/wiki/Data_science) problems
  - I'm a cookery enthusiast, runner and traveler
  - I have an amazing wife and two cats
 
@@ -40,7 +41,7 @@
 ## 👨‍🔬 Science
 
 My main research interests are :
-* Deep Learning algorithms
+* Machine Learning/Deep Learning algorithms
 * Applications of Large Language Models (LLMs)
 * Scientific Computing (FEM-based simulations)
   
