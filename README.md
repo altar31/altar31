@@ -33,7 +33,7 @@
  
  - PhD in Physics and former energy engineer
  - I'm a polyglot programmer ( Python, Rust, Scala, SQL...).
- - I enjoy to solve complex [Data Science problems
+ - I enjoy to solve complex Data Science problems
  - I'm a cookery enthusiast, runner and traveler
  - I have an amazing wife and two cats
 
