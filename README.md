@@ -32,7 +32,7 @@
  ## About me 🧔‍♂️
  
  - PhD in Physics and former energy engineer
- - I'm a polyglot programmer (Python, SQL, Scala, Rust...)
+ - I'm a polyglot programmer (Python, SQL, Rust...)
  - I enjoy to solve complex problems by building AI-based solutions and systems
  - I'm a cookery enthusiast, runner and traveler
  - I have an amazing wife and two cats
@@ -41,8 +41,7 @@
 ## 👨‍🔬 Science
 
 My main research interests are :
-* Machine Learning/Deep Learning algorithms
-* Applications of Large Language Models (LLMs)
+* Deep Learning algorithms for time series analysis 
 * Scientific Computing (FEM-based simulations)
   
 --------------------------------
