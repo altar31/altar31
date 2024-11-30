@@ -41,7 +41,7 @@
 ## 👨‍🔬 Science
 
 My main research interests are :
-* Deep Learning algorithms for time series analysis 
+* Deep Learning Algorithms 
 * Scientific Computing (FEM-based simulations)
   
 --------------------------------
