@@ -32,7 +32,7 @@
  ## About me 🧔‍♂️
  
  - PhD in Physics and former energy engineer
- - I'm a polyglot programmer (Python,Java, SQL, Rust...)
+ - I'm a polyglot programmer (Python,C++,Rust, SQL...)
  - I enjoy to solve complex problems by building AI-based solutions and systems
  - I'm a cookery enthusiast, runner and traveler
  - I have an amazing wife and two cats
