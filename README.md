@@ -33,7 +33,7 @@
  
  - PhD in Physics and former energy engineer
  - I'm a polyglot programmer (Python,Rust,SQL...)
- - I enjoy to solve complex problems by building AI-based solutions and systems
+ - I enjoy to solve complex problems by building software solutions
  - I'm a cookery enthusiast, runner and traveler
  - I have an amazing wife and two cats
 
