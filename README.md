@@ -40,8 +40,10 @@
 ## 👨‍🔬 Science
 
 My main research interests are :
-* Deep Learning - Large Language Models (LLMs)
-* Energy efficiency of LLMs
+* Deep Learning (DL) models architectures
+* Transformers-based DL models
+* Large Language Models (LLMs)
+* Energy efficiency of LLMs (Quantizations...)
 
 --------------------------------
 <h3 align="center" id="languages">
