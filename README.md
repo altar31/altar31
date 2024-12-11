@@ -42,7 +42,7 @@
 My main research interests are :
 * Deep Learning (DL) models architectures
 * Transformers-based DL models
-* Large Language Models (LLMs)
+* Large Language Models (LLMs) & Prompt Engineering
 
 --------------------------------
 <h3 align="center" id="languages">
