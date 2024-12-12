@@ -40,8 +40,8 @@
 ## 👨‍🔬 Science
 
 My main research interests are :
-* Machine Learning / Deep Learning algorithms
-* Large Language Models (LLMs) & Prompt Engineering
+* Deep Learning algorithms
+* Large Language Models (LLMs), RAG & Prompt Engineering
 * Scientific Computing (FEM-based simulation)
 
 --------------------------------
