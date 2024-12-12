@@ -40,8 +40,7 @@
 ## 👨‍🔬 Science
 
 My main research interests are :
-* Deep Learning (DL) models architectures
-* Transformers-based DL models
+* Machine Learning / Deep Learning algorithms
 * Large Language Models (LLMs) & Prompt Engineering
 * Scientific Computing (FEM-based simulation)
 
