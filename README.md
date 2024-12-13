@@ -32,7 +32,7 @@
  ## About me 🧔‍♂️
  
  - PhD in Physics and former energy engineer
- - I try to solve complex problems by building AI-based systems & softwares
+ - I try to solve complex problems by building AI-based systems
  - I'm a cookery enthusiast, runner and traveler
  - I have an amazing wife and two cats
 
@@ -40,7 +40,7 @@
 ## 👨‍🔬 Science
 
 My main research interests are :
-* Deep Learning algorithms
+* Modular AI systems 
 * Large Language Models (LLMs)
 * Scientific Computing (FEM-based simulation)
 
