@@ -41,7 +41,7 @@
 ## 👨‍🔬 Science
 
 My main research interests are :
-* Modular AI systems
+* Deep Learning 
 * Large Language Models (LLMs)
 * LLM serving & inference
 
