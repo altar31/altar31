@@ -32,7 +32,8 @@
  ## About me 🧔‍♂️
  
  - PhD in Physics and former energy engineer
- - I try to solve complex problems by building AI-based systems, APIs and Apps
+ - I'm passionate about programming and software engineering
+ - I try to solve complex problems by building AI-based systems
  - I'm a cookery enthusiast, runner and traveler
  - I have an amazing wife and two cats
 
