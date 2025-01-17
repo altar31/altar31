@@ -40,11 +40,10 @@
 ## 👨‍🔬 Science
 
 My main research interests are :
-* Deep Learning
-* Large Language Models (LLMs)
-* LLM finetuning
+* Machine Learning/Deep Learning
+* Machine Learning Compilers 
+* Large Language Models (LLM)
 * LLM serving & inference
-
 
 --------------------------------
 <h3 align="center" id="languages">
