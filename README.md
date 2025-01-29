@@ -32,7 +32,6 @@
  ## About me 🧔‍♂️
  
  - PhD in Physics and former energy engineer
- - I'm passionate deeply passionate about numerical modeling & simulations
  - I try to solve complex problems by building AI-based systems
  - I'm a cookery enthusiast, runner and traveler
  - I have an amazing wife and two cats
@@ -41,10 +40,10 @@
 ## 👨‍🔬 Science
 
 My main research interests are :
-* Multiphysics, multiscale simulations
-* Digital twin
-* Machine Learning/Deep Learning
+* Numerical simulations
+* Machine Learning/Deep Learning 
 * Large Language Models (LLM)
+
 
 --------------------------------
 <h3 align="center" id="languages">
