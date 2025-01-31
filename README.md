@@ -32,8 +32,8 @@
  ## About me 🧔‍♂️
  
  - PhD in Physics and former energy engineer
- - I'm a polyglot programmer ( Python, Rust,Go, C++,...)
- - I try to solve complex problems by building AI-based systems
+ - I'm a polyglot programmer ( Python C++, MATLAB/Simulink...)
+ - I try to solve complex problems by building multiphysics models augmented by AI
  - I'm a cookery enthusiast, runner and traveler
  - I have an amazing wife and two cats
 
@@ -41,7 +41,7 @@
 ## 👨‍🔬 Science
 
 My main research interests are :
-* Numerical simulations
+*  (Real-time) numerical simulations
 * Machine Learning/Deep Learning 
 * Large Language Models (LLM)
 
