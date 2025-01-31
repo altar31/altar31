@@ -32,7 +32,7 @@
  ## About me 🧔‍♂️
  
  - PhD in Physics and former energy engineer
- - I'm a polyglot programmer ( Python, Rust,Go, C++,...) and a [KMIME](https://www.knime.com/knime-analytics-platform) addict
+ - I'm a polyglot programmer ( Python, Rust,Go, C++,...)
  - I try to solve complex problems by building AI-based systems
  - I'm a cookery enthusiast, runner and traveler
  - I have an amazing wife and two cats
