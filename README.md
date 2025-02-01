@@ -32,7 +32,7 @@
  ## About me 🧔‍♂️
  
  - PhD in Physics and former energy engineer
- - I'm a polyglot programmer ( Python C++, MATLAB/Simulink...)
+ - I'm passionate about numerical modeling, scientific computing , machine learning and programming (mainly in Python)
  - I try to solve complex problems by building multiphysics models augmented by AI
  - I'm a cookery enthusiast, runner and traveler
  - I have an amazing wife and two cats
@@ -41,7 +41,7 @@
 ## 👨‍🔬 Science
 
 My main research interests are :
-*  (Real-time) numerical simulations
+* Numerical modeling & scientific computing
 * Machine Learning/Deep Learning 
 * Large Language Models (LLM)
 
