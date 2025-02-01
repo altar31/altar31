@@ -32,8 +32,8 @@
  ## About me 🧔‍♂️
  
  - PhD in Physics and former energy engineer
- - I'm passionate about numerical modeling, scientific computing , machine/deep learning and programming (mainly in Python & C/C++)
- - I try to solve complex problems by building multiphysics models augmented by AI
+ - Among other thinggs, I'm passionate about numerical modeling, machine/deep learning and programming (mainly in Python & C/C++)
+ - I try to solve complex problems by building AI-based systems
  - I'm a cookery enthusiast, runner and traveler
  - I have an amazing wife and two cats
 
