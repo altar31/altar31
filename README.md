@@ -32,7 +32,7 @@
  ## About me 🧔‍♂️
  
  - PhD in Physics and former energy engineer
- - I'm passionate about numerical modeling, Data Science/AI and programming (Python, Javacript, Rust, [KNIME](https://www.knime.com/knime-analytics-platform))
+ - I'm passionate about numerical modeling, Data Science/AI and programming (Python, Javacript, Rust, [KNIME](https://www.knime.com/knime-analytics-platform),...)
  - I try to solve complex problems by building AI-based systems
  - I'm a cookery enthusiast, runner and traveler
  - I have an amazing wife and two cats
