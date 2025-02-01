@@ -32,7 +32,7 @@
  ## About me 🧔‍♂️
  
  - PhD in Physics and former energy engineer
- - Among other thinggs, I'm passionate about numerical modeling, machine/deep learning and programming (mainly in Python & C/C++)
+ - I'm passionate about numerical modeling, AI and programming (Python, Javacript, Rust)
  - I try to solve complex problems by building AI-based systems
  - I'm a cookery enthusiast, runner and traveler
  - I have an amazing wife and two cats
