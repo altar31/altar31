@@ -32,7 +32,7 @@
  ## About me 🧔‍♂️
  
  - PhD in Physics and former energy engineer
- - I'm passionate about Data Science/AI and sofware engineering
+ - I'm passionate about Programming language, AI and sofware engineering
  - I try to solve complex problems by building AI-based systems
  - I'm a cookery enthusiast, runner and traveler
  - I have an amazing wife and two cats
@@ -41,8 +41,9 @@
 ## 👨‍🔬 Science
 
 My main research interests are :
-* Numerical modeling & scientific computing
-* Machine Learning/Deep Learning 
+* Numerical modeling
+* Domain Specific Language/Compiler
+* Machine/Deep Learning 
 * Large Language Models (LLM)
 
 
