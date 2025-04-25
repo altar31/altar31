@@ -40,7 +40,7 @@
 ## 👨‍🔬 Science
 
 My main research interests are :
-* Scientific Computing (FEM based simulations)
+* Scientific Computing and numerical modeling (FEM, Modelica)
 * Machine Learning/Deep Learning 
 * Large Language Models (LLM)
 
