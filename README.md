@@ -32,7 +32,7 @@
  ## About me 🧔‍♂️
  
  - PhD in Physics and former energy engineer
- - I'm passionate about scientific computing, AI and software engineering
+ - I'm passionate about scientific computing hardware-in-the-loop simulation and AI
  - I'm a cookery enthusiast, runner and traveler
  - I have an amazing wife and two cats
 
@@ -40,9 +40,9 @@
 ## 👨‍🔬 Science
 
 My main research interests are :
-* Scientific Computing and numerical modeling 
-* Machine Learning/Deep Learning 
-* Large Language Models (LLM)
+* Scientific Computing and numerical modeling
+* Hardware-in-the-loop (Hil) simulation 
+* Machine Learning/Deep Learning algorithms
 
 
 --------------------------------
