@@ -32,7 +32,7 @@
  ## About me 🧔‍♂️
  
  - PhD in Physics and former energy engineer
- - I'm passionate about scientific computing hardware-in-the-loop simulation and AI
+ - I'm passionate about scientific computing, hardware-in-the-loop simulation and AI
  - I'm a cookery enthusiast, runner and traveler
  - I have an amazing wife and two cats
 
