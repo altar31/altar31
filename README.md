@@ -41,6 +41,7 @@
 
 My main research interests are :
 * Machine Learning/Deep Learning algorithms
+* Deep Learning models inference
 * Scientific Computing and numerical modeling
 
 
