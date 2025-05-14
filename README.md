@@ -32,7 +32,7 @@
  ## About me 🧔‍♂️
  
  - PhD in Physics and former energy engineer
- - I'm passionate about FPGA, AI based systems and software engineering 
+ - Amoung other things, i'm passionate about scientific computing, FPGA, AI-based systems and software engineering 
  - I'm a cookery enthusiast, runner and traveler
  - I have an amazing wife and two cats
 
