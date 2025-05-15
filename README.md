@@ -32,7 +32,7 @@
  ## About me 🧔‍♂️
  
  - PhD in Physics and former energy engineer
- - Amoung other things, i'm passionate about System on Chip (SoC), FPGA, AI-based systems and software engineering 
+ - Amoung other things, i'm passionate scientific computing,FPGA, AI-based systems and software engineering 
  - I'm a cookery enthusiast, runner and traveler
  - I have an amazing wife and two cats
 
@@ -41,7 +41,7 @@
 
 My main research interests are :
 * Machine Learning/Deep Learning algorithms
-* System on Chip (SoC) and FPGA 
+* FPGA/System on Chip (SoC)  
 * Scientific Computing and numerical modeling
 
 
