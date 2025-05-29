@@ -32,7 +32,7 @@
  ## About me 🧔‍♂️
  
  - PhD in Physics and former energy engineer
- - Amoung other things, i'm passionate scientific computing, AI-based systems and software engineering 
+ - Amoung other things, i'm passionate about scientific computing, low-energy AI-based systems and software engineering 
  - I'm a cookery enthusiast, runner and traveler
  - I have an amazing wife and two cats
 
