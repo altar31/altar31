@@ -40,8 +40,9 @@
 ## 👨‍🔬 Science
 
 My main research interests are :
-* Machine Learning/Deep Learning algorithms
-* FPGA/System on Chip (SoC)  
+* Deep Learning algorithms
+* FPGA Systems
+* Non-von Neumann Computing  
 * Scientific Computing and numerical modeling
 
 
