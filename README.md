@@ -32,7 +32,7 @@
  ## About me 🧔‍♂️
  
  - PhD in Physics and former energy engineer
- - Amoung other things, i'm passionate about low-power computing, AI-based systems, numerical modeling and software engineering 
+ - Amoung other things, i'm passionate about software engineering , numerical modeling and AI
  - I'm a cookery enthusiast, mountain bike practitioner and traveler
  - I have an amazing wife and two cats
 
@@ -41,8 +41,7 @@
 
 My main research interests are :
 * Deep Learning algorithms
-* FPGA Systems
-* Low-power/neuromorphic computing  
+* FPGA Systems 
 * Scientific Computing and numerical modeling
 
 
