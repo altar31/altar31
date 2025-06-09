@@ -40,8 +40,8 @@
 ## 👨‍🔬 Science
 
 My main research interests are :
-* Deep Learning algorithms
-* FPGA Systems 
+* AI-based systems
+* Proof assistant and formal verification
 * Scientific Computing and numerical modeling
 
 
