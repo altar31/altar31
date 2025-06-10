@@ -32,7 +32,7 @@
  ## About me 🧔‍♂️
  
  - PhD in Physics and former energy engineer
- - Amoung other things, i'm passionate about software engineering  and AI
+ - Amoung other things, i'm passionate about low-power computing, software engineering  and AI
  - I'm a cookery enthusiast, mountain bike practitioner and traveler
  - I have an amazing wife and two cats
 
@@ -41,8 +41,7 @@
 
 My main research interests are :
 * AI-based systems
-* AI software engineering systems ( "vibe/agentic" coding)
-* Proof assistant and formal verification
+* FPGA and low-power computing
 * Scientific Computing and numerical modeling
 
 
