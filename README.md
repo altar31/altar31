@@ -41,6 +41,7 @@
 
 My main research interests are :
 * AI-based systems
+* AI software engineering systems ( "vibe/agentic" coding)
 * Proof assistant and formal verification
 * Scientific Computing and numerical modeling
 
