@@ -41,8 +41,8 @@
 
 My main research interests are :
 * AI-based systems
-* Green softwares and computing systems
-* FPGA and low-power computing
+* Green software/computing 
+* Energy and computing ressources scheduling algorithms
 * Scientific Computing and numerical modeling
 
 
@@ -62,3 +62,4 @@ My main research interests are :
 
     
 <img src="stats.gif" width="90%"><br/><br/>
+
