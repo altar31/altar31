@@ -41,7 +41,7 @@
 
 My main research interests are :
 * AI-based systems
-* Green software/computing 
+* Green computing 
 * Scientific Computing and numerical modeling
 
 
