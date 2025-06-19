@@ -32,7 +32,7 @@
  ## About me 🧔‍♂️
  
  - PhD in Physics and former energy engineer
- - Amoung other things, i'm passionate about green computing, scientific computing, AI and software engineering 
+ - Amoung other things, i'm passionate about green computing, AI and software engineering 
  - I'm a cookery enthusiast, mountain bike practitioner and traveler
  - I have an amazing wife and two cats
 
@@ -40,7 +40,7 @@
 ## 👨‍🔬 Science
 
 My main research interests are :
-* AI-based systems
+* AI models and related inference systems
 * Green computing 
 * Scientific Computing and numerical modeling
 
