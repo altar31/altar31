@@ -41,7 +41,8 @@
 
 My main research interests are :
 * AI models
-* (AI-powered) Search engine
+* AI-powered search systems
+* Vector database
 * Scientific Computing and numerical modeling
 
 
