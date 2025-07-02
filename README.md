@@ -41,8 +41,7 @@
 
 My main research interests are :
 * AI models
-* Green computing
-* Search engine
+* (AI-powered) Search engine
 * Scientific Computing and numerical modeling
 
 
