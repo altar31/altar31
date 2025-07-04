@@ -32,7 +32,7 @@
  ## About me 🧔‍♂️
  
  - PhD in Physics and former energy engineer
- - Amoung other things, i'm interested in green computing, AI, data compression  & software engineering 
+ - Amoung other things, i'm interested in solving complex problems with AI, build AI-systems & software engineering 
  - I'm a cookery enthusiast, mountain bike practitioner and traveler
  - I have an amazing wife and two cats
 
