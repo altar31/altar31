@@ -40,8 +40,9 @@
 ## 👨‍🔬 Science
 
 My main research interests are :
-* AI models and multiagents systems.
-* Data compression algorithms 
+* AI models and systems
+* AI agents
+* Large Language Model (LLM)
 * Scientific Computing and numerical modeling
 
 
