@@ -40,7 +40,7 @@
 ## 👨‍🔬 Science
 
 My main research interests are :
-* AI models and systems
+* AI models and inference systems
 * Large Language Model (LLM)
 * Scientific Computing and numerical modeling
 
