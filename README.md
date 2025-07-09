@@ -32,7 +32,7 @@
  ## About me 🧔‍♂️
  
  - PhD in Physics and former energy engineer
- - Amoung other things, i'm interested in solving complex problems, build AI-systems, blockchain technology and software engineering 
+ - Amoung other things, i'm interested in solving complex problems, build AI-systems and software engineering 
  - I'm a cookery enthusiast, mountain bike practitioner and traveler
  - I have an amazing wife and two cats
 
@@ -41,7 +41,6 @@
 
 My main research interests are :
 * AI models and systems
-* AI agents
 * Large Language Model (LLM)
 * Scientific Computing and numerical modeling
 
