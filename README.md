@@ -1,7 +1,4 @@
 <div align="center"> 
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?         font=Fira+Code&weight=800&size=30&duration=3500&pause=400&color=239A3B&center=true&width=750&lines=Hello there !++;I'm+Damien+Sicard++;A++French+scientist;Engineer+and+self-taught+developer" alt="Typing SVG" /></a>
-
 <figure>
     <img src="public/DeepDream.png"
          alt="DeepDream">
