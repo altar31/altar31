@@ -29,7 +29,7 @@
  ## About me 🧔‍♂️
  
  - PhD in Physics and former energy engineer
- - Amoung other things, i'm interested in solving complex problems, build AI-systems and compilers
+ - Amoung other things, i'm interested in solving complex problems, build AI-systems, compilers and cryptography
  - I'm a cookery enthusiast, mountain bike practitioner and traveler
  - I have an amazing wife and two cats
 
