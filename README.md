@@ -40,7 +40,7 @@ My main research interests are :
 * AI models and inference systems
 * Large Language Model (LLM)
 * Domain Specific Compiler
-* Fully Homorphic Cryptography (FHE)
+* Fully Homorphic Encryption (FHE)
 * Scientific Computing and numerical modeling
 
 
