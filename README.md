@@ -39,7 +39,7 @@
 My main research interests are :
 * Deep learning and machine learning algorithms
 * Scientific Computing and numerical modeling
-* Applied Physics ( High Power Electromagnetic Systems...)
+* Applied Physics 
 
 
 
