@@ -29,7 +29,7 @@
  ## About me 🧔‍♂️
  
  - PhD in Physics and former energy engineer
- - Amoung other things, i'm interested in solving complex problems, build AI-systems, cryptography, compilers and software engineering
+ - Amoung other things, i'm interested in solving complex problems using AI, numerical modeling, algorithms and software engineering.
  - I'm a cookery enthusiast, mountain bike practitioner and traveler
  - I have an amazing wife and two cats
 
@@ -37,11 +37,9 @@
 ## 👨‍🔬 Science
 
 My main research interests are :
-* AI models and inference systems
-* Large Language Model (LLM)
-* Domain Specific Compiler
-* Fully Homorphic Encryption (FHE)
+* Deep learning and machine learning algorithms
 * Scientific Computing and numerical modeling
+* Applied Physics ( High Power Electromagnetic Systems...)
 
 
 
