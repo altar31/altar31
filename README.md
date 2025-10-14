@@ -38,7 +38,7 @@
 
 My main research interests are :
 * Deep learning algorithms
-* (Multimodal) deep learning architectures
+* State Space models Networks (SSN)
 * Scientific Computing and numerical modeling
 
 
