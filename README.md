@@ -29,7 +29,7 @@
  ## About me 🧔‍♂️
  
  - PhD in Physics and former energy engineer
- - Amoung other things, i'm interested in solving complex problems, (low-power/multimodal) AI models/systems and software engineering.
+ - Amoung other things, i'm interested in solving complex problems, (low-power) AI models/systems and software engineering.
  - I'm a cookery enthusiast, mountain bike practitioner and traveler
  - I have an amazing wife and two cats
 
@@ -38,7 +38,7 @@
 
 My main research interests are :
 * Deep learning algorithms
-* State Space Models (SSM) deep learning architectures
+* Large Language Models (LLM) and inference engine
 * Scientific Computing and numerical modeling
 
 
