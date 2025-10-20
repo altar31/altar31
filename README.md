@@ -39,7 +39,7 @@
 My main research interests are :
 * Deep learning algorithms
 * Large Language Models (LLM), inference and serving engine
-* Federated Learing and Inference
+* Domain Specific Compiler 
 * Scientific Computing and numerical modeling
 
 
