@@ -30,7 +30,8 @@
  
  - PhD in Physics and former energy engineer
  - Amoung other things, i'm interested in solving complex problems, (low-power) AI models, LLM inference & serving engine and software engineering.
- - I'm a cookery enthusiast, mountain bike practitioner and traveler
+ -  I'm a [Nix & NixOS](https://nixos.org/) enthusiast
+ - I'm a bike practitioner, jogger and traveler
  - I have an amazing wife and two cats
 
 
