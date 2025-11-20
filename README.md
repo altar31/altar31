@@ -31,7 +31,6 @@
  - PhD in Physics and former energy engineer
  - Amoung other things, i'm interested in solving complex problems, \
    data processing systems, AI models and software engineering
-- I'am a polyglot programmer ( Rust, Typescript, Python ...) and i like to explore functional programming in my sparse time
  - I'm a bike practitioner, jogger and traveler
  - I have an amazing wife and two cats
 
@@ -40,6 +39,7 @@
 
 My main research interests are :
 * Deep learning algorithms
+* AI Inference Engine
 * (Real time) data-processing systems
 * Scientific Computing and numerical modeling
 
