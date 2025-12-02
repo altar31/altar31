@@ -29,8 +29,8 @@
  ## About me 🧔‍♂️
  
  - PhD in Physics and former energy engineer
- - Amoung other things, i'm interested in solving complex problems
-   by developping, using algorithms and software engineering
+ - Amoung other things, i'm interested in solving complex problems, \
+   (AI) algorithms and software engineering
  - I'm a bike practitioner, jogger and traveler
  - I have an amazing wife and two cats
 
