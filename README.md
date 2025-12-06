@@ -30,7 +30,7 @@
  
  - PhD in Physics and former energy engineer
  - Amoung other things, i'm interested in solving complex problems, \
-   ML algorithms, mathematical optimization and  software engineering
+   ML algorithms, eXplainable AI (XAI), mathematical optimization and software engineering
  - I'm a bike practitioner, jogger and traveler
  - I have an amazing wife and two cats
 
@@ -38,7 +38,8 @@
 ## 👨‍🔬 Science
 
 My main research interests are :
-* Machine learning
+* Machine/Deep learning
+* eXplainable AI (XAI)
 * Optimization algorithms
 * (Real time) data-processing systems
 * Scientific Computing and numerical modeling
