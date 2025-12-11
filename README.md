@@ -30,7 +30,7 @@
  
  - PhD in Physics and former energy engineer
  - Amoung other things, i'm interested in solving complex problems, \
-   ML algorithms, eXplainable AI (XAI), mathematical optimization and software engineering
+   ML algorithms, to build data systems and software engineering
  - I'm a bike practitioner, jogger and traveler
  - I have an amazing wife and two cats
 
