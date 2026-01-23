@@ -29,7 +29,7 @@
  ## About me 🧔‍♂️
  
  - PhD in Physics and former energy engineer
- - Amoung other things, i'm interested in solving complex problems, algorithms, and software engineering.
+ - Amoung other things, i'm interested in solving complex problems, algorithms, programming languages and software engineering.
  - I'm a bike practitioner, jogger and traveler
  - I have an amazing wife and two cats
 
@@ -37,10 +37,9 @@
 ## 👨‍🔬 Science
 
 My main research interests are :
+* Domain Specific Languages (DSL) design
 * Machine/Deep learning
-* eXplainable AI (XAI)
-* Optimization algorithms
-* (Real time) data-processing systems
+* Data-driven systems
 * Scientific Computing and numerical modeling
 
 
