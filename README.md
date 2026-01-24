@@ -37,7 +37,7 @@
 ## 👨‍🔬 Science
 
 My main research interests are :
-* Domain Specific Languages (DSL) design
+* Programming languages
 * Machine/Deep learning
 * Data-driven systems
 * Scientific Computing and numerical modeling
