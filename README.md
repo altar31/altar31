@@ -38,9 +38,9 @@
 ## 👨‍🔬 Science
 
 My main research interests are :
+* Distributed Systems
 * Secure Multi-Party Computation
 * Machine/Deep learning
-* Data-driven systems
 * Scientific Computing and numerical modeling
 
 
