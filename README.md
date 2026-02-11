@@ -38,8 +38,8 @@
 ## 👨‍🔬 Science
 
 My main research interests are :
-* Quantum computing/Quantum Machine Learning (QML)
 * Machine/Deep learning
+* Quantum computing/Quantum Machine Learning (QML)
 * Scientific Computing and numerical modeling
 
 
