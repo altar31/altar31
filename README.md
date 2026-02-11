@@ -30,7 +30,7 @@
  
  - PhD in Physics and former energy engineer
  - Amoung other things, i'm interested in solving complex problems, algorithms, AI, <br>
-   cryptography and software engineering.
+   quantum computing and software engineering.
  - I'm a bike practitioner, jogger and traveler
  - I have an amazing wife and two cats
 
@@ -38,8 +38,7 @@
 ## 👨‍🔬 Science
 
 My main research interests are :
-* Distributed Systems
-* Secure Multi-Party Computation
+* Quantum computing/Quantum Machine Learning (QML)
 * Machine/Deep learning
 * Scientific Computing and numerical modeling
 
