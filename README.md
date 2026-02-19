@@ -30,7 +30,7 @@
  
  - PhD in Physics and former energy engineer
  - Amoung other things, i'm interested in solving complex problems, algorithms, AI, <br>
-   quantum computing and software engineering.
+   Linux-based Operating System [(Gentoo)](https://www.gentoo.org/get-started/about/)  and software engineering.
  - I'm a bike practitioner, jogger and traveler
  - I have an amazing wife and two cats
 
@@ -39,7 +39,7 @@
 
 My main research interests are :
 * Machine/Deep learning
-* Quantum computing/Quantum Machine Learning (QML)
+* Linux-based Operating System ( Gentoo, metadistribution)
 * Scientific Computing and numerical modeling
 
 
