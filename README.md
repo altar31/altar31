@@ -30,7 +30,7 @@
  
  - PhD in Physics and former energy engineer
  - Amoung other things, i'm interested in solving complex problems, algorithms, AI, <br>
-   Linux Operating System and software engineering.
+   Model-Based Systems Engineering (MBSE), Linux Operating System and software engineering.
  - I'm a bike practitioner, jogger and traveler
  - I have an amazing wife and two cats
 
@@ -39,7 +39,8 @@
 
 My main research interests are :
 * Machine/Deep learning
-* (Linux) Operating System 
+* Linux Operating System
+* Model-Based Systems Engineering (MBSE)
 * Scientific Computing and numerical modeling
 
 
