@@ -39,8 +39,8 @@
 
 My main research interests are :
 * Machine/Deep learning
+* AI inference
 * Linux Operating System
-* Model-Based Systems Engineering (MBSE)
 * Scientific Computing and numerical modeling
 
 
