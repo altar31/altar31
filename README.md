@@ -38,7 +38,7 @@
 ## 👨‍🔬 Science
 
 My main research interests are :
-* Machine/Deep learning
+* Machine/Deep learning algorithms
 * GPU computing
 * Scientific Computing and numerical modeling
 
