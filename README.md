@@ -30,7 +30,7 @@
  
  - PhD in Physics and former energy engineer
  - Amoung other things, i'm interested in solving complex problems, algorithms, AI, <br>
-   GPU computing and software engineering.
+   vector database/embeddings, search engine and software engineering.
  - I'm a bike practitioner, jogger and traveler
  - I have an amazing wife and two cats
 
@@ -39,7 +39,7 @@
 
 My main research interests are :
 * Machine/Deep learning algorithms
-* GPU computing
+* Vector database
 * Scientific Computing and numerical modeling
 
 
