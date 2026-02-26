@@ -29,8 +29,8 @@
  ## About me 🧔‍♂️
  
  - PhD in Physics and former energy engineer
- - Amoung other things, i'm interested in solving complex problems, algorithms, AI, <br>
-   vector database/embeddings, search engine and software engineering.
+ - Amoung other things, i'm interested in solving complex problems, algorithms, deep learning, <br>
+   Scientific Machine Learning (SciML), numerical simulation and software engineering.
  - I'm a bike practitioner, jogger and traveler
  - I have an amazing wife and two cats
 
@@ -39,7 +39,8 @@
 
 My main research interests are :
 * Machine/Deep learning algorithms
-* Vector database
+* Scientific Machine Learning (SciML) : Physics Informed Neural Network, Neural Operators ...
+* GPU Computing
 * Scientific Computing and numerical modeling
 
 
