@@ -39,8 +39,8 @@
 
 My main research interests are :
 * Machine/Deep learning algorithms
+* AI Diffusion models
 * GPU computing
-* Domain Specific Compiler (MLIR/LLVM)
 * Scientific Computing and numerical modeling
 
 
