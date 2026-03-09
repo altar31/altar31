@@ -29,7 +29,7 @@
  ## About me 🧔‍♂️
  
  - PhD in Physics and former energy engineer
- - Amoung other things, i'm interested in solving complex problems, algorithms, AI, Agentic systems and software engineering
+ - Amoung other things, i'm interested in solving complex problems, algorithms, AI, database systems (OLAP/OLTP) and software engineering
  - I'm a bike practitioner, jogger and traveler
  - I have an amazing wife and two cats
 
@@ -38,8 +38,8 @@
 
 My main research interests are :
 * Machine/Deep learning algorithms
-* Generative AI and agentic systems 
-* GPU computing
+* Generative AI
+* Database systems (OLAP/OLTP)
 * Scientific Computing and numerical modeling
 
 
