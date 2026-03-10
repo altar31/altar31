@@ -38,7 +38,7 @@
 
 My main research interests are :
 * Machine/Deep learning algorithms
-* Generative AI
+* Generative/ Agentic AI
 * Scientific Computing and numerical modeling
 
 
