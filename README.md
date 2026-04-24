@@ -29,7 +29,7 @@
  ## About me 🧔‍♂️
  
  - PhD in Physics and former energy engineer
- - Amoung other things, i'm interested in solving complex problems, algorithms, machine/deep learning, <br>
+ - Amoung other things, i'm interested in solving complex problems, algorithms, computer vision,  deep learning, <br>
  and software engineering
  - I'm a bike practitioner, jogger and traveler
  - I have an amazing wife and two cats
@@ -39,6 +39,7 @@
 
 My main research interests are :
 
+* Computer Vision
 * Machine/Deep learning algorithms
 * Generative AI
 * Scientific Computing and numerical modeling
