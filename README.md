@@ -11,11 +11,6 @@ Our ambition: turn any camera into a precise measurement instrument for the phys
 
 Before founding Hexo Signal, I worked as an ML/Software Engineer at **[Sintermat](https://sinter-mat.com/en/homepage/)**, and before that at the crossroad of scientific research and engineering — with a PhD in physics, an engineering degree, and years of practice at the intersection of physical modeling, computer vision, and software engineering.
 
-## 🔬 What I work on
-
-- **Computer Vision**: monocular depth estimation, segmentation, tracking, motion analysis
-- **Deep Learning**: foundation models for video understanding, uncertainty quantification
-- **Software Engineering**: production ML pipelines, real-time systems, scientific tooling
 
 ## 🏗️ Hexo Signal Company
 
