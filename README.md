@@ -5,10 +5,20 @@
 
 ## 👋 Hi, I'm Damien
 
-I'm the founder of **[Hexo Signal](https://hexosignal.com)**, a French deeptech startup building multimodal and multiphysics perception systems for the detection and analysis of complex phenomena.
+I'm the founder of **[Hexo Signal](https://hexosignal.com)**, a French deeptech startup building computer vision systems that extract physical motion metrics from raw video — speed, trajectory, acceleration — without dedicated sensors or heavy calibration.
+
+Our ambition: turn any camera into a precise measurement instrument for the physical world.
 
 Before founding Hexo Signal, I worked as an ML/Software Engineer at **[Sintermat](https://sinter-mat.com/en/homepage/)**, and before that at the crossroad of scientific research and engineering — with a PhD in physics, an engineering degree, and years of practice at the intersection of physical modeling, computer vision, and software engineering.
 
+
+## 🏗️ Hexo Signal Company
+
+Computer vision for physical measurement of motion in raw video.
+
+→ [hexosignal.com](https://hexosignal.com)
+
+If you're working on related problems — computer vision, motion analysis, physical measurement from video — I'd love to connect.
 
 ## 📫 Reach me
 
