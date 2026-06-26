@@ -5,26 +5,22 @@
 
 ## 👋 Hi, I'm Damien
 
-I'm the founder of **[Hexo Signal](https://hexosignal.com)**, a French deeptech startup building computer vision systems that extract physical motion metrics from raw video — speed, trajectory, acceleration — without dedicated sensors or heavy calibration.
+Founder of **[Hexo Signal](https://hexosignal.com)** — a deeptech startup in Toulouse, France, building **AI systems that understand the physical world**. *Pixels in, physics out.*
 
-Our ambition: turn any camera into a precise measurement instrument for the physical world.
+Before that: I was a ML/Software Engineer at the french deeptech startup **[Sintermat](https://sinter-mat.com/en/homepage/)**, with a PhD in physics and an engineering degree.
 
-Before founding Hexo Signal, I worked as an ML/Software Engineer at **[Sintermat](https://sinter-mat.com/en/homepage/)**, and before that at the crossroad of scientific research and engineering — with a PhD in physics, an engineering degree, and years of practice at the intersection of physical modeling, computer vision, and software engineering.
+→ More at [hexosignal.com](https://hexosignal.com)
 
-
-## 🏗️ Hexo Signal Company
-
-Computer vision for physical measurement of motion in raw video.
-
-→ [hexosignal.com](https://hexosignal.com)
-
-If you're working on related problems — computer vision, motion analysis, physical measurement from video — I'd love to connect.
+If you work on computer vision, motion analysis, or physical measurement from video, I'd love to connect.
 
 ## 📫 Reach me
 
 <p align="center">
-    <a href="https://hexosignal.com" target="_blank">
+  <a href="https://hexosignal.com" target="_blank">
     <img src="https://img.shields.io/badge/Website-F4F5F2?style=for-the-badge&logo=safari&logoColor=2C2E2A" alt="Website" />
+  </a>
+  <a href="https://www.linkedin.com/company/hexo-signal" target="_blank">
+    <img src="https://img.shields.io/badge/Hexo_Signal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Hexo Signal on LinkedIn" />
   </a>
   <a href="https://www.linkedin.com/in/damien-sicard-phd-7b14a9122/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -32,7 +28,6 @@ If you're working on related problems — computer vision, motion analysis, phys
   <a href="mailto:contact@hexosignal.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-2C2E2A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-
 </p>
 
 ---
