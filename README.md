@@ -5,13 +5,11 @@
 
 ## 👋 Hi, I'm Damien
 
-Founder of **[Hexo Signal](https://hexosignal.com)** — a deeptech startup in Toulouse, France, building ** Very fast Computer Vision Systems** that estimate physical metrics from raw video. *Pixels in, physics out.*
+Founder of **[Hexo Signal](https://hexosignal.com)** — a deeptech startup in Toulouse, France, building **Computer Vision Systems** that turned pixels into meters. "*Pixels in, physics out.*"
 
 Before that: I was a ML/Software Engineer at the french deeptech startup **[Sintermat](https://sinter-mat.com/en/homepage/)**, with a PhD in physics and an engineering degree.
 
 → More at [hexosignal.com](https://hexosignal.com)
-
-If you work on computer vision, FPGA, motion analysis, or physical measurement from video, I'd love to connect.
 
 ## 📫 Reach me
 
