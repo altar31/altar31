@@ -5,7 +5,7 @@
 
 ## 👋 Hi, I'm Damien
 
-Founder of **[Hexo Signal](https://hexosignal.com)** : a cybersecurity (OffSec) company in Toulouse, France,
+Founder of **[Hexo Signal](https://hexosignal.com)** : a cybersecurity (OffSec) company in Toulouse, France.
 
 Before that: I was a ML/Software Engineer at the french deeptech startup **[Sintermat](https://sinter-mat.com/en/homepage/)**, with a PhD in physics and an engineering degree.
 
